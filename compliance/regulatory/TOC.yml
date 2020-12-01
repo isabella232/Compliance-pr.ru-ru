@@ -1,0 +1,384 @@
+- name: Предложения Майкрософт для соответствия требованиям
+  items:
+    - name: Глобальные
+      items:
+        - name: Контрольные показатели CIS
+          href: offering-cis-benchmark.md
+        - name: Аттестация CSA-STAR
+          href: offering-csa-star-attestation.md
+        - name: Сертификация CSA-STAR
+          href: offering-csa-star-certification.md
+        - name: Самостоятельная оценка CSA-STAR
+          href: offering-csa-star-self-assessment.md
+        - name: 'ISO: рекомендуемый план действий'
+          href: iso-action-plan.md
+        - name: ISO 20000-1-2011
+          href: offering-iso-20000-1-2011.md
+        - name: ISO 22301
+          href: offering-iso-22301.md
+        - name: ISO 27001
+          href: offering-iso-27001.md
+        - name: ISO 27017
+          href: offering-iso-27017.md
+        - name: ISO 27018
+          href: offering-iso-27018.md
+        - name: ISO 27701
+          href: offering-iso-27701.md
+        - name: ISO-9001
+          href: offering-iso-9001.md
+        - name: SOC
+          href: offering-soc.md
+        - name: WCAG
+          href: offering-wcag-2-1.md
+    - name: Государственные учреждения США
+      items:
+        - name: CJIS
+          href: offering-cjis.md
+        - name: CNSSI 1253
+          href: offering-cnssi-1253.md
+        - name: DFARS
+          href: offering-dfars.md
+        - name: 'DoD DISA L2,L4,L5'
+          href: offering-dod-disa-l2-l4-l5.md
+        - name: DoE 10 CFR часть 810
+          href: offering-doe-10-cfr-part-810.md
+        - name: EAR (правила экспортного контроля США)
+          href: offering-ear.md
+        - name: FedRAMP
+          href: offering-fedramp.md
+        - name: FIPS 140-2
+          href: offering-fips-140-2.md
+        - name: IRS 1075
+          href: offering-irs-1075.md
+        - name: ITAR
+          href: offering-itar.md
+        - name: 'NIST: рекомендуемый план действий'
+          href: nist-action-plan.md
+        - name: NIST 800-171
+          href: offering-nist-sp-800-171.md
+        - name: NIST CSF
+          href: offering-nist-csf.md
+        - name: Раздел 508 VPATS
+          href: offering-section-508-vpats.md
+    - name: Отраслевые
+      items:
+        - name: Образование
+          items:
+            - name: FERPA
+              href: offering-ferpa.md
+        - name: Энергетика
+          items:
+            - name: NERC
+              href: offering-nerc-cip.md
+        - name: Финансы
+          items:
+            - name: 23 NYCRR часть 500
+              href: offering-23-nycrr-part-500.md
+            - name: AFM + DNB (Нидерланды)
+              href: offering-afm-dnb-netherlands.md
+            - name: APRA (Австралия)
+              href: offering-apra-australia.md
+            - name: AMF и ACPR (Франция)
+              href: offering-amf-acpr-france.md
+            - name: 'КФТК 1,31 (США)'
+              href: offering-cftc-1-31-us.md
+            - name: EBA (ЕС)
+              href: offering-eba-eu.md
+            - name: FCA (Соединенное Королевство)
+              href: offering-fca-uk.md
+            - name: FFIEC (США)
+              href: offering-ffiec-us.md
+            - name: FINMA (Швейцария)
+              href: offering-finma-switzerland.md
+            - name: FINRA 4511
+              href: offering-finra-4511.md
+            - name: FISC (Япония)
+              href: offering-fisc-japan.md
+            - name: FSA (Дания)
+              href: offering-fsa-denmark.md
+            - name: GLBA
+              href: offering-glba.md
+            - name: KNF (Польша)
+              href: offering-knf-poland.md
+            - name: MAS + ABS (Сингапур)
+              href: offering-mas-abs-singapore.md
+            - name: NBB + FSMA (Бельгия)
+              href: offering-nbb-fsma-belgium.md
+            - name: OSFI (Канада)
+              href: offering-osfi-canada.md
+            - name: PCI DSS
+              href: offering-pci-dss.md
+            - name: RBI + IRDAI (Индия)
+              href: offering-rbi-irdai-india.md
+            - name: SEC 17a-4
+              href: offering-sec-17a-4.md
+            - name: SEC Regulation SCI
+              href: offering-sec-reg-sci.md
+            - name: SOC
+              href: offering-soc.md
+            - name: SOX
+              href: offering-sox.md
+            - name: TruSight
+              href: offering-trusight.md
+        - name: Здравоохранение
+          items:
+            - name: HDS (Франция)
+              href: offering-hds-france.md
+            - name: HIPAA/HITECH
+              href: offering-hipaa-hitech.md
+            - name: HITRUST
+              href: offering-hitrust.md
+            - name: MARS-E
+              href: offering-mars-e.md
+            - name: NEN-7510 (Нидерланды)
+              href: offering-nen-7510-netherlands.md
+        - name: Производство
+          items:
+            - name: FDA CFR Раздел 21 часть 11
+              href: offering-fda-cfr-title-21-part-11.md
+            - name: GxP
+              href: offering-gxp.md
+            - name: TISAX (Германия)
+              href: offering-tisax-germany.md
+        - name: СМИ
+          items:
+            - name: CDSA
+              href: offering-cdsa.md
+            - name: DPP (СОЕДИНЕННОЕ КОРОЛЕВСТВО)
+              href: offering-dpp-uk.md
+            - name: FACT (СОЕДИНЕННОЕ КОРОЛЕВСТВО)
+              href: offering-fact-uk.md
+            - name: MPAA
+              href: offering-mpaa.md
+        - name: Розничная торговля
+          items:
+            - name: 23 NYCRR часть 500
+              href: offering-23-nycrr-part-500.md
+            - name: AFM + DNB (Нидерланды)
+              href: offering-afm-dnb-netherlands.md
+            - name: AMF и ACPR (Франция)
+              href: offering-amf-acpr-france.md
+            - name: CDSA
+              href: offering-cdsa.md
+            - name: Контрольные показатели CIS
+              href: offering-cis-benchmark.md
+            - name: Аттестация CSA-STAR
+              href: offering-csa-star-attestation.md
+            - name: DoE 10 CFR часть 810
+              href: offering-doe-10-cfr-part-810.md
+            - name: DPP (СОЕДИНЕННОЕ КОРОЛЕВСТВО)
+              href: offering-dpp-uk.md
+            - name: EAR (правила экспортного контроля США)
+              href: offering-ear.md
+            - name: ENISA IAF (ЕС)
+              href: offering-enisa.md
+            - name: Типовые статьи ЕС
+              href: offering-eu-model-clauses.md
+            - name: EBA (ЕС)
+              href: offering-eba-eu.md
+            - name: Соглашение о правилах обмена конфиденциальной информацией между ЕС и США
+              href: offering-eu-us-privacy-shield.md
+            - name: FACT (СОЕДИНЕННОЕ КОРОЛЕВСТВО)
+              href: offering-fact-uk.md
+            - name: FCA (Соединенное Королевство)
+              href: offering-fca-uk.md
+            - name: FFIEC (США)
+              href: offering-ffiec-us.md
+            - name: FINMA (Швейцария)
+              href: offering-finma-switzerland.md
+            - name: GLBA
+              href: offering-glba.md
+            - name: HITRUST
+              href: offering-hitrust.md
+            - name: IRS 1075
+              href: offering-irs-1075.md
+            - name: ISO 27018
+              href: offering-iso-27018.md
+            - name: ISO-9001
+              href: offering-iso-9001.md
+            - name: ITAR
+              href: offering-itar.md
+            - name: KNF (Польша)
+              href: offering-knf-poland.md
+            - name: MARS-E
+              href: offering-mars-e.md
+            - name: MPAA
+              href: offering-mpaa.md
+            - name: NBB + FSMA (Бельгия)
+              href: offering-nbb-fsma-belgium.md
+            - name: NIST CSF
+              href: offering-nist-csf.md
+            - name: PCI DSS
+              href: offering-pci-dss.md
+            - name: Раздел 508 VPATS
+              href: offering-section-508-vpats.md
+            - name: Общие оценки
+              href: offering-shared-assessments.md
+            - name: SOC
+              href: offering-soc.md
+            - name: LOPD (Испания)
+              href: offering-lopd-spain.md
+            - name: Cyber Essentials Plus (Соединенное Королевство)
+              href: offering-cyber-essentials-plus-uk.md
+            - name: G-Cloud (Соединенное Королевство)
+              href: offering-g-cloud-uk.md
+    - name: Региональные
+      items:
+        - name: Азия
+          items:
+            - name: CS Mark (Gold) (Япония)
+              href: offering-cs-mark-gold-japan.md
+            - name: DJCP (Китай)
+              href: 'https://www.trustcenter.cn/compliance/default.html#DJCP'
+            - name: GB 18030 (Китай)
+              href: 'https://www.trustcenter.cn/compliance/default.html#GB18030'
+            - name: ISMS (Республика Корея)
+              href: offering-ISMS-korea.md
+            - name: MeitY (Индия)
+              href: offering-meity-india.md
+            - name: MTCS (Сингапур)
+              href: offering-mtcs-singapore.md
+            - name: My Number (Япония)
+              href: offering-my-number-act-japan.md
+            - name: TRUCS (Китай)
+              href: 'https://aka.ms/TRUCS-Compliance'
+        - name: Австралия и Тихоокеанский регион
+          items:
+            - name: APRA (Австралия)
+              href: offering-APRA-Australia.md
+            - name: IRAP/CCSL (Австралия)
+              href: offering-CCSL-IRAP-Australia.md
+            - name: Платформа NZ CC (Новая Зеландия)
+              href: offering-nz-cc-framework-nz.md
+        - name: Европа
+          items:
+            - name: BIR 2012 (Нидерланды)
+              href: offering-bir-2012-netherlands.md
+            - name: C5 (Германия)
+              href: offering-c5-germany.md
+            - name: Cyber Essentials Plus (Соединенное Королевство)
+              href: offering-cyber-essentials-plus-uk.md
+            - name: EN 301 549 (ЕС)
+              href: offering-en-301-549-eu.md
+            - name: ENS (Испания)
+              href: offering-ens-spain.md
+            - name: ENISA IAF (ЕС)
+              href: offering-enisa.md
+            - name: Типовые статьи ЕС
+              href: offering-eu-model-clauses.md
+            - name: Соглашение о правилах обмена конфиденциальной информацией между ЕС и США
+              href: offering-eu-us-privacy-shield.md
+            - name: G-Cloud (Соединенное Королевство)
+              href: offering-g-cloud-uk.md
+            - name: IDW PS 951 (Германия)
+              href: 'https://www.idw.de/the-idw/about-the-idw'
+            - name: IT Grundschutz Workbook (Германия)
+              href: offering-it-grundschutz-workbook-germany.md
+            - name: LOPD (Испания)
+              href: offering-lopd-spain.md
+            - name: PASF (Соединенное Королевство)
+              href: offering-pasf-uk.md
+            - name: Локализация персональных данных (Россия)
+              href: offering-russia-data-localization.md
+        - name: Северная Америка
+          items:
+            - name: Закон Калифорнии о защите персональных данных потребителей (CCPA)
+              href: offering-ccpa.md
+            - name: Канадские законы о защите конфиденциальности
+              href: offering-canadian-privacy-laws.md
+        - name: Южная Америка
+          items:
+            - name: PDPA (Аргентина)
+              href: offering-pdpa-argentina.md
+- name: общему регламенту по защите данных (GDPR).
+  items:
+    - name: Обзор GDPR
+      href: gdpr.md
+    - name: Рекомендуемый план действий для GDPR
+      href: gdpr-action-plan.md
+    - name: Защита информации в соответствии с требованиям GDPR
+      href: gdpr-information-protection.md
+    - name: Специалист по защите данных корпорации Майкрософт
+      href: gdpr-data-protection-officer.md
+    - name: Контрольные списки готовности к подотчетности
+      items:
+        - name: Контрольные списки готовности к подотчетности
+          href: gdpr-arc.md
+        - name: Azure и Dynamics 365
+          href: gdpr-arc-azure-dynamics.md
+        - name: Служба поддержки и Профессиональные услуги Майкрософт
+          href: gdpr-arc-prof-services.md
+        - name: Office 365
+          href: gdpr-arc-office365.md
+    - name: Запросы субъектов данных
+      items:
+        - name: Запросы субъектов данных
+          href: gdpr-data-subject-requests.md
+        - name: Управление запросами субъектов данных с помощью средства DSR Case
+          href: gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool.md
+        - name: Azure
+          href: gdpr-dsr-azure.md
+        - name: Службы Azure DevOps
+          href: gdpr-dsr-vsts.md
+        - name: "Dynamics\_365"
+          href: gdpr-dsr-dynamics365.md
+        - name: Intune
+          href: gdpr-dsr-intune.md
+        - name: Служба поддержки и Профессиональные услуги Майкрософт
+          href: gdpr-dsr-prof-services.md
+        - name: Office 365
+          href: gdpr-dsr-office365.md
+        - name: Семейство Visual Studio
+          href: gdpr-dsr-visual-studio-family.md
+        - name: Windows Enterprise
+          href: gdpr-dsr-windows.md
+    - name: Уведомление о нарушении
+      items:
+        - name: Уведомление о нарушении
+          href: gdpr-breach-notification.md
+        - name: Azure и Dynamics 365
+          href: gdpr-breach-azure-dynamics.md
+        - name: Служба поддержки и Профессиональные услуги Майкрософт
+          href: gdpr-breach-microsoft-support-professional-services.md
+        - name: Office 365
+          href: gdpr-breach-office365.md
+        - name: Windows Enterprise
+          href: gdpr-breach-windows.md
+    - name: Операторы влияния на защиту данных
+      items:
+        - name: Оценка влияния на защиту данных
+          href: gdpr-data-protection-impact-assessments.md
+        - name: Azure
+          href: gdpr-dpia-azure.md
+        - name: "Dynamics\_365"
+          href: gdpr-dpia-dynamics.md
+        - name: Служба поддержки и Профессиональные услуги Майкрософт
+          href: gdpr-dpia-prof-services.md
+        - name: Office 365
+          href: gdpr-dpia-office365.md
+        - name: Windows Enterprise
+          href: gdpr-dpia-windows.md
+    - name: GDPR для локальных серверов Office
+      items:
+        - name: GDPR для локальных серверов Office
+          href: gdpr-for-office-servers.md
+        - name: GDPR для SharePoint Server
+          href: gdpr-for-sharepoint-server.md
+        - name: GDPR для Exchange Server
+          href: gdpr-for-exchange-server.md
+        - name: GDPR для Skype для бизнеса Server & Lync Server
+          href: gdpr-for-skype-for-business-server.md
+        - name: GDPR для Project Server
+          href: gdpr-for-project-server.md
+        - name: GDPR для сервера Office Web Apps & Office Online Server
+          href: gdpr-for-office-online-server.md
+        - name: GDPR для локальных общих папок Windows Server
+          href: gdpr-for-on-premises-file-shares.md
+    - name: Дополнительные действия по экспорту данных
+      href: gdpr-system-generated-log-data.md
+    - name: GDPR для среды разработки и тестирования Office 365
+      href: gdpr-discovery-protection-reporting-in-Office365-dev-test-environment.md
+- name: Закон Калифорнии о защите персональных данных потребителей (CCPA)
+  items:
+    - name: 'CCPA: вопросы и ответы'
+      href: ccpa-faq.md
