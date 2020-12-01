@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b67fad5e0901af3384b5a3b4717763e6edab1bcd
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 52b8841f8d89571ea73fa469b05a776e0e0d3557
+ms.sourcegitcommit: 186caf3b458d014f127bdf6e2d927c413276d9e1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508254"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49520126"
 ---
 # <a name="datacenter-security-overview"></a>Обзор безопасности центра обработки данных
 
@@ -62,6 +62,6 @@ ms.locfileid: "49508254"
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | PE: 2: разрешения физического доступа <br> PE — 3: Управление физическим доступом <br> PE — 6: мониторинг физического доступа <br> PE – 11: Аварийное питание <br> PE – 13: Пожарная защита <br> PE – 14: контроль температуры и влажности <br> PE – 15: защита от повреждений воды | 24 сентября 2020 г. |
 | [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Отчет о применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Сертификация](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 11: физическая защита и безопасность окружающей среды | 22 февраля 2020 г. |
-| [ISO 27017 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Отчет о применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> Центра (https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports | A. 11: физическая защита и безопасность окружающей среды | 22 февраля 2020 г. |
+| [ISO 27017 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Отчет о применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Сертификация](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 11: физическая защита и безопасность окружающей среды | 22 февраля 2020 г. |
 | [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA — 39: элементы управления доступом к центру обработки данных <br> CA — 40: проверка подлинности центра обработки данных <br> CA — 41: двухфакторная проверка подлинности центра обработки данных <br> CA — 48: ведение журнала центра обработки данных | 30 сентября 2019 г. |
 | [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA — 39: элементы управления доступом к центру обработки данных <br> CA — 40: проверка подлинности центра обработки данных <br> CA — 41: двухфакторная проверка подлинности центра обработки данных <br> CA — 48: ведение журнала центра обработки данных | 30 сентября 2019 г. |
