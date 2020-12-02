@@ -1,5 +1,7 @@
-- name: Предложения Майкрософт для соответствия требованиям
+- name: Предложения Майкрософт по обеспечению соответствия требованиям
   items:
+    - name: Предложения Майкрософт по обеспечению соответствия требованиям
+      href: offering-home.yml
     - name: Глобальные
       items:
         - name: Контрольные показатели CIS
@@ -80,7 +82,7 @@
               href: offering-apra-australia.md
             - name: AMF и ACPR (Франция)
               href: offering-amf-acpr-france.md
-            - name: 'КФТК 1,31 (США)'
+            - name: CFTC 1.31 (США)
               href: offering-cftc-1-31-us.md
             - name: EBA (ЕС)
               href: offering-eba-eu.md
@@ -226,6 +228,8 @@
       items:
         - name: Азия
           items:
+            - name: ABS OSPAR (Сингапур)
+              href: offering-abs-ospar.md
             - name: CS Mark (Gold) (Япония)
               href: offering-cs-mark-gold-japan.md
             - name: DJCP (Китай)
@@ -290,7 +294,7 @@
           items:
             - name: PDPA (Аргентина)
               href: offering-pdpa-argentina.md
-- name: общему регламенту по защите данных (GDPR).
+- name: Общий регламент по защите данных (GDPR).
   items:
     - name: Обзор GDPR
       href: gdpr.md
@@ -314,11 +318,11 @@
       items:
         - name: Запросы субъектов данных
           href: gdpr-data-subject-requests.md
-        - name: Управление запросами субъектов данных с помощью средства DSR Case
+        - name: Управление запросами субъектов данных с помощью средства для работы с делами DSR
           href: gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool.md
         - name: Azure
           href: gdpr-dsr-azure.md
-        - name: Службы Azure DevOps
+        - name: Azure DevOps Services
           href: gdpr-dsr-vsts.md
         - name: "Dynamics\_365"
           href: gdpr-dsr-dynamics365.md
@@ -344,7 +348,7 @@
           href: gdpr-breach-office365.md
         - name: Windows Enterprise
           href: gdpr-breach-windows.md
-    - name: Операторы влияния на защиту данных
+    - name: Заявления о влиянии на защиту данных
       items:
         - name: Оценка влияния на защиту данных
           href: gdpr-data-protection-impact-assessments.md
@@ -366,17 +370,17 @@
           href: gdpr-for-sharepoint-server.md
         - name: GDPR для Exchange Server
           href: gdpr-for-exchange-server.md
-        - name: GDPR для Skype для бизнеса Server & Lync Server
+        - name: GDPR для Skype для бизнеса Server и Lync Server
           href: gdpr-for-skype-for-business-server.md
         - name: GDPR для Project Server
           href: gdpr-for-project-server.md
-        - name: GDPR для сервера Office Web Apps & Office Online Server
+        - name: GDPR для сервера Office Web Apps и Office Online Server
           href: gdpr-for-office-online-server.md
         - name: GDPR для локальных общих папок Windows Server
           href: gdpr-for-on-premises-file-shares.md
     - name: Дополнительные действия по экспорту данных
       href: gdpr-system-generated-log-data.md
-    - name: GDPR для среды разработки и тестирования Office 365
+    - name: GDPR для сред разработки и тестирования Office 365
       href: gdpr-discovery-protection-reporting-in-Office365-dev-test-environment.md
 - name: Закон Калифорнии о защите персональных данных потребителей (CCPA)
   items:
