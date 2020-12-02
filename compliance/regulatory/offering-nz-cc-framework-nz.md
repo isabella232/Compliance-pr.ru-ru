@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d573e78ddf0f6f4b9845635a37f8dc8f82350066
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: db1168d494fd5a8d0a31176ccccdff72dd096f1d
+ms.sourcegitcommit: c697549cdc5785e163bd6147cf0d95ba61b078fe
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508419"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528895"
 ---
 # <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Вопросы безопасности и конфиденциальности Новой Зеландии в облако для государственных учреждений
 
@@ -39,7 +39,7 @@ ms.locfileid: "49508419"
 
 Узнайте, как ускорить развертывание развернутой копии с помощью нашего плана безопасности и соответствия требованиям Azure: [скачать ответ Azure для платформы NZ CC](https://gallery.technet.microsoft.com/Response-to-GCIO-Cloud-e117bbb9)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-services"></a>Поддерживаемые облачные службы Майкрософт
 
 - [Azure и Azure для государственных организаций](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -66,7 +66,6 @@ ms.locfileid: "49508419"
 - [Требования для государственных учреждений для облачных вычислений](https://aka.ms/NZ-Cloud-Requirements)
 - [Облачные вычисления: вопросы безопасности и конфиденциальности данных (ИСПК)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
 - [Условия использования веб-служб Майкрософт](https://aka.ms/Online-Services-Terms)
-- [Office 365: СИМАИЛ интеграция и Эталонная архитектура](https://download.microsoft.com/download/8/5/9/859CDCEE-D293-47D8-9B6A-670B108B48E1/Microsoft_Office_365_white_paper_EN_US.pdf) (дополнительные рекомендации по использованию Microsoft NZ при внедрении облачной службы)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Ответы Майкрософт на "облачные вычисления ИПСК"
