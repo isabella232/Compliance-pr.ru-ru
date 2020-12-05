@@ -1,13 +1,12 @@
 ---
 title: Обязанности клиентов и партнеров в сфере облачных служб по обеспечению непрерывности бизнес-процессов предприятий
 description: Из этой статьи вы узнаете о том, что предпринимает корпорация Майкрософт, когда возникает инцидент, связанный с какой-либо ее службой. Это позволит вам оптимизировать свои планы по обеспечению непрерывности бизнес-процессов.
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: efcbc57f2b22c185f023fc49c928fbab86f1f02e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 979acd563ca73ad16d4729bfe96aa86c316714c5
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508571"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574771"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>Обязанности клиентов и партнеров в сфере облачных служб по управлению непрерывностью бизнес-процессов предприятий
 
