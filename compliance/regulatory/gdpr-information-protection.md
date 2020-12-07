@@ -5,7 +5,6 @@ keywords: Microsoft 365, Microsoft 365 для образования, докум
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
-ms.date: 04/13/2018
 f1.keywords:
 - NOCSH
 ms.author: bcarter
@@ -17,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 28b1c76cedd2f232165ac5ad3ee8eb186af554a4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 0f0ca41f3b69d595dcdb3f3d2049fe2a0f7a95e1
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508498"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574871"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Защита информации в соответствии с Общим регламентом по защите данных (GDPR) при помощи возможностей Microsoft 365
 
@@ -57,7 +56,7 @@ Azure Active Directory и другие компоненты Microsoft 365 пре
 Защита от угроз доступна в службах Microsoft 365. Вот несколько ресурсов для начала:
 
 - [Схема для обеспечения безопасности в Office 365: приоритеты на первые 30 и 90 дней, а также на большее количество дней.](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap) Эта схема включает рекомендации по реализации возможностей. 
-- [Защита от угроз в Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) Сведения о том, какие действия вам доступны в Центре безопасности Microsoft 365.
+- [Защита от угроз в Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats). Сведения о мерах защиты, которые вы можете принять, см. в центре безопасности Microsoft 365.
 - [Защита от угроз в Windows.](https://docs.microsoft.com/windows/security/threat-protection/) Сведения об Advanced Threat Protection в Защитнике Windows и других возможностях Windows 10.
 
 ## <a name="learn-more"></a>Дополнительные сведения
