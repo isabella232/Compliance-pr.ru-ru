@@ -6,7 +6,6 @@ author: BrendaCarter
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
-ms.date: 09/14/2018
 f1.keywords:
 - NOCSH
 ms.author: bcarter
@@ -16,12 +15,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: d33b96755eb5afd59bad307a47079b511e0d1203
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a74bbe03596d63cbd7f24bec7f23cbabf88390c1
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508384"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574781"
 ---
 # <a name="microsoft-365-nist-800-53-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>План обеспечения соответствия NIST 800-53 для Microsoft 365: основные приоритеты на первые 30, 90 и больше дней
 
@@ -48,7 +47,7 @@ Microsoft 365 позволяет управлять предприятием с
 |**Область**|**Задачи**|
 |:-----|:-----|
 |Ознакомьтесь с требованиями NIST 800-53 и рассмотрите возможность обращения к партнеру Майкрософт по консультациям.|•    В сотрудничестве с партнером корпорации Майкрософт выполните анализ несоответствий требованиям NIST 800-53 в вашей организации и составьте план исправления недочетов. <br>•   С помощью инструкций в статье [Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) определите и задокументируйте политики и процедуры для контроля доступа и предоставления информации, в которых будут рассмотрены цели, область применения, роли, обязанности, координирование работы организационных подразделений и соответствие требованиям.|
-|Изучите стратегию эшелонной обороны, встроенную в Microsoft 365.|•   Оценивайте и контролируйте риски, связанные с соответствием требованиям, при помощи [диспетчера соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) для оценки соблюдения NIST 800-53 в организации. Используйте средства контроля Центра безопасности Microsoft 365 для снижения рисков и управления ими, учитывая результаты оценки. <br>•   Используйте службу [Оценка безопасности (Майкрософт)](/security/office-365-security/office-365-secure-score.md) для отслеживания использования в организации возможностей обеспечения безопасности Microsoft 365 с течением времени как в Office 365, так и на компьютерах с Windows 10. <br>•  Узнайте о технологиях и стратегиях Майкрософт, используемых для [шифрования данных Office 365](https://docs.microsoft.com/microsoft-365/compliance/encryption), а также о стратегиях [защиты от атак типа "отказ в обслуживании"](https://docs.microsoft.com/office365/enterprise/office-365-defending-against-denial-of-service-attacks-overview) в Microsoft Cloud.|
+|Изучите стратегию эшелонной обороны, встроенную в Microsoft 365.|•   Оценивайте и контролируйте риски, связанные с соответствием требованиям, при помощи [диспетчера соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) для оценки соблюдения NIST 800-53 в организации. Используйте средства контроля Центра безопасности Microsoft 365 для снижения рисков и управления ими, учитывая результаты оценки. <br>•   Используйте службу [Оценка безопасности (Майкрософт)](/microsoft-365/security/mtp/microsoft-secure-score) для отслеживания использования в организации возможностей обеспечения безопасности Microsoft 365 с течением времени как в Office 365, так и на компьютерах с Windows 10. <br>•   Узнайте о технологиях и стратегиях Майкрософт, используемых для [шифрования данных Office 365](https://docs.microsoft.com/microsoft-365/compliance/encryption), а также о стратегиях [защиты от атак типа "отказ в обслуживании"](https://docs.microsoft.com/office365/enterprise/office-365-defending-against-denial-of-service-attacks-overview) в Microsoft Cloud.|
 |Защитите доступ пользователей и администраторов к Office 365.|• Внедрите [надежное управление учетными данными](https://docs.microsoft.com/azure/security/azure-ad-secure-steps#step-1---strengthen-your-credentials) для защиты учетных записей пользователей. <br> •  Ознакомьтесь с [рекомендуемыми политиками доступа в отношении устройств и удостоверений](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-365-policies-configurations) для служб Office 365.<br> •   Используйте [административные роли Office 365](https://support.office.com/article/understanding-administrative-roles-52f29955-6a60-435f-aba9-eb69c898606a) для внедрения доступа к средствам администрирования на основе ролей и для разделения административных обязанностей. Примечание: многим административным ролям в Office 365 соответствуют определенные роли в Exchange Online, SharePoint Online и Skype для бизнеса Online. Разделяйте разрешения, чтобы у отдельно взятого администратора не было большего доступа, чем необходимо.|
 |Обеспечьте возможность аудита всего доступа к системе согласно политикам аудита и учета в вашей организации.|• Включите [ведение журнала аудита](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) и [аудит почтовых ящиков](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing) для всех почтовых ящиков Exchange, чтобы выявлять в Office 365 потенциально опасные действия и обеспечить возможность криминалистического анализа в случае нарушения безопасности данных.|
 |||
