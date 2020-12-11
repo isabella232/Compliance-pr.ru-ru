@@ -13,49 +13,49 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 55c94de3fe6e1c1a827003dfdaa61b74d2d712d4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5a3b192e4c374dac4248300627e5659a1b5f66fd
+ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508530"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49620764"
 ---
-# <a name="gdpr-for-on-premises-windows-server-file-shares"></a><span data-ttu-id="f78e4-103">GDPR для локальных общих папок Windows Server</span><span class="sxs-lookup"><span data-stu-id="f78e4-103">GDPR for on-premises Windows Server file shares</span></span>
+# <a name="gdpr-for-on-premises-windows-server-file-shares"></a><span data-ttu-id="fba24-103">GDPR для локальных общих папок Windows Server</span><span class="sxs-lookup"><span data-stu-id="fba24-103">GDPR for on-premises Windows Server file shares</span></span>
 
-<span data-ttu-id="f78e4-104">Основной рекомендуемый подход для общих папок:</span><span class="sxs-lookup"><span data-stu-id="f78e4-104">The basic recommended approach for file shares is:</span></span>
+<span data-ttu-id="fba24-104">Основной рекомендуемый подход для общих папок:</span><span class="sxs-lookup"><span data-stu-id="fba24-104">The basic recommended approach for file shares is:</span></span>
 
--   <span data-ttu-id="f78e4-105">Используйте Azure Information Protection для пометки конфиденциальных данных.</span><span class="sxs-lookup"><span data-stu-id="f78e4-105">Use Azure Information Protection to label sensitive data.</span></span>
+-   <span data-ttu-id="fba24-105">Используйте Azure Information Protection для пометки конфиденциальных данных.</span><span class="sxs-lookup"><span data-stu-id="fba24-105">Use Azure Information Protection to label sensitive data.</span></span>
 
--   <span data-ttu-id="f78e4-106">Используйте сканер Azure Information Protection для поиска данных.</span><span class="sxs-lookup"><span data-stu-id="f78e4-106">Use Azure Information Protection scanner to find data.</span></span>
+-   <span data-ttu-id="fba24-106">Используйте сканер Azure Information Protection для поиска данных.</span><span class="sxs-lookup"><span data-stu-id="fba24-106">Use Azure Information Protection scanner to find data.</span></span>
 
-<span data-ttu-id="f78e4-107">Рекомендуемый подход для общих папок включает следующие действия:</span><span class="sxs-lookup"><span data-stu-id="f78e4-107">The recommended approach for files shares includes these steps:</span></span>
+<span data-ttu-id="fba24-107">Рекомендуемый подход для общих папок включает следующие действия:</span><span class="sxs-lookup"><span data-stu-id="fba24-107">The recommended approach for files shares includes these steps:</span></span>
 
-1.  <span data-ttu-id="f78e4-108">**Установите и настройте сканер Azure Information Protection.**</span><span class="sxs-lookup"><span data-stu-id="f78e4-108">**Install and configure Azure Information Protection scanner.**</span></span>
+1.  <span data-ttu-id="fba24-108">**Установите и настройте сканер Azure Information Protection.**</span><span class="sxs-lookup"><span data-stu-id="fba24-108">**Install and configure Azure Information Protection scanner.**</span></span>
 
-    -   <span data-ttu-id="f78e4-109">Выберите необходимые типы конфиденциальных данных.</span><span class="sxs-lookup"><span data-stu-id="f78e4-109">Decide which sensitive data types to use.</span></span>
+    -   <span data-ttu-id="fba24-109">Выберите необходимые типы конфиденциальных данных.</span><span class="sxs-lookup"><span data-stu-id="fba24-109">Decide which sensitive data types to use.</span></span>
 
-    -   <span data-ttu-id="f78e4-110">Укажите необходимые локальные и сетевые папки.</span><span class="sxs-lookup"><span data-stu-id="f78e4-110">Specify local folders and network shares to use.</span></span>
+    -   <span data-ttu-id="fba24-110">Укажите необходимые локальные и сетевые папки.</span><span class="sxs-lookup"><span data-stu-id="fba24-110">Specify local folders and network shares to use.</span></span>
 
-2.  <span data-ttu-id="f78e4-111">**Выполните цикл обнаружения.**</span><span class="sxs-lookup"><span data-stu-id="f78e4-111">**Complete a discovery cycle.**</span></span>
+2.  <span data-ttu-id="fba24-111">**Выполните цикл обнаружения.**</span><span class="sxs-lookup"><span data-stu-id="fba24-111">**Complete a discovery cycle.**</span></span>
 
-    -   <span data-ttu-id="f78e4-112">Запустите сканер в режиме обнаружения и проверьте обнаруженные данные.</span><span class="sxs-lookup"><span data-stu-id="f78e4-112">Run the scanner in discovery mode and validate the findings.</span></span>
+    -   <span data-ttu-id="fba24-112">Запустите сканер в режиме обнаружения и проверьте обнаруженные данные.</span><span class="sxs-lookup"><span data-stu-id="fba24-112">Run the scanner in discovery mode and validate the findings.</span></span>
 
-    -   <span data-ttu-id="f78e4-113">При необходимости оптимизируйте условия и типы конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="f78e4-113">If needed, optimize the conditions and sensitive information types.</span></span>
+    -   <span data-ttu-id="fba24-113">При необходимости оптимизируйте условия и типы конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="fba24-113">If needed, optimize the conditions and sensitive information types.</span></span>
 
-    -   <span data-ttu-id="f78e4-114">Оцените ожидаемое воздействие автоматического применения меток.</span><span class="sxs-lookup"><span data-stu-id="f78e4-114">Assess the expected impact of automatically applying labels.</span></span>
+    -   <span data-ttu-id="fba24-114">Оцените ожидаемое воздействие автоматического применения меток.</span><span class="sxs-lookup"><span data-stu-id="fba24-114">Assess the expected impact of automatically applying labels.</span></span>
 
-3.  <span data-ttu-id="f78e4-115">**Запустите сканер Azure Information Protection для применения меток к соответствующим документам**.</span><span class="sxs-lookup"><span data-stu-id="f78e4-115">**Run the Azure Information Protection scanner to apply labels to qualifying documents**.</span></span>
+3.  <span data-ttu-id="fba24-115">**Запустите сканер Azure Information Protection для применения меток к соответствующим документам**.</span><span class="sxs-lookup"><span data-stu-id="fba24-115">**Run the Azure Information Protection scanner to apply labels to qualifying documents**.</span></span>
 
-4.  <span data-ttu-id="f78e4-116">**Для защиты:**</span><span class="sxs-lookup"><span data-stu-id="f78e4-116">**For protection:**</span></span>
+4.  <span data-ttu-id="fba24-116">**Для защиты:**</span><span class="sxs-lookup"><span data-stu-id="fba24-116">**For protection:**</span></span>
 
-    -   <span data-ttu-id="f78e4-117">Настройте правила защиты от потери данных в Exchange, чтобы защитить документы с нужной меткой.</span><span class="sxs-lookup"><span data-stu-id="f78e4-117">Configure Exchange data loss prevention rules to protect documents with the desired label.</span></span>
+    -   <span data-ttu-id="fba24-117">Настройте правила защиты от потери данных в Exchange, чтобы защитить документы с нужной меткой.</span><span class="sxs-lookup"><span data-stu-id="fba24-117">Configure Exchange data loss prevention rules to protect documents with the desired label.</span></span>
 
-    -   <span data-ttu-id="f78e4-118">Обязательно используйте разрешения, чтобы ограничить доступ к файлам.</span><span class="sxs-lookup"><span data-stu-id="f78e4-118">Be sure to use permissions to limit who can access files.</span></span>
+    -   <span data-ttu-id="fba24-118">Обязательно используйте разрешения, чтобы ограничить доступ к файлам.</span><span class="sxs-lookup"><span data-stu-id="fba24-118">Be sure to use permissions to limit who can access files.</span></span>
 
-5.  <span data-ttu-id="f78e4-119">**Интегрируйте журналы Windows Server со средством SIEM для мониторинга.**</span><span class="sxs-lookup"><span data-stu-id="f78e4-119">**For monitoring, integrate Windows Server logs with a SIEM tool.**</span></span>
+5.  <span data-ttu-id="fba24-119">**Интегрируйте журналы Windows Server со средством SIEM для мониторинга.**</span><span class="sxs-lookup"><span data-stu-id="fba24-119">**For monitoring, integrate Windows Server logs with a SIEM tool.**</span></span>
 
-    -   <span data-ttu-id="f78e4-p101">Чтобы находить персональные данные для запросов субъектов данных, используйте сканер Azure Information Protection. Вы также можете включить обход общих папок в настройках поиска SharePoint Server.</span><span class="sxs-lookup"><span data-stu-id="f78e4-p101">To find personal data for data subject requests, use Azure Information Protection scanner. You can also configure SharePoint Server search to crawl file shares.</span></span>
+    -   <span data-ttu-id="fba24-p101">Чтобы находить персональные данные для запросов субъектов данных, используйте сканер Azure Information Protection. Вы также можете включить обход общих папок в настройках поиска SharePoint Server.</span><span class="sxs-lookup"><span data-stu-id="fba24-p101">To find personal data for data subject requests, use Azure Information Protection scanner. You can also configure SharePoint Server search to crawl file shares.</span></span>
 
-<span data-ttu-id="f78e4-122">Дополнительные сведения об использовании сканера Azure Information Protection для поиска и пометки персональных данных см. в наборе средств для обнаружения данных GDPR (Майкрософт) на странице [https://aka.ms/gdprpartners](<https://aka.ms/gdprpartners>).</span><span class="sxs-lookup"><span data-stu-id="f78e4-122">For more information on using Azure Information Protection scanner to find and label personal data, see the Microsoft GDPR Data Discovery Toolkit at [https://aka.ms/gdprpartners](<https://aka.ms/gdprpartners>).</span></span>
+<span data-ttu-id="fba24-122">Дополнительные сведения об использовании сканера Azure Information Protection для поиска и пометки персональных данных см. в разделе [Развертывание сканера AIP](<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).</span><span class="sxs-lookup"><span data-stu-id="fba24-122">For more information on using Azure Information Protection scanner to find and label personal data, see [Deploy AIP Scanner](<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).</span></span>
 
-<span data-ttu-id="f78e4-p102">Сведения о настройке сканера в соответствии с условиями и использовании типов конфиденциальной информации для защиты от потери данных (DLP) в Office 365 см. в статье [Как настроить условия для автоматической и рекомендуемой классификации с помощью Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Обратите внимание, что новые типы конфиденциальной информации Office 365 не сразу станут доступны для использования в сканере. Кроме того, в нем невозможно использовать пользовательские типы конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="f78e4-p102">For information on configuring the scanner for conditions and using the Office 365 data loss prevention (DLP) sensitive information types, see [How to configure conditions for automatic and recommended classification for Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Note that new Office 365 sensitive information types will not be immediately available to use with the scanner and custom sensitive information types cannot be used with the scanner.</span></span>
+<span data-ttu-id="fba24-p102">Сведения о настройке сканера в соответствии с условиями и использовании типов конфиденциальной информации для защиты от потери данных (DLP) в Office 365 см. в статье [Как настроить условия для автоматической и рекомендуемой классификации с помощью Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Обратите внимание, что новые типы конфиденциальной информации Office 365 не сразу станут доступны для использования в сканере. Кроме того, в нем невозможно использовать пользовательские типы конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="fba24-p102">For information on configuring the scanner for conditions and using the Office 365 data loss prevention (DLP) sensitive information types, see [How to configure conditions for automatic and recommended classification for Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Note that new Office 365 sensitive information types will not be immediately available to use with the scanner and custom sensitive information types cannot be used with the scanner.</span></span>
