@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 5a3b192e4c374dac4248300627e5659a1b5f66fd
-ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
+ms.openlocfilehash: b750fcc6bceec12a13b909e65dc6283b8938c6da
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49620764"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669730"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>GDPR для локальных общих папок Windows Server
 
@@ -56,6 +56,6 @@ ms.locfileid: "49620764"
 
     -   Чтобы находить персональные данные для запросов субъектов данных, используйте сканер Azure Information Protection. Вы также можете включить обход общих папок в настройках поиска SharePoint Server.
 
-Дополнительные сведения об использовании сканера Azure Information Protection для поиска и пометки персональных данных см. в разделе [Развертывание сканера AIP](<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).
+Дополнительные сведения об использовании сканера Azure Information Protection для поиска и пометки персональных данных см. в разделе [Развертывание сканера AIP](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).
 
 Сведения о настройке сканера в соответствии с условиями и использовании типов конфиденциальной информации для защиты от потери данных (DLP) в Office 365 см. в статье [Как настроить условия для автоматической и рекомендуемой классификации с помощью Azure Information Protection](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Обратите внимание, что новые типы конфиденциальной информации Office 365 не сразу станут доступны для использования в сканере. Кроме того, в нем невозможно использовать пользовательские типы конфиденциальной информации.
