@@ -10,13 +10,13 @@
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory'
 - name: Ведение журнала аудита
   items:
-    - name: Обзор ведения журнала аудита
+    - name: Обзор журнала аудита
       href: assurance-audit-logging.md
-    - name: Мониторинг управления доступом и управление ими
+    - name: Контроль и мониторинг управления доступом
       href: assurance-monitoring-and-auditing-access-controls.md
-    - name: Внутреннее ведение журнала для инженеров
+    - name: Внутреннее ведение журнала проектирования
       href: assurance-internal-logging.md
-    - name: Аудит и создание отчетов в облачных службах
+    - name: Аудит и создание отчетов облачных служб
       href: assurance-auditing-and-reporting-overview.md
     - name: Функции создания отчетов
       href: assurance-reporting-features.md
@@ -34,65 +34,65 @@
       href: assurance-encryption-in-transit.md
     - name: Шифрование для служб Microsoft 365
       href: assurance-encryption-for-microsoft-365-services.md
-    - name: Шифрование служб для данных — на всех остальных
+    - name: Шифрование служб неактивных данных?
       href: 'https://docs.microsoft.com/microsoft-365/compliance/office-365-service-encryption'
     - name: Шифрование писем в Microsoft 365
       href: 'https://docs.microsoft.com/microsoft-365/compliance/email-encryption'
     - name: Как Exchange Online защищает секреты вашей электронной почты
       href: 'https://docs.microsoft.com/microsoft-365/compliance/exchange-online-secures-email-secrets'
-    - name: Использование протокола TLS для защиты подключений электронной почты в Exchange Online
+    - name: Использование протокола TLS службой Exchange Online для защиты электронной почты
       href: 'https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections'
-    - name: BitLocker и диспетчер распределенных ключей (DKM) для шифрования
+    - name: BitLocker и распределенный диспетчер ключей (DKM) для шифрования
       href: 'https://docs.microsoft.com/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption'
-    - name: Технические справочные сведения о шифровании
+    - name: Технические сведения о шифровании
       href: 'https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption'
 - name: Управление
   items:
-    - name: Общие сведения об управление
+    - name: Обзор управления
       href: assurance-governance.md
     - name: Контроль качества обслуживания в Центре безопасности и соответствия требованиям
       href: 'https://docs.microsoft.com/microsoft-365/compliance/service-assurance'
-- name: Кадры
+- name: Управление персоналом
   items:
-    - name: Обзор отдела кадров
+    - name: Обзор управления персоналом
       href: assurance-human-resources.md
-    - name: Предварительный отбор для предварительной занятости (Майкрософт)
+    - name: Проверка перед трудоустройством в корпорацию Майкрософт
       href: assurance-pre-employment-screening.md
-    - name: Фоновая проверка в облаке Майкрософт
+    - name: Фоновая проверка облака Microsoft
       href: assurance-cloud-background-check.md
-- name: Управление идентификацией и доступом
+- name: Управление удостоверениями и доступом
   items:
     - name: Обзор управления удостоверениями и доступом
       href: assurance-identity-and-access-management.md
-    - name: Элементы управления административным доступом
+    - name: Административные элементы управления доступом
       href: assurance-administrative-access-controls-overview.md
-    - name: Технологические элементы
+    - name: Технологические элементы управления
       href: assurance-technology-controls.md
     - name: Защищенное хранилище
       href: 'https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests'
-    - name: Элементы управления корпоративным доступом в Yammer
+    - name: Элементы управления доступом к Yammer корпоративный
       href: assurance-yammer-enterprise-access-controls.md
 - name: Управление инцидентами
   items:
     - name: Обзор управления инцидентами
       href: assurance-incident-management.md
-- name: Безопасность сети
+- name: Сетевая безопасность
   items:
-    - name: Общие сведения о безопасности сети
+    - name: Обзор сетевой безопасности
       href: assurance-network-security.md
-    - name: Защита от атак типа "отказ в обслуживании"
+    - name: Защита от отказа в обслуживании
       href: assurance-defending-cloud-services-against-dos-attacks.md
-    - name: Стратегия защиты от атак типа "отказ в обслуживании"
+    - name: Стратегия защиты от отказа в обслуживании
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: Основные принципы защиты от атак типа "отказ в обслуживании"
+    - name: Основные принципы защиты от отказа в обслуживании
       href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Обнаружение вирусов в службах Microsoft 365
       href: 'https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo'
 - name: Конфиденциальность
   items:
-    - name: Общие сведения о конфиденциальности
+    - name: Обзор конфиденциальности
       href: assurance-privacy.md
-    - name: Где хранятся данные клиента Майкрософт 365
+    - name: Где хранятся данные клиентов Microsoft 365
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/o365-data-locations'
     - name: 'Хранение, удаление и уничтожение данных'
       href: assurance-data-retention-deletion-and-destruction-overview.md
@@ -102,7 +102,7 @@
       href: assurance-exchange-online-data-deletion.md
     - name: Удаление данных в SharePoint Online
       href: assurance-sharepoint-online-data-deletion.md
-    - name: Microsoft 365 неизменность данных
+    - name: Неизменность данных Microsoft 365
       href: assurance-data-immutability.md
 - name: Устойчивость и непрерывность
   items:
@@ -110,15 +110,15 @@
       href: assurance-resiliency-and-continuity.md
     - name: Устойчивость облачной службы
       href: assurance-m365-service-resiliency.md
-    - name: Service health and continuity
+    - name: Работоспособность и непрерывная работа служб
       href: 'https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity'
-    - name: Пределы ресурсов служб
+    - name: Ограничения ресурсов служб
       href: assurance-resource-limits.md
     - name: Устойчивость данных
       href: assurance-data-resiliency-overview.md
-    - name: Работа с повреждением данных
+    - name: Меры в отношении повреждения данных
       href: assurance-dealing-with-data-corruption.md
-    - name: Мониторинг данных и самостоятельная восстановление
+    - name: Мониторинг и самовосстановление данных
       href: assurance-monitoring-and-self-healing.md
     - name: Устойчивость данных Exchange Online
       href: assurance-exchange-data-resiliency.md
@@ -130,31 +130,31 @@
       href: assurance-developing-your-ebcm-plan.md
     - name: Стратегии уменьшения отрицательных последствий инцидентов обслуживания
       href: assurance-microsoft-365-mitigations.md
-    - name: Планирование бесперебойной работы и обучение пользователей
+    - name: Отработка и обучение пользователей планированию непрерывной работы
       href: assurance-ebcm-plan-rehearsal-and-user-training.md
 - name: Управление рисками
   items:
-    - name: Общие сведения об управлении рисками
+    - name: Обзор управления рисками
       href: assurance-risk-management.md
-- name: Разработка и работа системы безопасности
+- name: Разработка и использование безопасного ПО
   items:
-    - name: Обзор разработки и работы системы безопасности
+    - name: Обзор разработки и управления безопасностью
       href: assurance-security-development-and-operation.md
 - name: Мониторинг безопасности
   items:
-    - name: Общие сведения о мониторинге безопасности
+    - name: Обзор мониторинга безопасности
       href: assurance-security-monitoring.md
 - name: Управление поставщиками
   items:
     - name: Обзор управления поставщиками
       href: assurance-supplier-management.md
-- name: Управление уязвимостью
+- name: Управление уязвимостями
   items:
-    - name: Общие сведения об управлении уязвимостью
+    - name: Обзор управления уязвимостями
       href: assurance-vulnerability-management.md
-    - name: Защита от вредоносных программ и вредоносных программ
+    - name: Защита от вредоносных программ и программ-шантажистов
       href: assurance-malware-and-ransomware-protection.md
-    - name: Имитация атак в Microsoft 365
+    - name: Имитация атаки в Microsoft 365
       href: assurance-monitoring-and-testing.md
 - name: Основы безопасности Azure
   items:
