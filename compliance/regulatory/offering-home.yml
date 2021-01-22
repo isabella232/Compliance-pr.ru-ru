@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Предложения Майкрософт для соответствия требованиям
-summary: Узнайте, как продукты и службы Майкрософт помогают вашей организации соответствовать стандартам соответствия нормативным требованиям.
+summary: Узнайте, как продукты и службы Майкрософт помогают вашей организации соответствовать нормативным стандартам.
 brand: m365
 metadata:
-  title: Предоставление соответствия требованиям для Microsoft 365, Azure и других служб Майкрософт.
-  description: Узнайте, как продукты и службы Майкрософт помогают вашей организации соответствовать стандартам соответствия нормативным требованиям.
+  title: Предложения по обеспечению соответствия требованиям для Microsoft 365, Azure и других служб Майкрософт.
+  description: Узнайте, как продукты и службы Майкрософт помогают вашей организации соответствовать нормативным стандартам.
   services: service
   ms.service: O365-seccomp
   ms.subservice: subservice
@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 82d7c9b4c39d4916a81d08abb34c3d8bc6d65b31
-  ms.sourcegitcommit: db4bd64256f52087d450c2f7fd4632718aa2c33d
+  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
+  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "49588703"
+  ms.lasthandoff: 01/22/2021
+  ms.locfileid: "49924852"
 conceptualContent:
-  title: Предоставление соответствия требованиям для Microsoft 365, Azure и других служб Майкрософт
-  summary: Корпорация Майкрософт предоставляет рекомендации по обеспечению соответствия требованиям национальной, региональной и отраслевой требований, регулирующих сбор и использование данных.
+  title: Предложения по обеспечению соответствия требованиям для Microsoft 365, Azure и других служб Майкрософт
+  summary: Корпорация Майкрософт предоставляет предложения по обеспечению соответствия требованиям, которые помогают вашей организации соответствовать региональным, региональным и отраслевым требованиям, регулятивным сбором и использованием данных.
   items:
   - title: Глобальные
     links:
@@ -64,13 +64,13 @@ conceptualContent:
       text: DFARS
     - url: offering-dod-disa-l2-l4-l5.md
       itemType: reference
-      text: DoD Диса L2, на уровне 4, 5
+      text: DoD DISA L2, L4, L5
     - url: offering-doe-10-cfr-part-810.md
       itemType: reference
       text: DoE 10 CFR часть 810
     - url: offering-ear.md
       itemType: reference
-      text: ГОД (экспорт ADM для США). Reg.)
+      text: EAR (US Export Adm. Reg.)
     - url: offering-fedramp.md
       itemType: reference
       text: FedRAMP
@@ -110,7 +110,7 @@ conceptualContent:
       text: AMF и ACPR (Франция)
     - url: offering-cftc-1-31-us.md
       itemType: reference
-      text: КФТК 1,31 (США)
+      text: CFTC 1.31 (США)
     - url: offering-eba-eu.md
       itemType: reference
       text: EBA (ЕС)
@@ -150,7 +150,7 @@ conceptualContent:
       text: HDS (Франция)
     - url: offering-hipaa-hitech.md
       itemType: reference
-      text: HIPAA/HITECH
+      text: HIPAA / HITECH
     - url: offering-hitrust.md
       itemType: reference
       text: HITRUST
@@ -193,13 +193,13 @@ conceptualContent:
       text: C5 (Германия)
     - url: offering-ccpa.md
       itemType: reference
-      text: ККПА (США-Калифорния)
-    - url: offering-ccsl-irap-australia.md
+      text: CCPA (США,Калифорния)
+    - url: offering-irap-australia.md
       itemType: reference
-      text: ИРАП/CCSL (Австралия)
+      text: IRAP (Австралия)
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
-      text: CS-метка Gold (Япония)
+      text: CS Mark Gold (Япония)
     - url: https://www.trustcenter.cn/compliance/default.html#DJCP
       itemType: reference
       text: DJCP (Китай)
@@ -216,7 +216,7 @@ conceptualContent:
       text: Типовые статьи ЕС
     - url: offering-eu-us-privacy-shield.md
       itemType: reference
-      text: Панель конфиденциальности ЕС — США
+      text: Правила защиты конфиденциальности между ЕС и США
     - url: https://www.trustcenter.cn/compliance/default.html#GB18030
       itemType: reference
       text: GB 18030 (Китай)
@@ -260,8 +260,8 @@ conceptualContent:
       text: TRUCS (Китай)
 additionalContent:
   sections:
-  - title: Требования соответствия требованиям для Azure
-    summary: Соответствие требованиям, предъявляемым в Azure, для обеспечения соответствия требованиям национальной, региональной и отраслевых требований, регулирующих сбор и использование данных.
+  - title: Предложения по обеспечению соответствия требованиям специально для Azure
+    summary: Предложения по обеспечению соответствия требованиям специально для Azure, которые помогают вашей организации соблюдать национальные, региональные и отраслевые требования, регулирующие сбор и использование данных.
     items:
     - title: Глобальные
       links:
@@ -297,7 +297,7 @@ additionalContent:
         url: offering-nerc-cip.md
       - text: PCI DSS
         url: offering-pci-dss.md
-      - text: SCI (с нормативами)
+      - text: SCI нормативов SEC
         url: offering-sec-reg-sci.md
       - text: Общие оценки
         url: offering-shared-assessments.md
@@ -305,7 +305,7 @@ additionalContent:
         url: offering-tisax-germany.md
     - title: Региональные
       links:
-      - text: ОСПАР ABS (Сингапур)
+      - text: ABS OSPAR (Сингапур)
         url: offering-abs-ospar.md
       - text: Канадские законы о защите конфиденциальности
         url: offering-canadian-privacy-laws.md
