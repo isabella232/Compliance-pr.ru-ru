@@ -1,6 +1,6 @@
 - name: Предложения Майкрософт по обеспечению соответствия требованиям
   items:
-    - name: Предложения Майкрософт по обеспечению соответствия требованиям
+    - name: Предложения Майкрософт для соответствия требованиям
       href: offering-home.yml
     - name: Глобальные
       items:
@@ -250,8 +250,8 @@
           items:
             - name: APRA (Австралия)
               href: offering-APRA-Australia.md
-            - name: IRAP/CCSL (Австралия)
-              href: offering-CCSL-IRAP-Australia.md
+            - name: IRAP (Австралия)
+              href: offering-IRAP-Australia.md
             - name: Платформа NZ CC (Новая Зеландия)
               href: offering-nz-cc-framework-nz.md
         - name: Европа
