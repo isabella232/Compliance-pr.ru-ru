@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c0f12f2363d333a5ce1d1e41aa8376fba4938631
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: da6f212ca993a9e5887f32fe2c0fcc77e425f2e8
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508334"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937014"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Управление ревизора финансовых учреждений (OSFI) Канады
 
@@ -71,12 +71,11 @@ ms.locfileid: "49508334"
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
-[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. Узнайте, как [создавать оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Ресурсы
 
 - [Программа соответствия финансовых услуг Microsoft Financial Services Compliance Program](https://aka.ms/FSCP-Print)
 - [Облачные службы Майкрософт для бизнеса и финансовые услуги](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Соответствие финансовых услуг требованиям в Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Средство оценки облачных рисков для финансовых услуг в Azure](https://aka.ms/FFIEC-CSDT)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

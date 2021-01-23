@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d860cf04b91143a65a9b0fd4aad090968a7de7a1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6a952d33a440681acc3dd5057c8a7e175e57bfa9
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508482"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937024"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Управление по финансовым рынкам Нидерландов и Центральный банк Нидерландов
 
@@ -81,5 +81,4 @@ ms.locfileid: "49508482"
 - [Программа соответствия финансовых услуг Microsoft Financial Services Compliance Program](https://aka.ms/FSCP-Print)
 - [Облачные службы Майкрософт для бизнеса и финансовые услуги](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Соответствие финансовых услуг требованиям в Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Средство оценки облачных рисков для финансовых услуг в Azure](https://aka.ms/FFIEC-CSDT)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)
