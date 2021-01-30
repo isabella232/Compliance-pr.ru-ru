@@ -76,6 +76,16 @@
   items:
     - name: Обзор управления инцидентами
       href: assurance-incident-management.md
+    - name: 'Управление инцидентами, связанными с безопасностью, в Microsoft 365 '
+      href: assurance-security-incident-management.md
+    - name: 'Подготовка к управлению инцидентами, связанными с безопасностью'
+      href: assurance-sim-preparation.md
+    - name: 'Управление инцидентами, связанными с безопасностью, уничтожение и восстановление'
+      href: assurance-sim-containment-eradication-recovery.md
+    - name: 'Обнаружение и анализ управления инцидентами, связанными с безопасностью'
+      href: assurance-sim-detection-analysis.md
+    - name: 'Действия по управлению инцидентами, связанными с безопасности, после инцидента'
+      href: assurance-sim-post-incident-activity.md
 - name: Сетевая безопасность
   items:
     - name: Обзор сетевой безопасности
