@@ -80,10 +80,10 @@
       href: assurance-security-incident-management.md
     - name: 'Подготовка к управлению инцидентами, связанными с безопасностью'
       href: assurance-sim-preparation.md
-    - name: 'Управление инцидентами, связанными с безопасностью, уничтожение и восстановление'
-      href: assurance-sim-containment-eradication-recovery.md
     - name: 'Обнаружение и анализ управления инцидентами, связанными с безопасностью'
       href: assurance-sim-detection-analysis.md
+    - name: 'Управление инцидентами, связанными с безопасностью, уничтожение и восстановление'
+      href: assurance-sim-containment-eradication-recovery.md
     - name: 'Действия по управлению инцидентами, связанными с безопасности, после инцидента'
       href: assurance-sim-post-incident-activity.md
 - name: Сетевая безопасность
@@ -132,6 +132,8 @@
       href: assurance-monitoring-and-self-healing.md
     - name: Устойчивость данных Exchange Online
       href: assurance-exchange-data-resiliency.md
+    - name: Устойчивость данных SharePoint и OneDrive
+      href: assurance-sharepoint-onedrive-data-resiliency.md
     - name: Управление непрерывностью бизнес-процессов в компании (УНБК) с помощью облачных служб
       href: assurance-understanding-ebcm-with-cloud-services.md
     - name: Обязанности клиентов и партнеров по облаку в отношении УНБК
