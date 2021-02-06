@@ -18,20 +18,20 @@ ms.collection:
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 0fc7f7bd383610252fbfe42207cef77b59203531
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f1171e8d5bcac53ad9ddb699a541c0e25494b238
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508826"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121088"
 ---
 # <a name="gdpr-breach-notification"></a>Уведомление о нарушении GDPR
 
-The General Data Protection Regulation (GDPR) introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional details can be found in the [GDPR Summary topic](gdpr.md). This document leads you to information on the completion of Breach Notifications under the GDPR using Microsoft products and services.
+Общий регламент по защите данных (GDPR) вводит новые правила для организаций, предоставляющих товары и услуги жителям Европейского союза (ЕС) или занимающихся сбором и анализом данных резидентов ЕС, независимо от того, где находитесь вы или ваше предприятие. Дополнительные сведения можно найти в разделе [Сводка по GDPR](gdpr.md). В этом документе вы сможете получить сведения об уведомлениях о нарушении согласно требованиям GDPR при использовании продуктов и служб Майкрософт.
 
 ## <a name="what-constitute-a-breach-of-personal-data-under-the-gdpr"></a>Что считается нарушением безопасности персональных данных согласно GDPR?
 
-Personal data means any information related to an individual that can be used to identify them directly or indirectly. A personal data breach is 'a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed'.
+Персональные данные — это любые сведения, касающиеся физического лица, которые могут быть использованы для прямой или косвенной идентификации. Нарушение безопасности персональных данных — это "нарушение безопасности, приводящее к случайному или незаконному уничтожению, потере, изменению, несанкционированному раскрытию или доступу к персональным данным, передаваемым, хранящимся или иным образом обрабатываемым".
 
 ## <a name="terminology"></a>Терминология
 
@@ -44,39 +44,40 @@ Personal data means any information related to an individual that can be used to
 
 ## <a name="microsoft-and-breach-notification"></a>Майкрософт и уведомление о нарушении
 
-Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. A security incident/data breach refers to events such as unlawful access to customer's data stored on Microsoft equipment or in Microsoft facilities, or unauthorized access to such that has the potential to result in the loss, disclosure, or alteration of customer data.
+Майкрософт со всей серьезностью относится к своим обязательствам, налагаемым Общим регламентом по защите данных (GDPR). К инциденту безопасности/нарушению безопасности данных относят такие действия, как незаконный доступ к данным клиента, хранящимся на оборудовании Майкрософт или в помещениях Майкрософт, или несанкционированный доступ к таким данным, что может привести к потере, раскрытию или изменению данных клиента.
 
-As a data processor, Microsoft ensures that service customers are able to meet the GDPR's breach notification requirements as data controllers. Our notification provides the information needed to make that assessment. Microsoft notifies customers of any personal data breach, except for those cases where personal data is confirmed to be unintelligible (for example, encrypted data where integrity of the keys is confirmed).
+Как обработчик данных, корпорация Майкрософт предоставляет клиентам возможность соблюдения требований, предъявляемых к уведомлениям о нарушении GDPR, в качестве управляющих данными.  Наши уведомления предоставляют сведения, необходимые для проведения такой оценки. Майкрософт уведомляет клиентов о любых нарушениях безопасности личных данных, за исключением тех случаев, когда личные данные являются нечитаемыми (например, зашифрованные данные при подтверждении целостности ключей).
 
-Data controllers are responsible for assessing risks to data privacy and determining whether a breach requires notification of a customer's DPA. Microsoft provides the information needed, along with your GDPR compliance policy, to make that assessment.
+Управляющие данными несут ответственность за оценку риска для конфиденциальности данных и определение необходимости уведомления DPA клиента о нарушении безопасности данных. Корпорация Майкрософт предоставляет сведения, необходимые для проведения такой оценки, наряду с политикой соответствия требованиям GDPR.
 
-Initial notification includes a description of the nature of the breach, approximate user impact, and mitigation steps (if applicable). If our investigation is not complete at the time of initial notification, we will indicate next steps and timelines for subsequent communication. For more information about how Microsoft detects and responds to a breach of personal data, see [Data Breach Notification Under the GDPR](https://servicetrust.microsoft.com/ViewPage/GDPRBreach) in the Service Trust Portal.
+Начальное уведомление содержит описание характера нарушения, приблизительных последствий для пользователя и, в соответствующих случаях, действий по устранению риска. Если анализ не будет завершен к моменту начального уведомления, мы укажем следующие шаги и сроки очередного сообщения. Дополнительные информацию о том, как Майкрософт обнаруживает нарушения безопасности персональных данных и реагирует на них, см. в статье [Уведомление о нарушениях безопасности данных согласно требованиям GDPR](https://servicetrust.microsoft.com/ViewPage/GDPRBreach) на портале Service Trust Portal.
 
 Подробные сведения об уведомлениях о нарушении для определенных продуктов и услуг Майкрософт приведены ниже.
   
 1. **[Office 365](gdpr-breach-Office365.md)**  
-    Microsoft invests extensively in systems, processes, and personnel to reduce the likelihood of personal data breach and to quickly detect and mitigate consequence of breach if it does occur. Additional details can be read at [Office 365 Investments in Data Security](https://docs.microsoft.com/microsoft-365/compliance/gdpr-breach-office365#office-365-investments-in-data-security).
+    Корпорация Майкрософт активно инвестирует в системы, процессы и персонал, чтобы снизить вероятность нарушения безопасности личных данных, а также быстро определять и устранять их последствия. Дополнительные сведения см. в статье [Инвестиции Office 365 в безопасность данных](/microsoft-365/compliance/gdpr-breach-office365#office-365-investments-in-data-security).
 
-    A customer may become aware of a breach and wish to contact Microsoft. In this case, notify Microsoft Support, which will then interface with engineering teams for more information.
+    Заказчик может узнать о нарушении и захотеть обратиться в корпорацию Майкрософт. В этом случае уведомите службу поддержки Майкрософт, она свяжется с технической службой для получения дополнительной информации.
 
 2. **[Azure и Dynamics 365](gdpr-breach-azure-dynamics.md)**  
     В корпорации Майкрософт круглосуточно действует глобальная служба реагирования на инциденты, чьей задачей является смягчение последствий атак на Microsoft Azure и Dynamics 365.
 
-    - *Обнаружение нарушений*: поскольку и у корпорации Майкрософт, и у клиента есть обязательства по обеспечению безопасности, службы Azure используют модель общей ответственности в отношении безопасности и функционирования в целом. Корпорация Майкрософт не отслеживает инциденты безопасности в рамках сферы ответственности клиента и не реагирует на них. Реагирование клиента на инцидент может включать взаимодействие со [службой поддержки клиентов](https://azure.microsoft.com/support/options/) Azure при наличии соответствующих контрактов на обслуживание. Кроме того, Microsoft Azure предлагает различные службы (например, [Центр безопасности Azure](https://azure.microsoft.com/services/security-center/)), с помощью которых вы можете реагировать на инциденты безопасности.
+    - *Обнаружение нарушений*: поскольку и у корпорации Майкрософт, и у клиента есть обязательства по обеспечению безопасности, службы Azure используют модель общей ответственности в отношении безопасности и функционирования в целом. Корпорация Майкрософт не отслеживает нарушения безопасности в рамках сферы ответственности клиента и не реагирует на них. Реакция клиента на инцидент может включать сотрудничество со [Службой поддержки клиентов](https://azure.microsoft.com/support/options/) Azure при наличии соответствующих контрактов на обслуживание. Microsoft Azure также предлагает различные службы (например, [Центр безопасности Azure](https://azure.microsoft.com/services/security-center/)), которые клиенты могут использовать для разработки мер реагирования на инциденты безопасности и управления такими мерами.
 
-        Список событий, которые вызывают анализ нарушений в Microsoft Azure, см. в разделе [Обнаружение потенциальных нарушений](https://docs.microsoft.com/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches). В статье [Azure и уведомление о нарушениях согласно требованиям GDPR](gdpr-breach-azure-dynamics.md) содержится дополнительная информация о том, как Майкрософт анализирует, управляет и реагирует на нарушения безопасности в Azure.
+        Список событий, которые вызывают анализ нарушений в Microsoft Azure, см. в разделе [Обнаружение потенциальных нарушений](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches). В статье [Azure и уведомление о нарушениях согласно требованиям GDPR](gdpr-breach-azure-dynamics.md) содержится дополнительная информация о том, как Майкрософт анализирует, управляет и реагирует на нарушения безопасности в Azure.
 
-    - *Data Breach Response*: Microsoft determines appropriate priority and severity levels of a breach by investigating the functional impact, recoverability, and information impact of the incident. Priority and severity may change over the course of the investigation, based on new findings and conclusions. Microsoft's security response team works closely with global legal advisors to help ensure that forensics are performed in accordance with legal obligations and commitments to customers. These processes are detailed in [Azure's Data Breach Response](https://docs.microsoft.com/microsoft-365/compliance/gdpr-breach-azure-dynamics#azures-data-breach-response).
+    - *Реагирование на нарушения безопасности данных*: Корпорация Майкрософт определяет применимые уровни приоритета и серьезности нарушения путем изучения функционального воздействия, возможности восстановления и информационного воздействия инцидента. Приоритет и серьезность могут изменяться в процессе анализа по мере появления новых фактов и заключений.
+    Команда Майкрософт по реагированию на угрозы безопасности тесно сотрудничает с международными консультантами по правовым вопросам, помогая обеспечить проведение судебной экспертизы в соответствии с юридическими обязанностями и обязательствами перед клиентами. Эти процессы описаны в разделе [Реагирование на нарушения безопасности данных в Azure](/microsoft-365/compliance/gdpr-breach-azure-dynamics#azures-data-breach-response).
 
-    - *Customer Notification*: Microsoft Azure notifies customers and regulatory authorities of data breaches as required. Customer notices are delivered in no more than 72 hours from the time we declared a breach except for the following circumstances:
+    - *Уведомление клиента*: Microsoft Azure уведомляет клиентов и регулирующие органы о нарушении безопасности данных в соответствии с установленными требованиями. Уведомление клиенту доставляется в срок до 72 часов с момента заявления о нарушении, за исключением следующих обстоятельств:
 
         - Майкрософт считает, что отправка уведомления увеличивает риск для других клиентов.
-        - The 72-hour timeline may leave some incident details available. These details will be provided to you as the investigation proceeds.
+        - При 72-часовом сроке некоторые сведения об инциденте могут оставаться доступными. Эти сведения будут вам предоставлены по мере проведения анализа.
 
-        Дополнительные сведения можно найти в разделе [Уведомление клиента](https://docs.microsoft.com/microsoft-365/compliance/gdpr-breach-azure-dynamics#customer-notification).
+        Дополнительные сведения можно найти в разделе [Уведомление клиента](/microsoft-365/compliance/gdpr-breach-azure-dynamics#customer-notification).
 
 3. **[Служба поддержки и профессиональные услуги Майкрософт](gdpr-breach-Microsoft-Support-Professional-Services.md)**  
-    The nature of professional services means that some data protection incidents may fall within the customer's realm of responsibility. When Microsoft Professional Services identifies a data protection incident, it follows documented industry standard response plan as outlined in [Scope & Limits of Data Protection Incident Response Process](https://docs.microsoft.com/microsoft-365/compliance/gdpr-breach-microsoft-support-professional-services#scope--limits-of-data-protection-incident-response-process).
+    Существование профессиональных услуг означает, что некоторые инциденты, связанные с защитой данных, могут подпадать под сферу ответственности клиента. Когда Профессиональные услуги Майкрософт определяют инцидент, связанный с защитой данных, они действуют согласно документально установленному стандартному производственному плану реагирования, как указано в статье [Область и ограничения процесса реагирования на инциденты защиты данных](/microsoft-365/compliance/gdpr-breach-microsoft-support-professional-services#scope--limits-of-data-protection-incident-response-process).
 
 ## <a name="breach-notification-admin-tools"></a>Средства администрирования уведомлений о нарушении
 

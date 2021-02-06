@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f6c03f1c9cddbdf1cd62be075f471a3a52e19a19
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509137"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119888"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -54,7 +54,7 @@ TruSight — это сторонняя программа для оценки р
 ## <a name="how-to-implement"></a>Методика реализации
 
 - [Руководство по оценке риска и соответствия](https://aka.ms/RiskGovernanceGuide): создание модели управления для оценки риски облачных служб Майкрософт и уведомления контролирующих органов.
-- [Сценарии финансового использования](https://docs.microsoft.com/azure/industry/financial/): использование обзоров сценариев, учебных руководств и прочих ресурсов для создания решений Azure для сферы финансовых услуг.
+- [Сценарии финансового использования](/azure/industry/financial/): использование обзоров сценариев, учебных руководств и прочих ресурсов для создания решений Azure для сферы финансовых услуг.
 - [Регулирование рынка финансовых услуг США](https://aka.ms/FinServ-Guide-US): насколько сетевые службы Майкрософт соответствуют основным ожиданиям финансовых учреждений США с точки зрения соответствия нормативным требованиям.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы

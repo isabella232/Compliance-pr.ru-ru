@@ -17,12 +17,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: Узнайте, как выполнять запросы DSR в рамках общего регламента по защите данных (GDPR) и закона Калифорнии о конфиденциальности данных (CCPA) с помощью продуктов и служб Майкрософт.
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: ce2be94fec6b2e48a9e7052a1b01302966eb42a3
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 83ba52015eeb7aed73cd231ff01f824f75337360
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508771"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121038"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Запросы субъектов данных, GDPR и CCPA
 
@@ -68,7 +68,7 @@ ms.locfileid: "49508771"
 
 ### <a name="insights-generated-by-microsoft-products-or-services"></a>Аналитические сведения, создаваемые в рамках продуктов и служб Майкрософт
 
-[Аналитические сведения](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365) могут создаваться службами (MyAnalytics и т. д.). В состав Office 365 входят веб-службы, которые предоставляют аналитические сведения пользователям и организациям, которые их используют. Данные, сгенерированные этими службами, могут создавать личные данные, относящиеся к DSR. Следуйте по ссылке в списке ниже, чтобы получить сведения в отношении процессов DSR, связанных со службами.  
+[Аналитические сведения](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365) могут создаваться службами (MyAnalytics и т. д.). В состав Office 365 входят веб-службы, которые предоставляют аналитические сведения пользователям и организациям, которые их используют. Данные, сгенерированные этими службами, могут создавать личные данные, относящиеся к DSR. Следуйте по ссылке в списке ниже, чтобы получить сведения в отношении процессов DSR, связанных со службами.  
 
 ### <a name="dsrs-for-system-generated-logs"></a>DSR для журналов, создаваемых системой
 
@@ -82,8 +82,8 @@ ms.locfileid: "49508771"
 
 Удаление учетной записи пользователя не приведет к удалению системных журналов для Yammer и Kaizala. Чтобы удалить данные из этих приложений, ознакомьтесь с одним из следующих ресурсов:
 
-- [Управление запросами субъектов данных GDPR в Yammer корпоративный](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
-- [Экспорт или удаление организационных данных пользователя в Kaizala](https://docs.microsoft.com/office365/kaizala/export-or-delete-a-user-s-data)
+- [Управление запросами субъектов данных GDPR в Yammer корпоративный](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
+- [Экспорт или удаление организационных данных пользователя в Kaizala](/office365/kaizala/export-or-delete-a-user-s-data)
 
 ### <a name="national-clouds"></a>Национальные облака
 

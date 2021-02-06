@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c14d32a172dc5d6ea934abb20c7df956d43d3bb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509267"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119918"
 ---
 # <a name="personal-data-protection-act-pdpa-argentina"></a>Закон Аргентины о защите персональных данных (PDPA)
 
@@ -50,7 +50,7 @@ PDPA соответствует европейской модели законо
 ## <a name="how-to-implement"></a>Методика реализации
 
 - [Конфиденциальность в службах Microsoft Cloud](https://www.microsoft.com/download/details.aspx?id=55710). Получение сведений о принципах и стандартах конфиденциальности Майкрософт и о законах защиты конфиденциальности в Аргентине.  
-- [Защита данных в Azure](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data). Azure обеспечивает для клиентов надежную защиту данных как по умолчанию, так и с возможностью выбора клиентом.
+- [Защита данных в Azure](/azure/security/azure-protection-of-customer-data). Azure обеспечивает для клиентов надежную защиту данных как по умолчанию, так и с возможностью выбора клиентом.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -60,7 +60,7 @@ PDPA соответствует европейской модели законо
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
-[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. Узнайте, как [создавать оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Ресурсы
 

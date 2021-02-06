@@ -12,12 +12,12 @@ ms.service: O365-seccomp
 localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
-ms.openlocfilehash: 7a3739afc42ba6397bb0b465b6f4a9c5806d2c16
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 15d59569102a5e39ac8641df6003b2999362e0bd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508963"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121478"
 ---
 # <a name="gdpr-for-skype-for-business-server-and-lync-server"></a>GDPR для Skype для бизнеса Server и Lync Server
 
@@ -35,8 +35,8 @@ ms.locfileid: "49508963"
 
 -   Пользователи могут самостоятельно экспортировать контакты, щелкнув правой кнопкой мыши заголовок группы и выбрав команду "Копировать". При этом все контакты из этой группы будут скопированы в буфер обмена, после чего их можно будет вставить в любом приложении.
 
--   Вы можете экспортировать эти данные с помощью командлета [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata).
+-   Вы можете экспортировать эти данные с помощью командлета [Export-CsUserData](/powershell/module/skype/export-csuserdata).
 
 Контент, отправленный (файлы или раздаточные материалы PowerPoint) или созданный (доска, опросы или ответы на вопросы) на собрании хранится в систематизаторе. Его также можно экспортировать, если пользователь снова войдет в собрание, срок действия которого еще не истек, и скачает отправленный контент или сделает снимки экрана (в случае созданного контента).
 
-Собрания MeetNow, не занесенные в Календарь Exchange и список контактов, а также права контактов (родственники, сотрудники и т. д.) хранятся в базе данных пользователей. В Lync Server 2013 и более поздних версий эти данные можно экспортировать с помощью командлета [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata).
+Собрания MeetNow, не занесенные в Календарь Exchange и список контактов, а также права контактов (родственники, сотрудники и т. д.) хранятся в базе данных пользователей. В Lync Server 2013 и более поздних версий эти данные можно экспортировать с помощью командлета [Export-CsUserData](/powershell/module/skype/export-csuserdata).

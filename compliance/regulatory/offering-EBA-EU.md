@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937034"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120928"
 ---
 # <a name="european-banking-authority-eba"></a>Европейская служба банковского надзора (EBA)
 
@@ -54,7 +54,7 @@ ms.locfileid: "49937034"
 ## <a name="how-to-implement"></a>Методика реализации
 
 - [Отклик на руководство EBA](https://aka.ms/FinServ-Guide-EuBankAuth): руководство корпорации Майкрософт помогает финансовым учреждениям в ЕС следовать рекомендациям EBA по внедрению облачных технологий.
-- [Финансовые варианты использования](https://docs.microsoft.com/azure/industry/financial/): обзоры вариантов использования, учебные материалы и другие ресурсы для создания решений Azure для финансовых услуг.
+- [Финансовые варианты использования](/azure/industry/financial/): обзоры вариантов использования, учебные материалы и другие ресурсы для создания решений Azure для финансовых услуг.
 - [Финансовая программа соответствия](https://aka.ms/FSCP-Print): финансовые учреждения могут получить помощь при оценке рисков использования облачных служб Майкрософт.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы

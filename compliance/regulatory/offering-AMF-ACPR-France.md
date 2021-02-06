@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1229dba8c5106c48e431c0bdf09e86e65bb402cc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508915"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121408"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Финансовая служба (AMF) и Управление по надзору (ACPR), Франция
 
@@ -59,7 +59,7 @@ AMF и ACPR действуют совместно с Европейской сл
 
 - [Контрольный список соответствия требованиям: Франция](https://aka.ms/FinServ-Guide-France). Финансовые организации могут получить помощь при проведении оценки рисков в облачных службах Майкрософт для бизнеса.
 - [Руководство по оценке риска и соответствия требованиям](https://aka.ms/RiskGovernanceGuide). Создание модели управления для оценки рисков облачных служб Майкрософт и уведомления контролирующих органов.
-- [Финансовые варианты использования](https://docs.microsoft.com/azure/industry/financial/): обзоры вариантов использования, учебные материалы и другие ресурсы для создания решений Azure для финансовых услуг.
+- [Финансовые варианты использования](/azure/industry/financial/): обзоры вариантов использования, учебные материалы и другие ресурсы для создания решений Azure для финансовых услуг.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 

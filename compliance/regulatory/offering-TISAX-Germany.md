@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f8734dc5ebfd4c6d1c6c3404285dfc6ac22fc6d7
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9f751777f527a13d4dc572ef58e82ffcbd6ce1b3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509317"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121178"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>Механизм оценки и обмена Trusted Information Security Assessment Exchange (TISAX), Германия
 
@@ -67,7 +67,7 @@ ms.locfileid: "49509317"
 
 ### <a name="manufacturing-use-cases"></a>Варианты использования в производстве
 
-Обзоры вариантов использования, руководства по решениям, учебные материалы и другие ресурсы, которые помогут вам в создании [решений Azure](https://docs.microsoft.com/azure/industry/manufacturing/).
+Обзоры вариантов использования, руководства по решениям, учебные материалы и другие ресурсы, которые помогут вам в создании [решений Azure](/azure/industry/manufacturing/).
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -77,7 +77,7 @@ ENX предоставляет подтверждение сертификаци
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
-[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. Узнайте, как [создавать оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Ресурсы
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 972cd483c4976e683e359c52a78067e3d3faeb3a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508341"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120093"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>Национальный банк Бельгии (NBB) и Служба по финансовым услугам и рынкам (FSMA)
 
@@ -60,7 +60,7 @@ NBB и FSMA действуют совместно с Европейской ба
 
 - [Контрольный список соответствия требованиям: Бельгия](https://aka.ms/FinServ-Guide-Belgium). Финансовые учреждения могут получить помощь при проведении оценки рисков в облачных службах Майкрософт.
 - [Руководство по оценке риска и соответствия требованиям](https://aka.ms/RiskGovernanceGuide). Создание модели управления для оценки рисков облачных служб Майкрософт и уведомления контролирующих органов.
-- [Финансовые варианты использования](https://docs.microsoft.com/azure/industry/financial/). Обзоры вариантов использования, учебные руководства и другие ресурсы для создания решений Azure для сферы финансовых услуг.
+- [Финансовые варианты использования](/azure/industry/financial/). Обзоры вариантов использования, учебные руководства и другие ресурсы для создания решений Azure для сферы финансовых услуг.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -74,7 +74,7 @@ NBB и FSMA действуют совместно с Европейской ба
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
-[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. Узнайте, как [создавать оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Ресурсы
 

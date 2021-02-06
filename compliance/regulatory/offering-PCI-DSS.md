@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3121119635d6dad9567f4497ecdaeb1111aabb7a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e0ee7f01e3c62c7f2cfac3867435221723fd7e93
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509394"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121228"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Стандарт безопасности данных в сфере платежных карт (PCI-DSS)
 
@@ -46,7 +46,7 @@ ms.locfileid: "49509394"
 - Облачная служба Flow в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Microsoft Graph
 - Intune
-- [Advanced Threat Protection в Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
+- [Advanced Threat Protection в Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
 - OneDrive для бизнеса и SharePoint Online (только Соединенные Штаты)
@@ -98,12 +98,12 @@ PCI DSS применяется ко всем компаниям, независ�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
-[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Ресурсы
 
 - [Совет по стандартам безопасности PCI](https://www.pcisecuritystandards.org/)
 - [Стандарт защиты данных PCI](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf)
-- [Схема Azure PCI DSS 3.2.1](https://docs.microsoft.com/azure/governance/blueprints/samples/pci-dss-3.2.1/)
+- [Схема Azure PCI DSS 3.2.1](/azure/governance/blueprints/samples/pci-dss-3.2.1/)
 - [Краткий справочник PCI DSS](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

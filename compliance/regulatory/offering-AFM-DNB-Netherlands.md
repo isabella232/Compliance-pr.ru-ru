@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6a952d33a440681acc3dd5057c8a7e175e57bfa9
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937024"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121808"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Управление по финансовым рынкам Нидерландов и Центральный банк Нидерландов
 
@@ -64,7 +64,7 @@ ms.locfileid: "49937024"
 
 - [Контрольный список соответствия требованиям: Нидерланды.](https://aka.ms/FinServ-Guide-Netherlands) Финансовые организации могут получить помощь при проведении оценки рисков в облачных службах Майкрософт для бизнеса.
 - [Руководство по оценке риска и соответствия требованиям.](https://aka.ms/RiskGovernanceGuide) Создание модели управления для оценки рисков облачных служб Майкрософт и уведомления контролирующих органов.
-- [Варианты использования в финансовой сфере.](https://docs.microsoft.com/azure/industry/financial/) Обзоры вариантов, учебные руководства и другие ресурсы по созданию решений Azure для сферы финансовых услуг.
+- [Варианты использования в финансовой сфере.](/azure/industry/financial/) Обзоры вариантов, учебные руководства и другие ресурсы по созданию решений Azure для сферы финансовых услуг.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 

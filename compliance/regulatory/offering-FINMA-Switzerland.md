@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3dfd4993428de2884c1d7ea4d149da28f833508d
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 9aca1e5019967db6f73de245cd75ceba88e62e64
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49936953"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120878"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Швейцарская служба по надзору за финансовыми рынками (FINMA)
 
@@ -52,7 +52,7 @@ FINMA опубликовала [Циркуляр 2018/3. Аутсорсинг д
 
 - [Контрольный список соответствия требованиям: Швейцария](https://aka.ms/FinServ-Guide-Switzerland). Финансовые организации могут получить помощь при проведении оценки рисков в облачных службах Майкрософт для бизнеса.
 - [Руководство по оценке риска и соответствия требованиям](https://aka.ms/RiskGovernanceGuide). Создание модели управления для оценки рисков облачных служб Майкрософт и уведомления контролирующих органов.
-- [Финансовые варианты использования](https://docs.microsoft.com/azure/industry/financial/). Обзоры вариантов использования, учебные руководства и другие ресурсы для создания решений Azure для сферы финансовых услуг.
+- [Финансовые варианты использования](/azure/industry/financial/). Обзоры вариантов использования, учебные руководства и другие ресурсы для создания решений Azure для сферы финансовых услуг.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 

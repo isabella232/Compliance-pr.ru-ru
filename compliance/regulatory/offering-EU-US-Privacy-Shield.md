@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3c167ac9a0b98157c51abaf284c2d6277c8150ef
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507994"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121238"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>Соглашения о правилах обмена конфиденциальной информацией между ЕС и США и между Швейцарией и США
 
@@ -61,7 +61,7 @@ ms.locfileid: "49507994"
     - [Подробнее](https://www.microsoft.com/download/details.aspx?id=55710)
 
 Защита данных в Azure — Azure обеспечивает клиентов надежной защитой данных как по умолчанию, так и с возможностью выбора клиентом.  
-    - [Подробнее](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data)
+    - [Подробнее](/azure/security/azure-protection-of-customer-data)
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8bde27222806ea5909c67bac8556ff682453809b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509694"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121378"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Контрольные показатели Center for Internet Security (CIS)
 
@@ -70,8 +70,8 @@ Center for Internet Security (CIS) опубликовал контрольные
 ## <a name="how-to-implement"></a>Методика реализации
 
 - [Контрольный показатель CIS для Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/cis-microsoft-azure-foundations-security-benchmark/CIS_Microsoft_Azure_Foundations_Benchmark_v1.0.0.pdf): получите конкретные рекомендации по созданию безопасной базовой конфигурации для Azure.  
-- [Схема обеспечения безопасности Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap): сведите к минимуму риск утечки данных или компрометации учетных записей, соблюдая эту схему.
-- [Базовые показатели безопасности Windows](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines): следуйте этим рекомендациям, чтобы эффективно использовать базовые показатели безопасности в вашей организации.
+- [Схема обеспечения безопасности Microsoft 365](/microsoft-365/security/office-365-security/security-roadmap): сведите к минимуму риск утечки данных или компрометации учетных записей, соблюдая эту схему.
+- [Базовые показатели безопасности Windows](/windows/security/threat-protection/windows-security-baselines): следуйте этим рекомендациям, чтобы эффективно использовать базовые показатели безопасности в вашей организации.
 - [Сопроводительное руководство по контрольным точкам CIS Controls для облака](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/): получите рекомендации по применению передовых методов безопасности в CIS Controls, версия 7 для облачных сред.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
@@ -90,11 +90,11 @@ Center for Internet Security (CIS) опубликовал контрольные
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
-[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. Узнайте, как [создавать оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Ресурсы
 
 - [Передовые методы CIS по безопасному использованию Microsoft 365](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
-- [Параметры политики безопасности Windows 10](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/security-policy-settings)
-- [Безопасность Windows 10 Корпоративная](https://docs.microsoft.com/windows/security/index)
+- [Параметры политики безопасности Windows 10](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
+- [Безопасность Windows 10 Корпоративная](/windows/security/index)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

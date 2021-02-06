@@ -16,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 0f0ca41f3b69d595dcdb3f3d2049fe2a0f7a95e1
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: df5131af45a938199df1a52bbf3e437f34ed3f9a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574871"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121858"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Защита информации в соответствии с Общим регламентом по защите данных (GDPR) при помощи возможностей Microsoft 365
 
@@ -31,9 +31,9 @@ ms.locfileid: "49574871"
 
 ## <a name="information-protection"></a>Защита информации
 
-В Office 365 доступно множество возможностей для управления данными. Сведения о поиске, классификации, защите и отслеживании персональных данных см. в статье [Защита информации в Office 365 в соответствии с регламентом GDPR](https://docs.microsoft.com/microsoft-365/compliance/office-365-information-protection-for-gdpr).
+В Office 365 доступно множество возможностей для управления данными. Сведения о поиске, классификации, защите и отслеживании персональных данных см. в статье [Защита информации в Office 365 в соответствии с регламентом GDPR](/microsoft-365/compliance/office-365-information-protection-for-gdpr).
 
-Справку по локальным серверам, включая файловые ресурсы, SharePoint Server, Exchange Server, Skype для бизнеса Server, Project Server и Office Online Server, см. в статье [GDPR для локальных серверов Office](https://docs.microsoft.com/microsoft-365/compliance/gdpr-for-office-servers). 
+Справку по локальным серверам, включая файловые ресурсы, SharePoint Server, Exchange Server, Skype для бизнеса Server, Project Server и Office Online Server, см. в статье [GDPR для локальных серверов Office](/microsoft-365/compliance/gdpr-for-office-servers). 
 
 ## <a name="identity-and-access-management"></a>Управление идентификацией и доступом
 
@@ -48,16 +48,16 @@ Azure Active Directory и другие компоненты Microsoft 365 пре
 
 Корпорация Майкрософт рекомендует использовать такие конфигурации в качестве отправных точек:
 
-- [Конфигурации доступа с использованием удостоверений и устройств.](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-365-policies-configurations) Рекомендуемые конфигурации политик, обеспечивающие три уровня защиты (базовый, для конфиденциальных данных и предусматривающий жесткую регуляцию). В этом руководстве описаны рекомендуемые политики для Exchange Online и SharePoint Online (включая OneDrive для бизнеса).
-- [Руководство по обеспечению безопасности для организаций, проводящих политические кампании, некоммерческих организаций и других динамичных организаций.](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-security-guidance-for-political-campaigns-nonprofits-and-other-agile-o) Включает в себя тот же набор политик, но содержит дополнительные инструкции касательно сред BYOD и учетных записей B2B.
+- [Конфигурации доступа с использованием удостоверений и устройств.](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations) Рекомендуемые конфигурации политик, обеспечивающие три уровня защиты (базовый, для конфиденциальных данных и предусматривающий жесткую регуляцию). В этом руководстве описаны рекомендуемые политики для Exchange Online и SharePoint Online (включая OneDrive для бизнеса).
+- [Руководство по обеспечению безопасности для организаций, проводящих политические кампании, некоммерческих организаций и других динамичных организаций.](/microsoft-365/security/office-365-security/microsoft-security-guidance-for-political-campaigns-nonprofits-and-other-agile-o) Включает в себя тот же набор политик, но содержит дополнительные инструкции касательно сред BYOD и учетных записей B2B.
 
 ## <a name="threat-protection"></a>Защита от угроз
 
 Защита от угроз доступна в службах Microsoft 365. Вот несколько ресурсов для начала:
 
-- [Схема для обеспечения безопасности в Office 365: приоритеты на первые 30 и 90 дней, а также на большее количество дней.](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap) Эта схема включает рекомендации по реализации возможностей. 
-- [Защита от угроз в Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats). Сведения о мерах защиты, которые вы можете принять, см. в центре безопасности Microsoft 365.
-- [Защита от угроз в Windows.](https://docs.microsoft.com/windows/security/threat-protection/) Сведения об Advanced Threat Protection в Защитнике Windows и других возможностях Windows 10.
+- [Схема для обеспечения безопасности в Office 365: приоритеты на первые 30 и 90 дней, а также на большее количество дней.](/microsoft-365/security/office-365-security/security-roadmap) Эта схема включает рекомендации по реализации возможностей. 
+- [Защита от угроз в Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Сведения о мерах защиты, которые вы можете принять, см. в центре безопасности Microsoft 365.
+- [Защита от угроз в Windows.](/windows/security/threat-protection/) Сведения об Advanced Threat Protection в Защитнике Windows и других возможностях Windows 10.
 
 ## <a name="learn-more"></a>Дополнительные сведения
 

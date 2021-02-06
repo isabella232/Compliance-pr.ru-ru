@@ -19,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 1b5df025c8c55790181e1f737388b1c15f475d72
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 29d845c1b9e1c60169db56ba76d731892302bff0
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574791"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121928"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Запросы субъектов данных в отношении семейства Visual Studio в рамках GDPR и CCPA
 
@@ -40,7 +40,7 @@ ms.locfileid: "49574791"
 
 ## <a name="additional-privacy-information"></a>Дополнительные сведения о конфиденциальности
 
-Сведения о правилах обработки данных, принятые в нашей корпорации, см. в условиях лицензионного соглашения на использование программного обеспечения корпорации Майкрософт Microsoft, [заявлении о конфиденциальности корпорации Майкрософт](https://go.microsoft.com/fwlink/?LinkId=660726) и [обязательствах корпорации Майкрософт в отношении GDPR](https://docs.microsoft.com/legal/gdpr).
+Сведения о правилах обработки данных, принятые в нашей корпорации, см. в условиях лицензионного соглашения на использование программного обеспечения корпорации Майкрософт Microsoft, [заявлении о конфиденциальности корпорации Майкрософт](https://go.microsoft.com/fwlink/?LinkId=660726) и [обязательствах корпорации Майкрософт в отношении GDPR](/legal/gdpr).
 
 ## <a name="visual-studio-visual-studio-for-mac-and-visual-studio-code"></a>Visual Studio, Visual Studio для Mac и Visual Studio Code
 
@@ -62,7 +62,7 @@ ms.locfileid: "49574791"
 "SearchTerm":null,"SearchResult":null}
 ```
 
-Дополнительные сведения см. в статье [Журналы, созданные системой, данные в которых собраны Visual Studio](https://docs.microsoft.com/visualstudio/ide/diagnostic-data-collection).
+Дополнительные сведения см. в статье [Журналы, созданные системой, данные в которых собраны Visual Studio](/visualstudio/ide/diagnostic-data-collection).
 
 При выполнении запросов субъектов данных можно обрабатывать только те персональные данные, которые вложены в удостоверения, прошедшие проверку подлинности. Таким образом, например, так как в Visual Studio Code не поддерживается функция входа в систему, журналы, созданные системой, из этого продукта не вложены в удостоверение, прошедшее проверку подлинности, и не подлежат обработке. Тем не менее некоторые расширения Майкрософт для Visual Studio Code могут предоставлять данные, прошедшие проверку подлинности, и эти данные можно обрабатывать при выполнении запроса субъекта данных. Дополнительные сведения см. в разделе [GDPR и Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_gdpr-and-vs-code). В общем случае мы не храним данные для Visual Studio 2013 и более ранних версий. Тем не менее определенные расширения и компоненты могут предоставлять данные, вложенные в удостоверения, прошедшие проверку подлинности, и их можно обрабатывать при выполнении запросов субъектов данных, как описано ниже.
 
@@ -74,8 +74,8 @@ ms.locfileid: "49574791"
 
 Пользователи могут управлять настройками конфиденциальности в этих продуктах. Дополнительные сведения см. в указанных ниже ресурсах.
 
-- [Управление параметрами конфиденциальности в Visual Studio](https://docs.microsoft.com/visualstudio/ide/visual-studio-experience-improvement-program).
-- [Управление параметрами конфиденциальности в Visual Studio для Mac](https://docs.microsoft.com/visualstudio/mac/visual-studio-experience-improvement-program).
+- [Управление параметрами конфиденциальности в Visual Studio](/visualstudio/ide/visual-studio-experience-improvement-program).
+- [Управление параметрами конфиденциальности в Visual Studio для Mac](/visualstudio/mac/visual-studio-experience-improvement-program).
 - [Отключение отчетов телеметрии в Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting).
 
 #### <a name="exporting-or-deleting-data"></a>Экспорт или удаление данных
@@ -100,7 +100,7 @@ ms.locfileid: "49574791"
 
 - информация из вашего профиля в [Сообществе разработчиков](https://developercommunity.visualstudio.com);
 - настройки и уведомления;
-- вложения и журналы, созданные системой, которые вы предоставили, [сообщив о проблеме в Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017), или на сайте [Сообщества разработчиков](https://developercommunity.visualstudio.com);
+- вложения и журналы, созданные системой, которые вы предоставили, [сообщив о проблеме в Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017), или на сайте [Сообщества разработчиков](https://developercommunity.visualstudio.com);
 - варианты, выбранные вами при голосованиях.
 
 Общедоступный отзыв включает следующие элементы: проблемы, о которых вы сообщили, комментарии и решения.
@@ -124,7 +124,7 @@ ms.locfileid: "49574791"
 
 - информация из вашего профиля в [Сообществе разработчиков](https://developercommunity.visualstudio.com);
 - настройки и параметры уведомлений;
-- вложения, которые вы предоставили, [сообщив о проблеме в Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017), или на сайте [Сообщества разработчиков](https://developercommunity.visualstudio.com).
+- вложения, которые вы предоставили, [сообщив о проблеме в Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017), или на сайте [Сообщества разработчиков](https://developercommunity.visualstudio.com).
 
 > [!NOTE]
 > Мы не включаем в архивы следующие данные отправленных вами общедоступных отзывов: комментарии, решения и сообщения о проблемах.
@@ -147,7 +147,7 @@ ms.locfileid: "49574791"
 
 - сведения из профиля пользователя;
 - настройки и параметры уведомлений;
-- вложения, которые вы предоставили, [сообщив о проблеме в Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017), или на сайте [Сообщества разработчиков](https://developercommunity.visualstudio.com).
+- вложения, которые вы предоставили, [сообщив о проблеме в Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017), или на сайте [Сообщества разработчиков](https://developercommunity.visualstudio.com).
 - варианты, выбранные вами при голосованиях.
 
 > [!NOTE]
@@ -199,7 +199,7 @@ ms.locfileid: "49574791"
 
 ## <a name="nuget"></a>NuGet
 
-Дополнительные сведения о запросах субъектов данных в отношении веб-сайта NuGet.org см. в статье [Запросы данных пользователей NuGet](https://docs.microsoft.com/nuget/policies/data-requests).
+Дополнительные сведения о запросах субъектов данных в отношении веб-сайта NuGet.org см. в статье [Запросы данных пользователей NuGet](/nuget/policies/data-requests).
 
 ## <a name="aspnet"></a>ASP.NET
 
@@ -217,7 +217,7 @@ ms.locfileid: "49574791"
 
 ## <a name="learn-more"></a>Дополнительные сведения
 
-- [Обязательства корпорации Майкрософт в рамках GDPR в отношении пользователей наших общедоступных корпоративных программных продуктов](https://docs.microsoft.com/legal/gdpr)
+- [Обязательства корпорации Майкрософт в рамках GDPR в отношении пользователей наших общедоступных корпоративных программных продуктов](/legal/gdpr)
 - [Центр управления безопасностью (Майкрософт)](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [Service Trust Portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Панель мониторинга конфиденциальности (Майкрософт)](https://account.microsoft.com/privacy)

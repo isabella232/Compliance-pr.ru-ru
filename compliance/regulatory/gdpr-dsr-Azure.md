@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: cc71af74f88592e13f5dacf78d92193cea8ea356
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508714"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121008"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Запросы субъектов данных Azure в рамках GDPR и CCPA
 
@@ -301,7 +301,7 @@ Microsoft предоставляет возможность обнаружива
 
 - **Пользователь.** Введите электронный адрес пользователя Azure Active Directory, запросившего экспорт.
 - **Подписка.** Выберите учетную запись, используемую для создания отчетов об использовании ресурсов и выставления счетов за услуги. Кроме того, это расположение учетной записи хранилища Azure.
-- **Учетная запись хранения.** Выберите расположение службы хранилища Azure (хранилища BLOB-объектов). Дополнительные сведения см. в статье [Общие сведения о службе хранилища Azure — хранилище BLOB-объектов](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage).
+- **Учетная запись хранения.** Выберите расположение службы хранилища Azure (хранилища BLOB-объектов). Дополнительные сведения см. в статье [Общие сведения о службе хранилища Azure — хранилище BLOB-объектов](/azure/storage/common/storage-introduction#blob-storage).
 - **Контейнер.** Создайте новый (или выберите существующий) контейнер в качестве места хранения экспортируемых конфиденциальных данных пользователя.
 
 4. Нажмите **Создать**.

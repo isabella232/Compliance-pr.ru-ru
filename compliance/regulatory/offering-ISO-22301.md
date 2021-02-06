@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ac0915f6209a9024f8dcaae5ce2fed8ab8186b9a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e4907cabfc1dededfafd83ea4c2924c97651246f
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507921"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120218"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>ISO 22301:2012 Стандарт управления непрерывностью бизнеса
 
@@ -75,14 +75,14 @@ ISO 22301 - это сертификация, используемая предп
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
-[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Ресурсы
 
 - [Стандарт ISO 22301:2012](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=50038) (для покупок)
-- [Техническое руководство по обеспечению устойчивости Azure](https://docs.microsoft.com/azure/architecture/framework/resiliency/overview) (поясняет модель общей ответственности Azure для непрерывности бизнеса).
+- [Техническое руководство по обеспечению устойчивости Azure](/azure/architecture/framework/resiliency/overview) (поясняет модель общей ответственности Azure для непрерывности бизнеса).
 - [Центральная инфраструктура соответствия требованиям для стандартных элементов управления (Майкрософт)](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Условия использования веб-служб Майкрософт](https://aka.ms/Online-Services-Terms)
 - [Описание программы по обеспечению управления непрерывностью бизнеса, предоставляемое корпорацией Майкрософт](https://go.microsoft.com/fwlink/p/?linkid=2092212)
-- [Рейтинг соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+- [Рейтинг соответствия требованиям](/microsoft-365/compliance/compliance-manager)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

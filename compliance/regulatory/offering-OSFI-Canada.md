@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da6f212ca993a9e5887f32fe2c0fcc77e425f2e8
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937014"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120018"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Управление ревизора финансовых учреждений (OSFI) Канады
 
@@ -55,7 +55,7 @@ ms.locfileid: "49937014"
 - [Контрольный список соответствия требованиям: Канада](https://aka.ms/Azure-Canada-Compliance). Финансовые организации могут получить помощь при проведении оценки рисков в облачных службах Майкрософт для бизнеса.
 - [Конфиденциальность в Microsoft Cloud](https://aka.ms/MCSPrivacy). Получение сведений о принципах и стандартах конфиденциальности Майкрософт и о законах защиты конфиденциальности в Канаде.
 - [Руководство по оценке риска и соответствия требованиям](https://aka.ms/RiskGovernanceGuide). Создание модели управления для оценки рисков облачных служб Майкрософт и уведомлений контролирующих органов.
-- [Отраслевые варианты использования для Azure](https://docs.microsoft.com/azure/industry/financial/). Обзоры вариантов использования, учебные руководства и другие ресурсы для создания решений Azure для сферы финансовых услуг.
+- [Отраслевые варианты использования для Azure](/azure/industry/financial/). Обзоры вариантов использования, учебные руководства и другие ресурсы для создания решений Azure для сферы финансовых услуг.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -71,7 +71,7 @@ ms.locfileid: "49937014"
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
-[Диспетчер соответствия требованиям (Майкрософт)](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Ресурсы
 
