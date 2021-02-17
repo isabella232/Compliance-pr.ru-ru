@@ -1,6 +1,6 @@
 ---
 title: Общая структура безопасности (CSF) health Information Trust Alliance (HITRUST)
-description: Azure и Office 365 сертифицированы в рамках общей платформы безопасности HITRUST (Health Information Trust Alliance).
+description: Azure и Office 365 сертифицированы в рамках общей платформы безопасности (CSF) HITRUST.
 keywords: Microsoft 365, соответствие требованиям, предложения
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: be76b2cfc3408f50c239fb9c1fc140e36e7697f7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: ffe05b9857d7b04004838c17d19073eb208a99f5
+ms.sourcegitcommit: efe49fd31eb8166e3e72ad1cc65b332c6f3b1327
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120288"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50260371"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Общая структура безопасности (CSF) health Information Trust Alliance (HITRUST)
 
@@ -29,7 +29,7 @@ ms.locfileid: "50120288"
 
 The Health Information Trust Alliance (HITRUST) is an organization governed by representatives from the healthcare industry. HITRUST создан и поддерживает общую структуру безопасности (CSF), которая позволяет организациям здравоохранения и их поставщикам демонстрировать свою безопасность и соответствие требованиям согласованным и упорядоченным образом.
 
-CSF основан на HIPAA и акте HITECH, которые являются законами здравоохранения США, которые устанавливают требования к использованию, раскрытию и защите личной медицинской информации, а также принудительного соблюдения требований. HITRUST представляет собой стандартизированную структуру соответствия требованиям, оценку и сертификацию, с которой поставщики облачных служб и охваченные организации здравоохранения могут измерять соответствие требованиям. CSF также включает в себя требования безопасности, конфиденциальности и других нормативных требований для здравоохранения из таких существующих структур, как стандарт безопасности данных отрасли платежных карт[(PCI-DSS),](https://www.microsoft.com/trustcenter/compliance/pci)стандарты управления информационной безопасностью [ISO/IEC 27001](https://www.microsoft.com/trustcenter/compliance/iso-iec-27001) и минимальные допустимые стандарты риска для Exchange[(MARS-E).](https://www.microsoft.com/trustcenter/compliance/mars-e)
+CSF основан на HIPAA и законе HITECH, которые являются законами здравоохранения США, которые устанавливают требования к использованию, раскрытию и защите отдельно идентифицируемой медицинской информации, а также устанавливают соблюдение требований. HITRUST представляет собой стандартизированную структуру соответствия требованиям, оценку и сертификацию, с которой поставщики облачных служб и охваченные организации здравоохранения могут измерять соответствие требованиям. CSF также включает в себя требования безопасности, конфиденциальности и других нормативных требований для здравоохранения из таких существующих структур, как стандарт безопасности данных отрасли платежных карт[(PCI-DSS),](https://www.microsoft.com/trustcenter/compliance/pci)стандарты управления информационной безопасностью [ISO/IEC 27001](https://www.microsoft.com/trustcenter/compliance/iso-iec-27001) и минимальные допустимые стандарты риска для Exchange[(MARS-E).](https://www.microsoft.com/trustcenter/compliance/mars-e)
 
 CSF разделен на 19 различных доменов, включая защиту конечных точек, безопасность мобильных устройств и управление доступом. HITRUST сертифицировать ИТ-предложения для этих элементов управления. HITRUST также адаптируется требования сертификации к рискам организации на основе организационных, системных и нормативных факторов.
 
@@ -45,13 +45,14 @@ HITRUST предоставляет три степени гарантий или
 
 - [Azure и Azure для государственных организаций](https://aka.ms/AzureCompliance)
 - Intune
+- Компьютеры, управляемые Майкрософт
 - [Office 365 и Office 365 для государственных организаций США](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 
 Сертификация CSF HITRUST для Azure и Office 365 действительна в течение двух лет.
 
-- [Сертификация Azure HITRUST](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=02eaae7a-9d65-42e6-aec8-a8e22de1a494&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports)
+- [Azure HITRUST Letter of Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=02eaae7a-9d65-42e6-aec8-a8e22de1a494&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports)
 - [Сертификация OFFICE 365 HITRUST](https://aka.ms/O365HITRUSTcertification)
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Ускорение развертывания решений HIPAA/HITRUST в Azure
@@ -68,7 +69,7 @@ HITRUST предоставляет три степени гарантий или
 
 ## <a name="collaborate-with-microsoft-in-the-hitrust-shared-responsibility-program"></a>Сотрудничество с корпорацией Майкрософт в рамках программы общей ответственности HITRUST
 
-Ускорение обеспечения соответствия HITRUST вашему решению, которое поддерживается в Microsoft Azure, предварительно заполнив оценку полностью унаследованной или общей ответственностью для Azure в средстве HITRUST MyCSF и сотрудничая с корпорацией Майкрософт при оценке.
+Ускорите соответствие HITRUST вашему решению, которое будет работать в Microsoft Azure, предварительно заполнив оценку средствами контроля наследования или общей ответственности для Azure в средстве HITRUST MyCSF и сотрудничая с корпорацией Майкрософт при оценке.
 
 [Подробнее](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 
@@ -99,7 +100,7 @@ HITRUST предоставляет три степени гарантий или
 
 **Предоставляет ли майкрософт руководство моей организации по реализации соответствующих элементов управления при использовании Office 365?**
 
-Да, рекомендуемые действия клиентов можно найти в оценке соответствия требованиям, кросс-облачных решениях Майкрософт, которые помогают вашей организации выполнять сложные обязательства по обеспечению соответствия требованиям при использовании облачных служб. В частности, для CSF HITRUST рекомендуется проводить оценки риска с помощью Оценок NIST 800-53 и NIST CSF в оценке соответствия требованиям. В оценках мы предоставляем вам пошаговую инструкцию и решения Майкрософт, которые можно использовать для реализации средств контроля защиты данных. Вы можете узнать больше о оценке соответствия требованиям в [оценке соответствия требованиям (Майкрософт).](/microsoft-365/compliance/compliance-manager)
+Да, рекомендуемые действия клиентов можно найти в оценке соответствия требованиям, кросс-облачных решениях Майкрософт, которые помогают вашей организации выполнять сложные обязательства по обеспечению соответствия требованиям при использовании облачных служб. В частности, для CSF HITRUST рекомендуется выполнять оценки риска с помощью Оценок NIST 800-53 и NIST CSF в оценке соответствия требованиям. В оценках мы предоставляем вам пошаговую инструкцию и решения Майкрософт, которые можно использовать для реализации средств контроля защиты данных. Вы можете узнать больше о оценке соответствия требованиям в [оценке соответствия требованиям (Майкрософт).](/microsoft-365/compliance/compliance-manager)
 
 **Как взаимодействовать с корпорацией Майкрософт?**
 
