@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ece30846546e9857bfd0700b5555766a2da81fd2
-ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
+ms.openlocfilehash: 0d8c455842b07f3cbb41ee5979b1393a6c40dd3a
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49527804"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276087"
 ---
 # <a name="association-of-banks-in-singapore-abs-outsourced-service-providers-audit-report-ospar"></a>Отчет об аудиторской проверке стороннего поставщика сервисов (OSPAR) Ассоциации банков Сингапура (ABS)
 
@@ -46,7 +46,7 @@ ms.locfileid: "49527804"
 - Intune
 - Microsoft Cloud App Security
 - Microsoft Graph
-- Компьютеры, управляемые Майкрософт
+- [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Stream
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Power Automate в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365

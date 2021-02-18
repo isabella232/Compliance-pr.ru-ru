@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2fec2c20a4d2d2ddbf5a39b7cda1ff67a19e5830
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 9a75bf130ff6a34ffc44df2f60c682c0d5e77d4b
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119938"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276147"
 ---
 # <a name="service-organization-controls-soc"></a>Средства контроля обслуживающей организации (SOC)
 
@@ -54,7 +54,7 @@ ms.locfileid: "50119938"
 - [Dynamics 365 и Dynamics 365 для государственных организаций США](https://aka.ms/d365-compliance-list)
 - Microsoft Graph
 - Intune
-- Компьютеры, управляемые Майкрософт
+- [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
 - Облачная служба Power Automate (ранее Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - [Office 365, Office 365 для государственных организаций США и Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
@@ -68,8 +68,8 @@ ms.locfileid: "50119938"
 - Microsoft Cloud App Security
 - Microsoft Graph
 - Intune
-- Компьютеры, управляемые Майкрософт
-- Облачная служба Power Automate (прежнее название Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
+- [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
+- Облачная служба Power Automate (ранее Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - [Office 365, Office 365 для государственных организаций США и Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - Power BI

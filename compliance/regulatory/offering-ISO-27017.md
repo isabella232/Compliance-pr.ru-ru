@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef439ccb7c95698a8d7d4f5bc8b6d96bc42694a2
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e947350388126c74dfce10babcb232a395b1a7f6
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120128"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276047"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>ISO/IEC 27017:2015 "Свод правил по управлению информационной безопасностью"
 
@@ -52,7 +52,7 @@ ISO/IEC 27017 является уникальным стандартом, пре
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Компьютеры, управляемые Майкрософт
+- [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
 - Облачная служба Power Automate (прежнее название Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Office 365, Office 365 для государственных организаций США, Office 365 U.S. Government Defense и Office 365 Germany
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365

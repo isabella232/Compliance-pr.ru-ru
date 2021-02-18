@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ecf4d029b1c69e4ce7da1244d71d47433eb3873
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f0ad19fdeb794d281342367ad9313ac159b9acf0
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120148"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276037"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>Стандарты ISO 9001:2015 "Системы менеджмента качества"
 
@@ -42,8 +42,8 @@ ISO 9001:2015 — это международный стандарт, опред
 - Intune
 - Advanced Threat Protection в Microsoft Defender
 - Microsoft Healthcare Bot
-- Компьютеры, управляемые Майкрософт
-- Облачная служба Power Automate (прежнее название Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
+- [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
+- Облачная служба Power Automate (ранее Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
 - Power BI Embedded

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f6024f19c0557531d8d933bd1266f04219c2c2d9
+ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120228"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50290898"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Стандарты управления информационной безопасностью ISO/IEC 27001:2013
 
@@ -49,7 +49,7 @@ ISO/IEC 27001 — это стандарт безопасности, которы
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Компьютеры, управляемые Майкрософт
+- [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
 - Облачная служба Power Automate (ранее Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - [Office 365, Office 365 для государственных организаций США и Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - Office 365 Germany
@@ -77,11 +77,11 @@ ISO/IEC 27001 — это стандарт безопасности, которы
 
 ### <a name="azure-devops-services"></a>Azure DevOps Services
 
-- [Azure DevOps Services](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dVisual%2bStudio%2bOnline&licencenumber=IS%20619017)
+- [Azure DevOps Services](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
 
 ### <a name="microsoft-professional-services"></a>Профессиональные услуги Майкрософт
 
-- [Профессиональные услуги Майкрософт](https://www.bsigroup.com/Our-services/Certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
+- [Профессиональные услуги Майкрософт](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
 
 ## <a name="assessments-and-reports"></a>Оценки и отчеты
 
@@ -99,7 +99,7 @@ ISO/IEC 27001 — это стандарт безопасности, которы
 
 ### <a name="azure-devops-services"></a>Azure DevOps Services
 
-- [Azure DevOps Services — ISO 27001 сертификат IS 619017](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dVisual%2bStudio%2bTeam%2bServices&licencenumber=IS%20619017)
+- [Azure DevOps Services — ISO 27001 сертификат IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
 
 [См. дополнительные отчеты по аудиту](https://aka.ms/auditreports)
 
@@ -118,7 +118,7 @@ ISO/IEC 27001 — это стандарт безопасности, которы
 Да. Ежегодный процесс сертификации ISO / IEC 27001 для группы облачной инфраструктуры и операций Майкрософт включает в себя аудит операционной устойчивости. Для просмотра последнего сертификата щелкните ссылку под ним.
 
 - Microsoft Azure: [сертификат ISO/IEC 27001:2013 для облачной инфраструктуры и операций Майкрософт](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
-- Azure для Германии
+- Azure для Германии: [сертификат ISO/IEC 27001:2013 для облачной инфраструктуры и операций Майкрософт](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 
 **С чего мне начать свои действия по обеспечению соответствия стандарту ISO/IEC 27001 для моей организации?**
 
