@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 951b35d755091555450b7bcd4361d56c5159591e
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 319f51416b0bcafb17d8ac343093789146d13742
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276097"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497735"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>ISO/IEC 27018 "Свод правил по защите персональных данных в облаке"
 
@@ -63,7 +63,7 @@ ms.locfileid: "50276097"
 - Виртуальные агенты Power
 - Microsoft Threat Experts
 - Microsoft Stream
-- ATP в Защитнике Windows — обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и устранение угроз, оценка безопасности
+- Microsoft Defender для конечной точки: обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и реагирование, оценка безопасности
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 

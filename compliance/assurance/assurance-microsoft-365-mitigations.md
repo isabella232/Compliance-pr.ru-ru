@@ -1,5 +1,5 @@
 ---
-title: Меры по управлению непрерывной бизнес-непрерывной деятельностью в Microsoft 365 для предприятий
+title: Microsoft 365 для смягчения последствий непрерывности бизнеса для предприятий
 description: Некоторые примеры уменьшения отрицательных последствий для сценариев инцидентов обслуживания Microsoft 365
 author: robmazz
 ms.author: robmazz
@@ -16,12 +16,13 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b77af73db3a6b9d9fbaf3ae776a6c5077c6972d1
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 34f6bc7e597d4dfc279e55b9b8a1434e3ada45fb
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120478"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496976"
 ---
 # <a name="service-incident-mitigation-strategies"></a>Стратегии уменьшения отрицательных последствий инцидентов обслуживания
 

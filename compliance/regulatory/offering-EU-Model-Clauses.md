@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bb86eb3d5e1ce8b8580a35b78718df303bd6770f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509614"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496535"
 ---
 # <a name="european-union-model-clauses"></a>Типовые условия ЕС
 
@@ -53,7 +53,7 @@ ms.locfileid: "49509614"
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
 - Azure DevOps Services
-- Advanced Threat Protection в Защитнике Windows для следующих облачных частей службы: обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и исправление, оценка безопасности.
+- Microsoft Defender для конечной точки для следующих облачных частей службы: обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и исправление, оценка безопасности.
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 

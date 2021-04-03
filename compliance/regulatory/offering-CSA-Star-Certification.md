@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9c808a80aa2d2ab358378cfb0e50ef28f023bbf7
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: a33f9e6d19caa5a3b26f011b985481224123ea38
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276187"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496562"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>Сертификация Cloud Security Alliance (CSA) STAR
 
@@ -49,7 +49,7 @@ Microsoft Azure, Microsoft Intune и Microsoft Power BI получили сер�
 - Microsoft Healthcare Bot
 - Intune
 - [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
-- Advanced Threat Protection в Microsoft Defender
+- Microsoft Defender для конечной точки
 - OMS Service Map
 - Облачная служба Power Automate (прежнее название Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365

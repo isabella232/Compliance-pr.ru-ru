@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 953bf5587f621bb46c086ff8138b5519edd8d9fe
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: a04e5b7b0a292cfe419118085d387051e0c56e48
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276057"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497775"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>ISO/IEC 20000-1:2011 "Управление службами информационных технологий"
 
@@ -41,7 +41,7 @@ ms.locfileid: "50276057"
 
 - [Azure, Azure для государственных организаций и Azure для Германии](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
-- Advanced Threat Protection в Microsoft Defender
+- Microsoft Defender для конечной точки
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
