@@ -92,12 +92,8 @@
   items:
     - name: Обзор сетевой безопасности
       href: assurance-network-security.md
-    - name: Защита от отказа в обслуживании
-      href: assurance-defending-cloud-services-against-dos-attacks.md
-    - name: Стратегия защиты от отказа в обслуживании
+    - name: Стратегия защиты от атак типа "отказ в обслуживании"
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: Основные принципы защиты от отказа в обслуживании
-      href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Обнаружение вирусов в службах Microsoft 365
       href: /microsoft-365/security/office-365-security/virus-detection-in-spo?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Конфиденциальность
@@ -116,6 +112,10 @@
       href: assurance-sharepoint-online-data-deletion.md
     - name: Неизменность данных Microsoft 365
       href: assurance-data-immutability.md
+    - name: Классификация данных и метки конфиденциальности
+      href: assurance-data-classification-and-labels.md
+    - name: Создание платформы классификации данных
+      href: assurance-create-data-classification-framework.md
 - name: Устойчивость и непрерывность
   items:
     - name: Обзор устойчивости и непрерывности
