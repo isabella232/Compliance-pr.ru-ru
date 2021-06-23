@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e93f71a023fe79e768e96b3c8894bf09d0655b6e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d8ffd78c4d762d72310e3ac5b200d422b0af26cf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508261"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089763"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Надлежащая клиническая, лабораторная и производственная практика (GxP)
 
@@ -55,7 +55,7 @@ ms.locfileid: "49508261"
 ## <a name="how-to-implement"></a>Методика реализации
 
 - [Правила GxP для Microsoft 365](../downloads/microsoft-365-gxp-guidelines-july-2020.pdf): технический документ по использованию Microsoft 365 с соблюдением нормативов и рекомендаций GxP.
-- [Правила GxP для Microsoft Dynamics 365](../downloads/microsoft-dynamics-365-gxp-guidelines-july-2020.pdf): технический документ по использованию Microsoft Dynamics 365 с соблюдением нормативов и рекомендаций GxP.
+- [Правила GxP для Microsoft Dynamics 365](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=fb579b09-0874-4197-a97e-a25992383482&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_Compliance_Guides): технический документ по использованию Microsoft Dynamics 365 с соблюдением нормативов и рекомендаций GxP.
 - [Правила GxP для Azure](https://aka.ms/gxpcompliance): универсальный набор инструментов для использования Azure с соблюдением нормативов и рекомендаций GxP.
 - [Использование Azure с системами GxP](https://aka.ms/GXP-Azure-Strategies): помощь медико-биологическим организациям в разработке стратегии по созданию приложений GxP.
 - Руководство, содержащееся в FDA CFR Раздел 21 часть 11: помощь в разработке стратегии квалификации [Azure](https://aka.ms/Azure-FDA-Guidelines) и [Office 365](https://aka.ms/o365-qualification-guideline) в соответствии с указаниями FDA для электронных записей.

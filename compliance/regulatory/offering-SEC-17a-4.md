@@ -1,6 +1,6 @@
 ---
-title: Правило 17a-4(f) Комиссии по ценным бумагам и биржам США (США)
-description: Независимая компания по оценке проверила, что Azure и Office 365 могут помочь финансовым компаниям соответствовать правилу SEC 17a-4(f) по хранению записей и неуменяемым требованиям к хранилищу.
+title: Правило 17a-4(f) Комиссии по ценным бумагам и Exchange (SEC) США
+description: Независимая фирма по оценке подтвердила, что Azure и Office 365 могут помочь финансовым фирмам выполнить правила SEC 17a-4(f) хранения записей и неоменяемых требований к хранению.
 keywords: Microsoft 365, соответствие требованиям, предложения
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,33 +16,33 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f877bbec76cc0d760f2f908975b3818b88551829
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 6415b50a38d72ba66ede7e58e1b00aad2485ed42
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121208"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089048"
 ---
-# <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Правило 17a-4(f) Комиссии по ценным бумагам и биржам США (США)
+# <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Правило 17a-4(f) Комиссии по ценным бумагам и Exchange (SEC) США
 
 ## <a name="about-sec-rule-17a-4f"></a>О правиле SEC 17a-4(f)
 
-Комиссия по ценным бумагам [и биржам США (SEC)](https://www.sec.gov/) — это независимое агентство федерального правительства США, а также основной контролер и регулятор по рынкам ценных бумаг США. Он контролирует надзор за федеральным законодательством о ценных бумагах, предлагает новые правила ценных бумаг и контролирует регулирование рынка в отрасли ценных бумаг.
+Комиссия по ценным бумагам и Exchange США [(SEC)](https://www.sec.gov/) является независимым агентством федерального правительства США и главным контролером и регулятором рынков ценных бумаг США. Он обладает правоприменительных полномочий над федеральными законами о ценных бумагах, предлагает новые правила ценных бумаг и контролирует регулирование рынка в отрасли ценных бумаг.
 
-SEC определяет строгие и явные требования для регулируемых организаций, которые выбирают хранение книг и записей на электронных носитах. Она установила [17 CFR 240.17a-3](https://www.govinfo.gov/app/details/CFR-2012-title17-vol3/CFR-2012-title17-vol3-sec240-17a-3) и [17 CFR 240.17a-4](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt17.4.240&rgn=div5#se17.4.240_117a_64) для регулирования регистрации, включая периоды хранения, для брокеров-брокеров ценных бумаг. Позднее SEC [](https://www.sec.gov/rules/interp/34-47806.htm) внес изменения в 17 параграфа CFR 240.17a-4 (f), выпустив два интерпретативных выпуска, чтобы разрешить хранение книг и записей на электронных носитель при условии, что выполнены определенные условия.
+SEC определяет строгие и четкие требования к регулируемым субъектам, которые выбирают для хранения книг и записей на электронных носитах хранения. Она установила [17 CFR 240.17a-3](https://www.govinfo.gov/app/details/CFR-2012-title17-vol3/CFR-2012-title17-vol3-sec240-17a-3) и [17 CFR 240.17a-4](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt17.4.240&rgn=div5#se17.4.240_117a_64) для регулирования ведения записей, включая периоды хранения, для брокеров-дилеров ценных бумаг. Позднее SEC внесла изменения в [пункт](https://www.sec.gov/rules/interp/34-47806.htm) 17 CFR 240.17a-4 (f), издав два выпуска интерпретации, чтобы разрешить хранить книги и записи в средствах электронного хранения до тех пор, пока будут выполнены определенные условия.
 
-Система электронного хранения соответствует этим условиям, если предотвращает изменение или стирание записей в течение требуемого периода хранения. Периоды хранения зависят от трех-шести лет в зависимости от типов записей, при этом в течение первых двух лет должны быть доступны немедленные возможности. Кроме того, один из интерпретативных выпусков требует, чтобы система хранения была способна хранить записи после установленного SEC периода хранения в соответствии с подпунами, юридическим удержанием или другими подобными требованиями.
+Электронная система хранения отвечает этим условиям, если она предотвращает изменение или стирание записей в течение необходимого периода хранения. Срок хранения варьируется от трех до шести лет в зависимости от типов записей, при этом для первых двух лет требуется немедленная доступность. Кроме того, для одного из выпусков интерпретации необходимо, чтобы система хранения была способна хранить записи за пределами установленного SEC периода хранения, чтобы соответствовать требованиям по повесткам, юридическому удержанию или другим подобным требованиям.
 
-## <a name="microsoft-and-sec-rule-17a-4f"></a>Правило Майкрософт и SEC 17a-4(f)
+## <a name="microsoft-and-sec-rule-17a-4f"></a>Правило Microsoft и SEC 17a-4(f)
 
-Клиенты финансовых услуг, представляющие одну из наиболее жестко регулируемых отраслей в мире, подвержены сложным положениям, таким как хранение финансовых транзакций и связанных коммуникаций в неутираемом и не изумяемом состоянии. Среди наиболее строгих требований является правило 17a-4(f) Комиссии по безопасности и Exchange (SEC) США, которое устанавливает строгие требования для регулируемых организаций, которые выбирают хранение книг и записей на электронном хранилище. Хранимые записи не должны быть изменены или удаляться до окончания указанного периода хранения.
+Клиенты финансовых служб, представляющие одну из наиболее строго регулируемых отраслей в мире, подвержены сложным положениям, таким как хранение финансовых транзакций и связанных с ними сообщений в неустанных и неустанных состояниях. Среди наиболее предписывающих является правило 17a-4(f) Комиссии по безопасности и безопасности США Exchange (SEC), которое предусматривает строгие требования к регулируемым организациям, которые выбирают для хранения книг и записей на электронных носитлях хранения. Записи, хранимые, должны быть ненадеженными без возможности изменять или удалять их до окончания назначенного периода хранения.
 
-Microsoft Azure Immutable BLOB Storage with Policy Lock and Microsoft Office 365 with Preservation Lock can help financial institutions meet the immutable storage requirements of SEC Rule 17a-4(f).
+Microsoft Azure Непередаваемые Blob служба хранилища с блокировкой политики и Microsoft Office 365 с блокировкой сохранения могут помочь финансовым учреждениям соответствовать непеременяемым требованиям хранения правила SEC 17a-4(f).
 
-Чтобы оценить соответствие Azure и Office 365 правилу SEC 17a-4(f), корпорация Майкрософт сохранила независимую компанию по оценке, специализирующуюся на управлении записями и управлении информацией, Cohasset Associates. В итоговом отчете для:
+Чтобы оценить соответствие Azure и Office 365 правилу SEC 17a-4(f), Корпорация Майкрософт сохранила независимую фирму по оценке, которая специализируется на управлении записями и управлении информацией, Cohasset Associates. В итоговом отчете для:
 
-- **Azure**: оценка соответствия требованиям SEC [17a-4(f):](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)служба хранилища Microsoft Azure ( Cohasset) проверила, что неусвояемое хранилище [BLOB-blob Azure](/azure/storage/blobs/storage-blob-immutable-storage) с параметром блокировки политики, если оно используется для хранения BLOB-данных с учетом времени в неперетираемом и неперезаписаемом формате (WORM), соответствует непеременяемым требованиям правила SEC к хранилищу. Каждый BLOB-проект (запись) защищен от изменения, перезаписи или удаления до истечения требуемого срока хранения и освобождения всех связанных юридических удержаний. Поставщики программного обеспечения и партнеры с конфиденциальными рабочими нагрузками теперь могут использовать неустановимое хранилище BLOB-хранилищ Azure в качестве облачного решения onestop-shop для хранения записей и неуменяемого хранилища. Финансовые учреждения теперь могут создавать собственные приложения, пользуясь преимуществами этих функций, при этом оставаясь совместимыми.
-- **Microsoft 365**: для требований [SEC 17a-4(f)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Компания Cohasset проверила, что Microsoft 365 включает функции архивации, которые позволяют регулируемым клиентам, включая брокеров-брокеров, хранить данные таким образом, чтобы они соответствовали требованиям SEC для хранения записей. Функции хранения в Microsoft 365 помогают сохранять широкий спектр данных, включая электронную почту, голосовую почту, общие документы, мгновенные сообщения и сторонние данные. В частности, архивирование в Microsoft 365 позволяет клиентам устанавливать глобальные или детализируемые политики хранения сообщений для хранения данных в течение определенного периода и более длительного периода в неопределяемом и не стираемом формате.
+- **Azure**: [SEC 17a-4(f)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)Оценка соответствия требованиям: служба хранилища Microsoft Azure , Cohasset подтвердила, что [Azure Immutable Blob служба хранилища](/azure/storage/blobs/storage-blob-immutable-storage) с параметром Блокировка политики, когда используется для сохранения временного Blobs в неустанном и неописуемом формате (WORM), отвечает непеременяемым требованиям к хранению правила SEC. Каждый Blob (запись) защищен от изменения, перезаписи или удаления, пока не истечет необходимый период хранения и не будут выпущены все связанные юридические удержания. Поставщики программного обеспечения и партнеры с конфиденциальными рабочими нагрузками теперь могут использовать Azure Immutable Blob служба хранилища как облачное решение onestop-shop для хранения записей и неостановимого хранения. Финансовые учреждения теперь могут создавать собственные приложения, пользуясь этими функциями, оставаясь совместимыми.
+- **Microsoft 365.** Для требований [SEC 17a-4(f)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset подтвердил, что Microsoft 365 включает функции архивации, которые позволяют регулируемым клиентам, включая брокеров-дилеров, хранить данные таким образом, чтобы они соответствовали требованиям SEC для хранения записей. Функции хранения Microsoft 365 сохраняют широкий спектр данных, включая электронную почту, голосовую почту, общие документы, мгновенные сообщения и сторонние данные. В частности, архивирование в Microsoft 365 позволяет клиентам устанавливать глобальные или гранулярные политики хранения сообщений для хранения данных за определенный период и за его пределами в неописуемом, не стираемом формате.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
 
@@ -53,25 +53,25 @@ Microsoft Azure Immutable BLOB Storage with Policy Lock and Microsoft Office 365
 
 ### <a name="azure--sec-rule-17"></a>Azure & SEC Rule 17
 
-[SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment of Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+[Sec 17a-4(f) & CFTC 1.31 (c-d) Оценка соответствия требованиям служба хранилища Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
 
-### <a name="office-365--sec-rule-17"></a>Правило 17 для & SEC в Office 365
+### <a name="office-365--sec-rule-17"></a>Office 365 & SEC Rule 17
 
-[Оценка соответствия требованиям SEC 17a-4(f): Центр безопасности и соответствия требованиям Майкрософт & с SharePoint, OneDrive, Teams, Exchange и Skype для бизнеса](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+[Оценка соответствия требованиям SEC 17a-4(f): Центр соответствия требованиям & microsoft Security SharePoint, OneDrive, Teams, Exchange и Skype для бизнеса](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=2dc92867-5f83-49d8-ad04-9e7295c9e40e&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 
 ## <a name="how-to-implement"></a>Методика реализации
 
-### <a name="financial-services-regulation"></a>Регулирование финансовых услуг
+### <a name="financial-services-regulation"></a>Регулирование финансовых служб
 
-Карта соответствия основным нормативным принципам США для облачных вычислений и веб-служб Майкрософт. [Подробнее](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+Карта соответствия ключевым принципам регулирования США для облачных вычислений и онлайн-служб Microsoft. [Подробнее](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
 ### <a name="risk-assessment--compliance-guide"></a>Руководство по оценке & соответствия требованиям
 
-Создайте модель управления для оценки рисков облачных служб Майкрософт и уведомлений регуляторов. [Подробнее](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+Создание модели управления для оценки рисков облачных служб Майкрософт и уведомления регулятора. [Подробнее](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 
 ### <a name="financial-use-cases"></a>Случаи финансового использования
 
-Используйте обзоры, учебники и другие ресурсы для создания решений Azure для финансовых услуг. [Подробнее](/azure/industry/financial/)
+Используйте обзоры кейсов, учебники и другие ресурсы для создания решений Azure для финансовых служб. [Подробнее](/azure/industry/financial/)
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
@@ -79,11 +79,11 @@ Microsoft Azure Immutable BLOB Storage with Policy Lock and Microsoft Office 365
 
 ## <a name="resources"></a>Ресурсы
 
-- [Архив в Microsoft Office 365, хранение данных и правило 17a-4](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
-- [Соответствие требованиям финансовых служб Майкрософт](https://download.microsoft.com/download/6/4/7/64707E3E-6D3E-45D0-8207-A0EA3201B4A6/Microsoft%20Cloud%20-%20Financial%20Services%20Compliance%20Program%20\(Print\).pdf)
-- [Программа соответствия требованиям: облачные и финансовые службы Майкрософт для бизнеса](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Архивативная Microsoft Office 365, хранение данных и правило 17a-4](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
+- [Соответствие требованиям Microsoft Financial Services](https://download.microsoft.com/download/6/4/7/64707E3E-6D3E-45D0-8207-A0EA3201B4A6/Microsoft%20Cloud%20-%20Financial%20Services%20Compliance%20Program%20\(Print\).pdf)
+- [Программа соответствия требованиям облачные службы и финансовые службы Майкрософт для бизнеса](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Соответствие финансовых услуг требованиям в Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Средство оценки облачных рисков для финансовых услуг в Azure](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Microsoft Office 365 Retention Policies](/office365/securitycompliance/retention-policies)
-- [Сообщество финансовых услуг Майкрософт](https://techcommunity.microsoft.com/t5/financial-services/ct-p/FinancialServices)
+- [Microsoft Office 365 Политики хранения](/office365/securitycompliance/retention-policies)
+- [Microsoft Financial Services Community](https://techcommunity.microsoft.com/t5/financial-services/ct-p/FinancialServices)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

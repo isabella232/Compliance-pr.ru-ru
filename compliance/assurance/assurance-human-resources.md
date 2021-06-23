@@ -1,6 +1,6 @@
 ---
 title: Обзор управления персоналом
-description: Узнайте о человеческих ресурсах в Microsoft 365
+description: Узнайте о людских ресурсах в Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 69f23af93f6b41563fb3694436bf7272ac2d5b75
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1dc9e54b7ebbf27dc77a1814a5411002ca75ad4c
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497184"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088618"
 ---
 # <a name="human-resources-overview"></a>Обзор управления персоналом
 
@@ -44,7 +44,7 @@ ms.locfileid: "51497184"
 
 ## <a name="what-additional-checks-are-performed-for-those-who-manage-cloud-services"></a>Какие дополнительные проверки выполняются для тех, кто управляет облачными службами?
 
-Помимо предварительного прохождения проверки, сотрудники Корпорации Майкрософт, которые предоставляют службы, связанные с Microsoft 365 в США, должны пройти проверку облачного фона Microsoft в качестве обязательного условия для доступа к системам Microsoft 365. Требования проверки фона различаются в соответствии с применимыми законами и моделями доставки услуг. Результаты проверки облачного фона Майкрософт хранятся в базе данных сотрудников и должны обновляться как минимум каждые два года. Если проверка облачного фона Майкрософт истекает и сотрудник не возобновляет ее, доступ к службам Microsoft 365 отменяется и больше не будет доступен до завершения проверки облачного фона Майкрософт. Кроме того, когда отношения занятости с Microsoft заканчиваются, весь доступ немедленно отменяется.
+В дополнение к предварительному отбору сотрудников Корпорации Майкрософт, которые предоставляют Microsoft 365 связанных с ними служб в США, необходимо пройти проверку облачного фона Microsoft в качестве обязательного условия для доступа к Microsoft 365 системам. Требования проверки фона различаются в соответствии с применимыми законами и моделями доставки услуг. Результаты проверки облачного фона Майкрософт хранятся в базе данных сотрудников и должны обновляться как минимум каждые два года. Если истекает срок действия проверки облачного фона Майкрософт и сотрудник не возобновляет его, доступ к Microsoft 365 службы отменяется и больше не будет доступен до завершения проверки облачного фона Майкрософт. Кроме того, когда отношения занятости с Microsoft заканчиваются, весь доступ немедленно отменяется.
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skillset-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Каким образом корпорация Майкрософт обеспечивает сотрудникам достаточное количество навыков и знаний для выполнения своих обязанностей и выполнения политик Майкрософт?
 
@@ -60,7 +60,7 @@ ms.locfileid: "51497184"
 
 ## <a name="how-does-microsoft-ensure-third-party-suppliers-meet-the-same-personnel-requirements-as-microsoft-employees"></a>Как корпорация Майкрософт обеспечивает, чтобы сторонние поставщики отвечали тем же требованиям персонала, что и сотрудники Корпорации Майкрософт?
 
-Microsoft 365 требует, чтобы сторонние поставщики подписали соглашение о мастер-службах поставщиков (MSSA). Это соглашение обязывит поставщика соблюдать политики и процедуры Корпорации Майкрософт, включая политики и процедуры безопасности персонала. Корпорация Майкрософт 365 отслеживает соблюдение требований к проверке для сторонних сотрудников, отслеживая результаты проверки напрямую. Корпорация Майкрософт требует от поставщиков отправлять результаты проверки сторонним сотрудникам непосредственно в Корпорацию Майкрософт.
+Microsoft 365 для сторонних поставщиков необходимо иметь подписанное соглашение о мастер-службах поставщиков (MSSA). Это соглашение обязывит поставщика соблюдать политики и процедуры Корпорации Майкрософт, включая политики и процедуры безопасности персонала. Microsoft 365 отслеживает соблюдение требований к проверке для сторонних сотрудников, отслеживая результаты проверки напрямую. Корпорация Майкрософт требует от поставщиков отправлять результаты проверки сторонним сотрудникам непосредственно в Корпорацию Майкрософт.
 
 ## <a name="related-external-regulations--certifications"></a>Связанные внешние правила & сертификации
 
@@ -69,7 +69,7 @@ Microsoft 365 требует, чтобы сторонние поставщики
 | **Внешние аудиты** | **Section** | **Дата последнего отчета** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | AT-2. Осведомленность о безопасности <br> AT-3: обучение безопасности на основе ролей <br> AT-4: записи подготовки по безопасности <br> PS-3: проверка персонала <br> PS-4: увольнение персонала <br> PS-5: передача персонала <br> PS-7: безопасность сторонних сотрудников | 24 сентября 2020 г. |
-| [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Утверждение применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Сертификация](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7. Безопасность кадров | 22 февраля 2020 г. |
-| [ISO 27017 (Office 365)](https://aka.ms/o365iso) <br><br> [Утверждение применимости](https://aka.ms/o365isosoa) <br> [Сертификация](https://aka.ms/Office365ISO27017Cert) | A.7. Безопасность кадров | 22 февраля 2020 г. |
+| [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Утверждение применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Сертификация](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7. Безопасность кадров | 20 апреля 2021 г. |
+| [ISO 27017 (Office 365)](https://aka.ms/o365iso) <br><br> [Утверждение применимости](https://aka.ms/o365isosoa) <br> [Сертификация](https://aka.ms/Office365ISO27017Cert) | A.7. Безопасность кадров | 20 апреля 2021 г. |
 | [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-08: проверка фона <br> CA-43: отзыв учетной записи | 24 декабря 2020 г. |
 | [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-07: Стандарты делового поведения (SBC) <br> CA-08: проверка фона <br> CA-43: отзыв учетной записи | 24 декабря 2020 г. |
