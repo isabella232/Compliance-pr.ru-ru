@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cf7d749df05d4be1396fa988615daa5c195c51cf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508054"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089833"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Стандарт Baseline Informatiebeveiliging Rijksdienst (BIR 2012)
 
@@ -45,8 +45,7 @@ ms.locfileid: "49508054"
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 
-- [Базовое применение BIR-2012 в Azure и Office 365](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage/pdf)
-- [Руководство пользователя по базовому применению BIR-2012 в Azure и Office 365 (на нидерландском языке)](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage%20User%20Guide_Dutch/docx)
+Корпорация Майкрософт привлекла независимую аудиторскую компанию для анализа степени охвата текущими сертификатами и аттестатами Azure и Office 365 (например, ISO/IEC 27001 и SOC 2 типа 2) той части BIR 2012, за которую отвечает корпорация Майкрософт. В итоговом отчете содержится сопоставление существующих сертификатов и аттестатов со средствами контроля, перечисленными в стандарте BIR 2012. Клиенты могут использовать отчет в качестве средства для принятия Azure в соответствии с требованиями BIR 2012. В отчете четко показано, какие средства контроля BIR 2012 охватываются корпорацией Майкрософт, а какие средства контроля должны быть реализованы клиентами. Отчет "Microsoft Cloud: охват базовых показателей BIR 2012 в Azure и Office 365" можно скачать в разделе [Отчеты аудита Service Trust Portal — отчеты оценки GRC](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3).
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 
