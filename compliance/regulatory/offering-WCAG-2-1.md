@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8bc078a84501b329f80a10cf218fbebfee53fbf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6330ee298949353c24a4b95ff65696807b78b09b
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508301"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088798"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Рекомендации по специальным возможностям для веб-контента
 
@@ -49,7 +49,7 @@ ms.locfileid: "49508301"
 - Intune
 - Office 365 и Office 365 для государственных организаций США
 - Office 365 для министерства обороны США
-- Windows Server 2016
+- Windows Server 2016
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Отчеты Майкрософт по обеспечению доступности
 
@@ -58,6 +58,6 @@ ms.locfileid: "49508301"
 ## <a name="resources"></a>Ресурсы
 
 - [Сайт о специальных возможностях Майкрософт](https://www.microsoft.com/accessibility): ознакомьтесь с использованием функций специальных возможностей и изучите, как инновации корпорации Майкрософт помогают каждому достичь большего.
-- [Центр специальных возможностей Office 365](https://go.microsoft.com/fwlink/p/?linkid=2051801). Ресурсы Office 365 для людей с ограниченными возможностями.
+- [Центр специальных возможностей Office 365](https://go.microsoft.com/fwlink/p/?linkid=2051801). Ресурсы Office 365 для людей с ограниченными возможностями.
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890). Поддержка для корпоративных клиентов с вопросами о специальных возможностях наших продуктов и служб или о соответствии требованиям.
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27f0072091520317a6780e00331e0997022941a0
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509557"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088948"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Центр информационных систем для финансовой отрасли (FISC)
 
@@ -47,7 +47,7 @@ ms.locfileid: "49509557"
 
 [Дополнительные сведения о проверке внешних оценщиков и ссылки на их сайты (только на японском языке)](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Поддерживаемые облачные службы Майкрософт
+## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security

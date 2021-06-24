@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8ae3f837336b0eb79ded802d17df37fefe8d5245
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508051"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088498"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>Золотой знак безопасности в облаке Cloud Security Mark Gold (CS Gold Mark)
 

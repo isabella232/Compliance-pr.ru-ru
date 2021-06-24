@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a04e5b7b0a292cfe419118085d387051e0c56e48
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 9995a237a82d41bfbb6740dbbe448f1ef3ae750a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497775"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088998"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>ISO/IEC 20000-1:2011 "Управление службами информационных технологий"
 
@@ -46,7 +46,7 @@ ms.locfileid: "51497775"
 - Microsoft Healthcare Bot
 - Intune
 - [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
-- Служба Office 365, предоставляемая компанией 21Vianet
+- Служба Office 365, предоставляемая компанией 21Vianet
 - Microsoft PowerApps
 - Power Automate (прежнее название Microsoft Flow)
 - Power BI

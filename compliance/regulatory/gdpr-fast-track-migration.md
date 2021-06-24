@@ -1,7 +1,7 @@
 ---
 title: GDPR
 description: 'Технические рекомендации Майкрософт: НАБОР ИНСТРУМЕНТОВ МИГРАЦИИ С ПОМОЩЬЮ FASTTRACK ДЛЯ ОТПРАВКИ ЗАПРОСОВ НА УДАЛЕНИЕ'
-keywords: Миграция с помощью FastTrack, Microsoft 365 для образования, документация по Microsoft 365, GDPR
+keywords: Миграция с помощью FastTrack, Microsoft 365 для образования, документация по Microsoft 365, GDPR
 localization_priority: Priority
 Robots: NOFOLLOW,NOINDEX
 ms.prod: microsoft-365-enterprise
@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496113"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089512"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Набор инструментов миграции с помощью FastTrack для отправки запросов на удаление
 
@@ -35,11 +35,11 @@ ms.locfileid: "51496113"
 
 Корпорация Майкрософт поддерживает первоначальный выпуск этого набора инструментов для платформы Windows и консоли PowerShell. Кроме того, этот набор инструментов поддерживает указанные ниже известные платформы.
 
-***Таблица 1. Платформы, поддерживаемые набором инструментов***
+***Таблица 1. Платформы, поддерживаемые набором инструментов** _
 
-****
+_***
 
-|Версия PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
+|Версия PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |5.0|Не поддерживается|Поддерживается|Поддерживается|Поддерживается|Поддерживается|
 |5.1|Не поддерживается|Поддерживается|Поддерживается|Поддерживается|Поддерживается|
@@ -53,7 +53,7 @@ ms.locfileid: "51496113"
 
 ![PowerShell: предоставление разрешения на внесение изменений приложению](../media/fasttrack-run-powershell_image.png)
 
-Теперь, когда консоль открыта, необходимо задать разрешения для выполнения сценария. Чтобы разрешить запуск сценариев, введите следующую команду:
+Теперь, когда вы открыли консоль, вам потребуется настроить разрешения для выполнения скрипта. Чтобы разрешить выполнение скрипта, введите следующую команду:
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 Вам будет предложено подтвердить это действие, так как администратор может изменять область по своему усмотрению.
 
-***Настройка политики выполнения***
+**_Настройка политики выполнения_* _
 
 ![Изменение политики выполнения в PowerShell](../media/powershell-set-execution-policy_image.png)
 
@@ -75,7 +75,7 @@ Install-Module -Name Microsoft.FastTrack -Repository PSGallery -WarningAction Si
 
 Для успешной работы этого модуля вам может потребоваться установить зависимые модули (если они еще не установлены). Возможно, вам придется перезапустить PowerShell.
 
-Прежде чем отправить DSR, необходимо выполнить вход с помощью учетных данных Office 365. Ввод соответствующих учетных данных позволит подтвердить статус глобального администратора и собрать сведения о клиенте.
+Чтобы отправить запрос субъекта данных, вам сначала потребуется выполнить вход, используя свои учетные данные Office 365. Введя соответствующие учетные данные, вы подтвердите свой статус глобального администратора и сможете собирать информацию о клиенте.
 
 ```powershell
 Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 После успешного входа в систему учетные данные и ключ будут сохранены для использования с модулями FastTrack до конца текущего сеанса PowerShell.
 
-Если вам необходимо подключиться к облачной среде, отличной от коммерческой, нужно добавить к команде *Log in* параметр *-Environment* с указанием одной из допустимых сред:
+Если вам необходимо подключиться к облачной среде, отличной от коммерческой, нужно добавить к команде *Log in* параметр -Environment* с указанием одной из допустимых сред:
 
 - AzureCloud
 - AzureChinaCloud
@@ -100,7 +100,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM> -Environment 
 Submit-FastTrackGdprDsrRequest -DsrRequestUserEmail SubjectUserEmail@mycompany.com
 ```
 
-В случае успеха командлет возвращает объект идентификатора транзакции. Просьба сохранить идентификатора транзакции.
+При успешном выполнении командлета он возвратит объект идентификатора транзакции. Сохраните этот идентификатор транзакции.
 
 #### <a name="checking-the-status-of-a-request-transaction"></a>Проверка состояния транзакции запроса
 
