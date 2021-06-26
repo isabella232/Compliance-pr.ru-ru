@@ -325,4 +325,4 @@
 - name: Закон Калифорнии о защите персональных данных потребителей (CCPA)
   items:
     - name: 'CCPA: вопросы и ответы'
-      href: ccpa-faq.md
+      href: ccpa-faq.yml
