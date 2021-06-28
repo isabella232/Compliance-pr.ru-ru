@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bf4ea5afbcc44a7e59e66d5d74c9b87123b6ded8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7079147a9ee952f97a4ad5b9d8df0cfcf9d494a2
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508004"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089823"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Меры безопасности высокого уровня согласно испанскому стандарту Esquema Nacional de Seguridad (ENS)
 
@@ -39,7 +39,7 @@ ms.locfileid: "49508004"
 
 ## <a name="microsoft-and-spain-ens-high-level-security-measures"></a>Майкрософт и меры безопасности высокого уровня согласно испанскому стандарту ENS
 
-Microsoft Azure и Microsoft Office 365 прошли строгую оценку компании BDO — независимого аудитора, который опубликовал официальное подтверждение их соответствия требованиям. Она сообщает, что меры безопасности в обеих службах, а также в их информационных системах и центрах обработки данных соответствуют стандарту RD 3/2010 на высоком уровне и не требуют какой-либо коррекции. Корпорация Майкрософт стала первым поставщиком гипермасштабируемых облачных служб в Испании, получившим этот сертификат.
+Microsoft Azure и Microsoft Office 365 прошли строгую оценку компании BDO — независимого аудитора, который опубликовал официальное подтверждение их соответствия требованиям. Она сообщает, что меры безопасности в обеих службах, а также в их информационных системах и центрах обработки данных соответствуют стандарту RD 3/2010 на высоком уровне и не требуют какой-либо коррекции. Корпорация Майкрософт стала первым поставщиком гипермасштабируемых облачных служб в Испании, получившим этот сертификат.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
 
