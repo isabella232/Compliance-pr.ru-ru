@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a559597f3fc959ffdc20ecfb14c7b143ae9b1849
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088498"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385349"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>Золотой знак безопасности в облаке Cloud Security Mark Gold (CS Gold Mark)
 
@@ -41,11 +41,25 @@ JASA разработала Авторизованную систему ауди
 
 После тщательной оценки, проведенной сертифицированным JASA аудитором, корпорация Майкрософт получила Золотой знак CS Gold Mark по всем трем категориям услуг. Были предоставлены аккредитации для решения Microsoft Azure Инфраструктура как услуга (IaaS) и Платформа как услуга (PaaS), а также для Microsoft Office 365 Программное обеспечение как услуга (SaaS). Корпорация Майкрософт была первым глобальным поставщиком облачных служб (CSP), получившим этот сертификат во всех трех категориях.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Поддерживаемые облачные службы Майкрософт
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-cs-gold-mark"></a>Office 365 и CS Gold Mark
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, диспетчер соответствия требованиям, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender для Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, надстройка Office 365 Advanced Compliance, Office 365 Cloud App Security, группы Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 

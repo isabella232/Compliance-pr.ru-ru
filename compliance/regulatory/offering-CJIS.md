@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fe96da8b7a8ef89f9dd8ce14573e3489c75f93e7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087618"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385369"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Политика безопасности служб уголовного правосудия (CJIS)
 
@@ -43,20 +43,38 @@ ms.locfileid: "53087618"
 
 Узнайте о преимуществах политики безопасности CJIS в облаке Microsoft: Узнайте, как [Genetec очищает уголовные расследования](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
 
-- [Azure Government](/azure/azure-government/documentation-government-welcome)
-- [Dynamics 365 Правительство США](/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
-- [Office 365 Правительство США](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
+- Azure Government
+- Dynamics 365 Правительство США
+- Office 365 Правительство США
 - Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
 
-## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
+## <a name="azure-dynamics-365-and-cjis"></a>Azure, Dynamics 365 и CJIS
+
+Дополнительные сведения о соответствии Azure, Dynamics 365 и другим сетевым службам см. в предложении [Azure CJIS.](/azure/compliance/offerings/offering-cjis)
+
+## <a name="office-365-and-cjis"></a>Office 365 и CJIS
+
+### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+
+Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+
+| **Применимость** | **In-scope services** |
+|:------------------|:----------------------|
+| **GCC** | Azure Active Directory, Диспетчер соответствия требованиям, Delve, Exchange Online, Формы, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 аудиты, отчеты и сертификаты
 
 ФБР не предлагает сертификацию соответствия Корпорации Майкрософт требованиям CJIS. Вместо этого в соглашения между Корпорацией Майкрософт и органом CJIS штата, а также между Корпорацией Майкрософт и ее клиентами включена атестация Майкрософт.
 
 [Требования к облаку Microsoft CJIS](https://aka.ms/MicrosoftCJISCloudRequirements)
 
-## <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>CJIS-статус в США (текущий с 11.05.2020 г.)
+### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>CJIS-статус в США (текущий с 11.05.2020 г.)
 
 45 штатов и округ Колумбия с соглашениями об управлении, которые выделены на карте зеленым цветом, включают:
 
@@ -64,7 +82,7 @@ ms.locfileid: "53087618"
 
 Приверженность Корпорации Майкрософт выполнению применимых элементов регулирования CJIS позволяет организациям уголовного правосудия внедрять облачные решения и быть совместимыми с политикой безопасности CJIS V5.9.
 
-## <a name="frequently-asked-questions"></a>Вопросы и ответы
+### <a name="frequently-asked-questions"></a>Вопросы и ответы
 
 **Где можно запрашивать сведения о соответствии требованиям?**
 
@@ -78,15 +96,14 @@ ms.locfileid: "53087618"
 
 [Политика безопасности CJIS включает](https://aka.ms/cjis-security-policy) меры предосторожности, которые необходимо принять вашему агентству для защиты CJI. Кроме того, представитель учетной записи Майкрософт может связаться с теми, кто знаком с требованиями вашей юрисдикции.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
 [Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Ресурсы
+### <a name="resources"></a>Ресурсы
 
 - [Службы информации по уголовному правосудию](https://aka.ms/cjis)
 - [Политика безопасности CJIS](https://aka.ms/cjis-security-policy)
-- [Рекомендации по реализации CJIS для правительства Azure](https://aka.ms/cjisimplementationguidelines)
 - [Центральная инфраструктура соответствия требованиям для стандартных элементов управления (Майкрософт)](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Облако Майкрософт для государственных организаций](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

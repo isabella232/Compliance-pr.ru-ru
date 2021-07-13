@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f6b0582215242dd1de187b4cd0386e44b144dba8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: b0b16b88ede35ed71cdc90b27a7e3076e51ae56b
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496481"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377816"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>Поддержка программы GDPR с контрольными списками готовности к подотчетности
 
@@ -32,13 +32,14 @@ ms.locfileid: "51496481"
 
 ## <a name="accountability-readiness-checklists"></a>Контрольные списки готовности к подотчетности
 
-Контрольные списки готовности к подотчетности — удобный способ получения доступа к информации, необходимой для соблюдения требований GDPR при использовании продуктов и служб Майкрософт. В контрольных списках перечислены потенциальные обязательства в рамках GDPR и приведены ссылки на информацию, которую можно использовать для обеспечения соответствия организации требованиям.
+Контрольные списки готовности к подотчетности — удобный способ получения доступа к информации, необходимой для соблюдения требований GDPR при использовании продуктов и служб Майкрософт. В контрольных списках перечислены потенциальные обязательства в рамках GDPR и приведены ссылки на информацию, которую можно использовать для обеспечения соответствия организации требованиям.
 
 Существует специальное руководство для четырех семейств продуктов и служб Майкрософт:
 
 - [Office 365](gdpr-arc-Office365.md)
-- [Dynamics 365](gdpr-arc-azure-dynamics.md)
-- [Azure](gdpr-arc-azure-dynamics.md)
+- [Dynamics 365](gdpr-arc-azure-dynamics-windows.md)
+- [Azure](gdpr-arc-azure-dynamics-windows.md)
+- [Windows](gdpr-arc-azure-dynamics-windows.md)
 - [Служба поддержки и профессионального обслуживания Майкрософт](gdpr-arc-prof-services.md)
 
 Вы можете управлять элементами этого контрольного списка в [диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager), ориентируясь на идентификаторы и названия контрольных точек в списке Customer Managed Controls (Контрольные точки под управлением клиента) на плитке GDPR.

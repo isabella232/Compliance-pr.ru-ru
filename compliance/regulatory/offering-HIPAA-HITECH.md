@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f32ebfe11debbace7783722553d37f68815a9085
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089522"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384869"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Закон о переносе и подотчетности медицинского страхования (HIPAA) & информационных технологий здравоохранения для экономического и клинического здоровья (HITECH)
 
@@ -47,30 +47,42 @@ HIPAA применяется к охваченным объектам (в час
 
 Чтобы узнать, как облако Майкрософт помогает клиентам поддерживать требования HIPAA и HITECH, посетите [веб-сайт Microsoft Customer Stories.](https://customers.microsoft.com/)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
 
-- [Azure и Azure Government](https://aka.ms/AzureCompliance)(см. *приложение A* и *B* для полного списка служб в области бизнес-партнерского соглашения HIPAA Корпорации Майкрософт)
+- Azure и Azure для государственных организаций
+- Azure DevOps Services
+- Dynamics 365 и Dynamics 365 для государственных организаций США
+- Intune
 - Microsoft Cloud App Security
 - [Microsoft Cloud для здравоохранения](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
-- Microsoft Stream
 - Профессиональные услуги Майкрософт: Premier и локальная поддержка для Azure, Dynamics 365, Intune, а также для среднего бизнеса и корпоративных клиентов с Microsoft 365 для бизнеса
-- [Dynamics 365 и Dynamics 365 для государственных организаций США](https://aka.ms/d365-compliance-list)
+- Office 365 Office 365 правительства США
 - Облачная служба Power Automate (ранее Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
-- Intune
-- [Office 365, Office 365 для государственных организаций США и Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Power BI облачной службы либо в качестве автономных служб, либо в Office 365 или пакете с фирмой Dynamics 365
-- Azure DevOps Services
 
-## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Ускорение развертывания решений HIPAA/HITRUST в Azure
+## <a name="azure-dynamics-365-and-hipaa"></a>Azure, Dynamics 365 и HIPAA
 
-Начните использовать преимущества облака для решений для данных о состоянии здоровья с помощью [концепции безопасности и](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)соответствия требованиям Azure. Этот план предоставляет инструменты и рекомендации для начала создания решений HIPAA/HITRUST сегодня.
+Дополнительные сведения о соответствии Azure, Dynamics 365 и другим сетевым службам см. в предложении [Azure HIPAA.](/azure/compliance/offerings/offering-hipaa-us)
 
-Дополнительные сведения можно получить в предложении Azure и [HIPAA.](/azure/compliance/offerings/offering-hipaa-us)
+## <a name="office-365-and-hipaa"></a>Office 365 и HIPAA
 
-## <a name="frequently-asked-questions"></a>Вопросы и ответы
+### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+
+Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+
+| **Применимость** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, Диспетчер соответствия требованиям, клиент lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 клиентского портала, Office 365 Microservices (включая, но не ограничивающийся Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Служба онлайн документов, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive для бизнеса, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype для бизнеса, Stream |
+| **GCC** | Azure Active Directory, служба связи Azure, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр соответствия требованиям &, Office Online, Office Pro Plus, OneDrive для бизнеса, planner, PowerApps, Power Automate Power BI, SharePoint Online, Skype для бизнеса, Stream |
+
+### <a name="frequently-asked-questions"></a>Вопросы и ответы
 
 **Может ли моя организация ввести baA с Microsoft?**
 
@@ -99,17 +111,13 @@ HIPAA применяется к охваченным объектам (в час
 - Руководство по реализации HipAA/HITECH Act для [Azure](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) для сотрудников по обеспечению конфиденциальности, безопасности и соответствия требованиям и других лиц, ответственных за реализацию hipaa и HITECH Act, описывает конкретные действия, которые ваша организация может предпринять для обеспечения соответствия требованиям.
 - [Практическое руководство](https://aka.ms/azureindustrysecurity) по разработке безопасных решений для здоровья с Microsoft Azure позволяет лучше понять, что необходимо для успешного использования облачной службы в безопасном режиме.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
 [Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Ресурсы
+### <a name="resources"></a>Ресурсы
 
 - [Соглашение партнеров по бизнесу MICROSOFT HIPAA](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
-- [Руководство по реализации Azure HIPAA](https://azure.microsoft.com/resources/a-practical-guide-to-designing-secure-health-solutions-using-microsoft-azure/)
-- [Проект Azure HIPAA/HITRUST](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/)
 - [Microsoft Cloud для предложений по обеспечению соответствия требованиям в области здравоохранения](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- [Azure для отрасли здравоохранения](https://azure.microsoft.com/industries/healthcare/)
-- [Azure High-Performance Computing for Health and Life Sciences](https://azure.microsoft.com/solutions/high-performance-computing/health-and-life-sciences/)
 - [Microsoft Cloud для отрасли здравоохранения](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
 - [Здравоохранение в Центре доверия Майкрософт](https://www.microsoft.com/trust-center/cloudservices/health)

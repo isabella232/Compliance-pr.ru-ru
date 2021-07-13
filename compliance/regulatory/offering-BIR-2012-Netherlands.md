@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: ca869ce3fe1bc6111cf975296993c655040be4d1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089833"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385479"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Стандарт Baseline Informatiebeveiliging Rijksdienst (BIR 2012)
 
@@ -37,11 +37,25 @@ ms.locfileid: "53089833"
 
 [Скачать руководство пользователя по базовому применению BIR-2012 в Azure и Office 365 для Microsoft Cloud](https://go.microsoft.com/fwlink/p/?linkid=2099461)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-bir-2012"></a>Office 365 и BIR 2012
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection, Bookings, Exchange Online Protection, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, Office 365 Cloud App Security, Группы Office 365, Office 365 Видео, Office Delve, OneDrive для бизнеса, Планировщик, Power Apps, Power Automate, Power BI для Office 365, PowerApps, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 

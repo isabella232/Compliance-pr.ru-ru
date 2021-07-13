@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0838ce11e732f5c6e8c79c40af0e85bff9d22caf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089733"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385009"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Федеральный стандарт обработки информации (FIPS) Публикация 140-2
 
@@ -37,19 +37,37 @@ ms.locfileid: "53089733"
 
 Технические сведения о криптографических модулях Microsoft Windows, политике безопасности для каждого модуля и каталоге сведений о сертификате CMVP см. в Windows и [Windows Server FIPS 140-2.](https://aka.ms/AA6ehud)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
 
 Хотя текущее руководство по внедрению CMVP FIPS 140-2 исключает проверку FIPS 140-2 для самой облачной службы; Поставщики облачных служб могут выбрать для получения и эксплуатации проверенных криптографических модулей FIPS 140 для вычислительных элементов, составляющих их облачную службу. В число веб-служб Microsoft, включающих компоненты, которые были проверены fiPS 140-2, относятся, в частности, следующие:
 
-- [Azure и Azure для государственных организаций](/azure/azure-government/documentation-government-plan-security)
-- [Dynamics 365 и Dynamics 365 Government](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
-- [Office 365, Office 365 для государственных организаций США и Office 365 U.S. Government Defense](/microsoft-365/compliance/office-365-encryption-risks-and-protections)
+- Azure и Azure для государственных организаций
+- Dynamics 365 и Dynamics 365 Government
+- Office 365, Office 365 для государственных организаций США и Office 365 U.S. Government Defense
 
-## <a name="frequently-asked-questions"></a>Вопросы и ответы
+## <a name="azure-dynamics-365-and-fips-140-2"></a>Azure, Dynamics 365 и FIPS 140-2
 
-**В чем разница между "FIPS 140 Validated" и "FIPS 140 compliant"?**
+Дополнительные сведения о соответствии Azure, Dynamics 365 и другим сетевым службам см. в предложении [Azure FIPS 140-2.](/azure/compliance/offerings/offering-fips-140-2)
 
-"FIPS 140 Validated" означает, что криптографический модуль или продукт, который встраивал модуль, был проверен ('certified) cmVP как соответствует требованиям FIPS 140-2. "FIPS 140 compliant" — это отраслевой термин для ИТ-продуктов, которые используют проверенные продукты FIPS 140 для криптографических функций.
+## <a name="office-365-and-fips-140-2"></a>Office 365 и FIPS 140-2
+
+### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+
+Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+
+| **Применимость** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365, GCC, GCC, DoD | Проверка [FIPS 140-2](/windows/security/threat-protection/fips-140-validation) |
+
+### <a name="frequently-asked-questions"></a>Вопросы и ответы
+
+**В чем разница между 'FIPS 140 Validated' и 'FIPS 140 compliant'?**
+
+"FIPS 140 Validated" означает, что криптографический модуль или продукт, который встраивал модуль, был проверен ('certified') cmVP как соответствует требованиям FIPS 140-2. "FIPS 140 compliant" является отраслевым термином для ИТ-продуктов, которые используют продукты FIPS 140 Validated для криптографических функций.
 
 **Когда корпорация Майкрософт проводит проверку FIPS 140?**
 
@@ -71,10 +89,6 @@ ms.locfileid: "53089733"
 
 Да, Федеральная программа управления рисками и авторизацией (FedRAMP) опирается на базовые уровни управления, определенные [NIST SP 800-53 Revision 4,](https://nvd.nist.gov/800-53/Rev4/)включая [шифрование SC-13,](https://nvd.nist.gov/800-53/Rev4/control/SC-13) определяющее использование криптографии с проверкой FIPS или криптографии, утвержденной NSA.
 
-**Как Microsoft Azure fiPS 140-2?**
-
-Azure построена с помощью комбинации аппаратных, коммерчески доступных операционных систем (Linux и Windows) и версии Windows. В рамках жизненного цикла разработки microsoft [Security](https://www.microsoft.com/securityengineering/sdl/) Development (SDL) все службы Azure используют утвержденные алгоритмы FIPS 140-2 для обеспечения безопасности данных, так как операционная система использует утвержденные алгоритмы FIPS 140-2 при работе в облаке гипермасштаба.
-
 **Можно ли использовать присоединение Корпорации Майкрософт к FIPS 140-2 в процессе сертификации моего агентства?**
 
 Чтобы соответствовать ТРЕБОВАНИЯМ FIPS 140-2, необходимо настроить систему для работы в утвержденном режиме работы FIPS, который включает в себя обеспечение того, чтобы криптографический модуль использовал только утвержденные FIPS алгоритмы. Дополнительные сведения о настройке систем, которые должны быть совместимы, см. в Windows и [Windows содержимого Server FIPS 140-2.](https://aka.ms/AA6ehud)
@@ -83,7 +97,7 @@ Azure построена с помощью комбинации аппаратн
 
 Это два отдельных стандарта безопасности с разными, но взаимодополняющими целями. FIPS 140-2 предназначен специально для проверки программных и аппаратных криптографических модулей, а общие критерии предназначены для оценки функций безопасности в ИТ-программах и аппаратных продуктах. При оценке общих критериев часто используются проверки FIPS 140-2 для обеспечения правильной реализации базовых функций криптографии.
 
-## <a name="resources"></a>Ресурсы
+### <a name="resources"></a>Ресурсы
 
 - [Требования к безопасности FIPS Pub 140-2 для криптографических модулей](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [Программа проверки криптографического модуля NIST](https://csrc.nist.gov/groups/STM/cmvp/index.html)

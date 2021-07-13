@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 977c4805617e71d065b5f8c7a97b91d277a2ef34
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088948"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384959"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Центр информационных систем для финансовой отрасли (FISC)
 
@@ -45,15 +45,29 @@ ms.locfileid: "53088948"
 
 Финансовые учреждения могут использовать эту оценку соответствия требованиям в трех областях для соответствующей инфраструктуры и служб Azure, Dynamics 365, Office 365 и Microsoft Cloud App Security.
 
-[Дополнительные сведения о проверке внешних оценщиков и ссылки на их сайты (только на японском языке)](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
+[Дополнительные сведения о проверке внешних оценщиков и ссылки на их сайты (только на японском языке](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
+- Microsoft Cloud App Security
+- Office 365
+- Облачная служба Power BI (в виде автономной службы или в составе плана либо набора Office 365)
+
+## <a name="office-365-and-fisc"></a>Office 365 и FISC
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 профессиональный плюс, Office Online, OneDrive для бизнеса, Power BI для Office 365, Project Online, SharePoint Online, Skype для бизнеса |
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 

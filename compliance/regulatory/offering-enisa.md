@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8f3471ee619bd2c67641d621652f1ce99322959a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 0769681ba9a8885639c52eaa1a3d4d55ea9ab0c0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509277"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384147"
 ---
 # <a name="enisa-information-assurance-framework"></a>Платформа информационных гарантий ENISA
 
@@ -33,7 +33,7 @@ ms.locfileid: "49509277"
 
 ## <a name="microsoft-and-the-enisa-iaf"></a>Майкрософт и ENISA IAF
 
-Платформа информационных гарантий ENISA основана на различных классах элементов управления из международного стандарта управления информационной безопасностью ISO/IEC 27001 и облачной матрице управления (CCM) Cloud Security Alliance (CSA) версии 3.0.1. CCM —  
+Платформа информационных гарантий ENISA основана на различных классах элементов управления из международного стандарта управления информационной безопасностью ISO/IEC 27001 и облачной матрице управления (CCM) Cloud Security Alliance (CSA) версии 3.0.1. CCM  
 это платформа элементов управления, включающая фундаментальные принципы защиты в 16 областях для помощи облачным клиентам в оценке общей угрозы безопасности поставщика облачных служб (CSP).
 
 Для самостоятельной оценки CSA STAR корпорация Майкрософт представила отчет, подтверждающий соответствие Microsoft Azure требованиям CCM CSA. (Корпорация Майкрософт также публикует заполненную анкету для общей оценки (CAIQ) для Azure.) Эта самостоятельная оценка  
@@ -43,19 +43,30 @@ ms.locfileid: "49509277"
 
 Так как эти отчеты самостоятельной оценки являются общедоступными, клиенты Azure получают представление о методах обеспечения безопасности Майкрософт и могут сравнить разных поставщиков облачных служб (CSP), используя одинаковую основу.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Поддерживаемые облачные службы Майкрософт
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
+- Office 365
 
-## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
+## <a name="azure-dynamics-365-and-enisa-iaf"></a>Azure, Dynamics 365 и ENISA IAF
 
-Корпорация Майкрософт подтверждает соответствие Azure требованиям платформы CSA CCM на основе самостоятельной оценки соответствия служб требованиям  
-ENISA IAF.
+Дополнительные сведения о соответствии требованиям Azure, Dynamics 365 и другим веб-службам см. в разделе [Предложение ENISA IAF Azure](/azure/compliance/offerings/offering-eu-enisa-iaf).
 
-- [Реестр CSA STAR](https://aka.ms/Azure_STAR)
+## <a name="office-365-and-enisa-iaf"></a>Office 365 и ENISA IAF
 
-## <a name="resources"></a>Ресурсы
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
-- [Стандартное реагирование Azure на запрос сведений](https://gallery.technet.microsoft.com/Azure-Standard-Response-to-5de19cb6)
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, диспетчер соответствия требованиям, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender для Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, надстройка Office 365 Advanced Compliance, Office 365 Cloud App Security, группы Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+
+### <a name="resources"></a>Ресурсы
+
 - [Майкрософт и самостоятельная оценка CSA STAR](offering-csa-star-self-assessment.md)
 - [Майкрософт и ISO/IEC 27001](offering-ISO-27001.md)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1b391d3f3cd748047e24bf9e82d3c267ca7425a7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1fe73fa10549c0126dc0b38b93cf1edd5b132855
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089552"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385049"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Швейцарская служба по надзору за финансовыми рынками (FINMA)
 
@@ -42,7 +42,7 @@ FINMA опубликовала [Циркуляр 2018/3. Аутсорсинг д
 - Обзор нормативно-правовой среды для соответствующего контекста.
 - Контрольный список, в котором определены проблемы, требующие решения, и сопоставлены службы Microsoft Azure, Microsoft Dynamics 365 и Microsoft 365 с этими нормативными обязательствами. Контрольный список можно использовать в качестве средства оценки соответствия нормативным требованиям и для предоставления внутренней структуры при регистрации соответствия требованиям, а также для помощи клиентам в проведении оценки рисков в облачных службах Майкрософт для бизнеса.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

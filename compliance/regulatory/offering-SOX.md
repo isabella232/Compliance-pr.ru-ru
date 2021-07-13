@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3720eb98ee6f903d59316500ffe008398f388bf0
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089793"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384349"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Акт Сарбейнс-Оксли от 2002 г. (SOX)
 
@@ -39,21 +39,35 @@ SEC не определяет и не навязывает процесс сер
 
 В отчете аудита, подготовленном стороной аудиторской фирмой, подтверждается, что элементы управления Майкрософт были разработаны надлежащим образом, в течение указанной даты и эффективно функционируют в течение указанного периода времени. Клиенты могут просмотреть отчеты, чтобы узнать о задачах управления Майкрософт и эффективности управления, а также получить доступ к дополнительным средствам управления.
 
-Чтобы помочь клиентам Azure выполнить свои обязательства по SOX, Корпорация Майкрософт опубликовала [руководство Azure для Sarbanes-Oxley.](https://aka.ms/Azure-SOX-Guide) В этом документе содержится практика переноса, в том числе последствия выполнения SOX, и опирается на внутренний опыт переноса приложений, соответствующих SOX , Microsoft Treasury и Microsoft Finance , в Azure.
-
 В Корпорации Майкрософт мы разделяем ответственность за соблюдение требований к нашим клиентам. Мы поставляем сведения о наших программах соответствия требованиям, которые можно проверить, запросив подробные результаты аудита у третьих лиц, удостоверяющих их. В конечном счете, однако, вы должны определить, соответствуют ли наши службы определенным законам и нормативным требованиям, применимым к вашему бизнесу. Например, вы несете ответственность за связанные с SOX средства управления безопасностью, такие как доступ пользователей к облачным ресурсам: организация должна разработать соответствующий аудит этих элементов управления в рамках соответствия требованиям SOX.
 
-Дополнительные инструкции по использованию отчетов Microsoft Azure соответствия требованиям при выполнении обязательств по обеспечению соответствия требованиям SOX: Скачайте руководство Azure для [Sarbanes-Oxley](https://aka.ms/Azure-SOX-Guide)
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
-
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
+- Office 365
+- Power BI облачной службы (как в качестве автономных служб, так и в том, что включено в Office 365 или пакет)
 
-## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
+## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 и SOX
+
+Дополнительные сведения о соответствии Azure, Dynamics 365 и другим сетевым службам см. в предложении [Azure SOX.](/azure/compliance/offerings/offering-sox-us)
+
+## <a name="office-365-and-sox"></a>Office 365 и SOX
+
+### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+
+Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+
+| **Применимость** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Цикл расширения, текст автоматического альта, защита информации Azure, службы двоичного преобразования, бронирование, Delve, элемент документа, редактор, Exchange Online, формы, вставка online media, Аналитика, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive для бизнеса, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, To-Do, web rendering service, Yammer корпоративный  |
+
+### <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 
 [Отчеты SOC 1 Type 2](offering-SOC.md) для:
 
@@ -61,17 +75,15 @@ SEC не определяет и не навязывает процесс сер
 - Dynamics 365
 - Office 365
 
-## <a name="frequently-asked-questions"></a>Вопросы и ответы
+### <a name="frequently-asked-questions"></a>Вопросы и ответы
 
 **Как использовать соответствие требованиям Microsoft SOX для облегчения процесса соответствия требованиям организации?**
 
 При переносе приложений и данных в закрытые облачные службы Майкрософт можно использовать аттестации и сертификации, которые имеет Корпорация Майкрософт. Независимые отчеты аудитора свидетельствуют об эффективности элементов управления, реализованных Корпорацией Майкрософт для обеспечения безопасности и конфиденциальности данных. Однако вы несете полную ответственность за обеспечение соответствия организации всем применимым законам и правилам.
 
-## <a name="resources"></a>Ресурсы
+### <a name="resources"></a>Ресурсы
 
-- [Руководство Azure для Sarbanes-Oxley](https://aka.ms/Azure-SOX-Guide)
 - [Программа соответствия финансовых услуг Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Соответствие финансовых услуг требованиям в Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Облачные и финансовые службы Майкрософт для бизнеса](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
+- [Облачные службы Майкрософт для бизнеса и финансовые услуги](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Общая ответственность в облачных вычислениях](https://aka.ms/sharedresponsibility)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

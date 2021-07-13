@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b6c48ebc9461010db1e129e88e53b4ada5c32683
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b761a9848e29b09fa46fdac822a545dc67be61f1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088808"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384339"
 ---
 # <a name="us-section-508"></a>Раздел 508 США
 
@@ -35,24 +35,40 @@ ms.locfileid: "53088808"
 
 Рассмотрение Корпорацией Майкрософт раздела 508 США при разработке продуктов и служб указывает на ее приверженность обеспечению доступности технологий и данных для всех клиентов.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
 
-- [Azure и Azure для государственных организаций](https://go.microsoft.com/fwlink/p/?linkid=2051569)
+- Azure и Azure для государственных организаций
 - Azure DevOps Services
 - Dynamics 365 и Dynamics 365 для государственных организаций США
 - Intune
-- [Office 365 и Office 365 для государственных организаций США](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- [Office 365 для министерства обороны США](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Windows Server 2016
+- Office 365, Office 365 правительства США, Office 365 обороны правительства США
+- Windows Server 2016
 
-## <a name="microsoft-accessibility-conformance-reports"></a>Отчеты Майкрософт по обеспечению доступности
+## <a name="office-365-and-us-section-508"></a>Office 365 и раздел 508 США
+
+### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+
+Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+
+| **Применимость** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Доступ, Azure Active Directory, бронирование, Диспетчер соответствия требованиям, Delve, Excel, Exchange Online, форм, Kaizala, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, портал администратора Office 365 для Android, Office 365 портал администрирования для iOS, портал администратора Office 365, Office 365 Advanced Compliance надстройки, Office 365 и Azure AD, Office 365 бизнес Center, Office 365 Security &, Центр соответствия требованиям, Office 365 Видео, Office 365 Web Suite, средство конфигурации Office, Office Lens, Office Online, Office Pro Plus, OneDrive для бизнеса, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype для бизнеса, StaffHub, Stream , To-Do, Visio, Word, Yammer  |
+| **GCC** | Azure Active Directory, Диспетчер соответствия требованиям, Delve, Exchange Online, Формы, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, Office 365 Advanced Compliance надстройки, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Plus, OneDrive для бизнеса, planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
+| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, Office 365 Advanced Compliance надстройки, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive для бизнеса, Planner, Power BI, SharePoint Online, Skype для бизнеса |
+
+### <a name="microsoft-accessibility-conformance-reports"></a>Отчеты Майкрософт по обеспечению доступности
 
 Ознакомьтесь с [отчетами о соответствии](https://cloudblogs.microsoft.com/industry-blog/government/2018/09/11/accessibility-conformance-reports/) для всех наших продуктов и служб.
 
-## <a name="resources"></a>Ресурсы
+### <a name="resources"></a>Ресурсы
 
 - [Страница доступности Майкрософт.](https://go.microsoft.com/fwlink/p/?linkid=2051579)Узнайте, как корпорация Майкрософт внося новые решения, чтобы каждый человек получил возможность добиться большего.
-- [Центр специальных возможностей Office 365](https://go.microsoft.com/fwlink/p/?linkid=2051801). Ресурсы Office 365 для людей с ограниченными возможностями.
+- [Центр специальных возможностей Office 365](https://go.microsoft.com/fwlink/p/?linkid=2051801). Ресурсы Office 365 для людей с ограниченными возможностями.
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890). Поддержка для корпоративных клиентов с вопросами о специальных возможностях наших продуктов и служб или о соответствии требованиям.
 - Программа доверенных тестеров [DHS.](https://go.microsoft.com/fwlink/?linkid=2052171)Получите сведения о программе доверенных тестера Министерства внутренней безопасности США (DHS), в которой участвует Корпорация Майкрософт.
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496535"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385159"
 ---
 # <a name="european-union-model-clauses"></a>Типовые условия ЕС
 
@@ -41,19 +41,33 @@ ms.locfileid: "51496535"
 
 Группа определила, что реализация положений в соглашениях Майкрософт согласуется с самыми жесткими требованиями. (Корпорация Майкрософт первой из поставщиков облачных служб получила от группы письмо согласования и утверждения.) Утверждение распространяется на обязательства, отраженные в типовых условиях 2010/87/ЕС, но не в приложениях, которые описывают передачу данных и меры безопасности, реализуемые импортером данных. DPA могут проанализировать приложения отдельно.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure и Azure для государственных организаций](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- Профессиональные услуги Майкрософт: Premier и локальная поддержка для Azure, Dynamics 365, Intune, а также для среднего бизнеса и корпоративных клиентов с Microsoft 365 для бизнеса
+- Azure и Azure для государственных организаций
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: облачная часть службы, а именно продукт-надстройка Intune и Управление мобильными устройствами для Office 365
-- Облачная служба Power Automate (прежнее название Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Microsoft Cloud App Security
+- Microsoft Defender для конечной точки для следующих облачных частей службы: обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и исправление, оценка безопасности.
+- Профессиональные услуги Майкрософт: Premier и локальная поддержка для Azure, Dynamics 365, Intune, а также для среднего бизнеса и корпоративных клиентов с Microsoft 365 для бизнеса
+- Office 365
+- Облачная служба Power Automate (ранее Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
-- Azure DevOps Services
-- Microsoft Defender для конечной точки для следующих облачных частей службы: обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и исправление, оценка безопасности.
+
+## <a name="office-365-and-european-union-model-clauses"></a>Office 365 и типовые условия ЕС
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Расширенная защита от угроз, Azure Active Directory, Azure Information Protection, Bookings, Диспетчер соответствия требованиям, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, надстройка Office 365 Advanced Compliance, Office 365 Cloud App Security, группы Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 
@@ -75,7 +89,7 @@ ms.locfileid: "51496535"
 
 **Кто такой субобработчик?**
 
-Субобработчик — это лицо, обрабатывающее персональные данные в соответствии с указаниями управляющего данными, типовыми условиями ЕС и условиями субдоговора. Клиенты Майкрософт — в частности независимые поставщики программного обеспечения (ISV) — иногда сами являются обработчиками данных. В таких случаях Майкрософт выступает в роли субобработчика.
+Субобработчик — это лицо, обрабатывающее персональные данные в соответствии с указаниями управляющего данными, типовыми условиями ЕС и условиями субдоговора. Клиенты Майкрософт — в частности независимые поставщики программного обеспечения (ISV) — иногда сами являются обработчиками данных. В таких случаях Майкрософт выступает в роли субобработчика.
 
 **С чего начинается обеспечение соответствия требованиям в организации?**
 
@@ -88,7 +102,6 @@ ms.locfileid: "51496535"
 - [Директива ЕС о защите данных](https://aka.ms/EU-DPD)
 - [Европейский совет по защите данных](https://edpb.europa.eu/)
 - [Типовые условия ЕС: вопросы и ответы по Dynamics 365 и Office 365](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
-- [Майкрософт и соглашение о правилах обмена конфиденциальной информацией между ЕС и США](offering-eu-us-privacy-shield.md)
 - [Центральная инфраструктура соответствия требованиям для стандартных элементов управления (Майкрософт)](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Условия использования веб-служб Майкрософт](https://aka.ms/Online-Services-Terms)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

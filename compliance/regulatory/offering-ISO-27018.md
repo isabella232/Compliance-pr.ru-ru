@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 319f51416b0bcafb17d8ac343093789146d13742
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 579e300213f15d6416b7c0c8f9d37668c9934faa
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497735"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384739"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>ISO/IEC 27018 "Свод правил по защите персональных данных в облаке"
 
@@ -42,51 +42,58 @@ ms.locfileid: "51497735"
 - **Клиенты Майкрософт знают, что происходит с их личными сведениями.** Стандарт ISO/IEC 27018 требует применения политики, позволяющей возвращать, передавать и безопасно удалять личные сведения в течение разумного срока. Если корпорация Майкрософт сотрудничает с другими компаниями, которым требуется доступ к данным ваших клиентов, Майкрософт заранее предоставляет сведения об этих субобработчиках.
 - **Корпорация Майкрософт выполняет только юридически обязывающие запросы на раскрытие данных клиентов.** Если корпорация Майкрософт обязана выполнить такой запрос (например, при расследовании преступления), корпорация Майкрософт уведомит об этом клиента, если это не запрещено законом.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure, Azure для государственных организаций и Azure для Германии](https://aka.ms/AzureCompliance)
+- Azure, Azure для государственных организаций и Azure — Германия
 - Azure DevOps Services
+- [Dynamics 365, Dynamics 365 для государственных учреждений и Dynamics 365 — Германия](https://aka.ms/d365-compliance-list)
+- Intune
 - Microsoft Cloud App Security
-- Dynamics 365, Dynamics 365 для государственных учреждений и Dynamics 365 — Германия
-- Профессиональные услуги Майкрософт: Premier и локальная поддержка для Azure, Dynamics 365, Intune, а также для среднего бизнеса и корпоративных клиентов с Microsoft 365 для бизнеса
+- Профессиональные услуги Майкрософт: Premier и локальная поддержка для Azure, Dynamics 365, Intune, а также для среднего бизнеса и корпоративных клиентов с Microsoft 365 для бизнеса
 - Microsoft Graph
 - Microsoft Healthcare Bot
-- Intune
 - [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
-- Облачная служба Power Automate (прежнее название Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
-- [Office 365, Office 365 для государственных организаций США и Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Microsoft Threat Experts
+- Microsoft Stream
+- Office 365, Office 365 для государственных организаций США и Office 365 U.S. Government Defense
 - Office 365 Germany
-- Клиент OMS Service Map
+- OMS Service Map
+- Облачная служба Power Automate (прежнее название Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
 - Power BI Embedded
-- Виртуальные агенты Power
-- Microsoft Threat Experts
-- Microsoft Stream
-- Microsoft Defender для конечной точки: обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и реагирование, оценка безопасности
+- Power Virtual Agents
+- Microsoft Defender для конечной точки: обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и исправление, оценка безопасности
 
-## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
+## <a name="azure-dynamics-365-and-iso-isoiec-27018"></a>Azure, Dynamics 365 и ISO ISO/IEC 27018
 
-### <a name="audit-cycle"></a>Цикл аудита
+Дополнительные сведения о соответствии требованиям Azure, Dynamics 365 и другим веб-службам см. в разделе [Предложение Azure ISO/IEC 27018](/azure/compliance/offerings/offering-iso-27018).
+
+## <a name="office-365-and-iso-isoiec-27018"></a>Office 365 и ISO ISO/IEC 27018
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, диспетчер соответствия требованиям, защищенное хранилище, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, клиентский портал Office 365, микрослужбы Office 365 (в том числе Kaizala, ObjectStore, Sway, служба документов PowerPoint Online, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, программа приложений eXtensible), Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, инфраструктура служб Office, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, Project Online, шифрование службы с помощью ключа клиента, SharePoint Online, Skype для бизнеса, Stream |
+| **GCC** | Azure Active Directory, Azure Communications Service, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+| **GCC High** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
+| **DoD** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, SharePoint Online, Skype для бизнеса |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 
 Аудит облачных и коммерческих служб технической поддержки Майкрософт выполняется раз в год на соответствие своду правил ISO/IEC 27018 в рамках процесса сертификации для ISO/IEC 27001.
-
-### <a name="audits-and-reports"></a>Аудит и отчеты
-
-- [Azure, Dynamics 365 и веб-службы: сертификат ISO27018](https://aka.ms/azureiso27018cert)
-- [Azure, Dynamics 365 и веб-службы: отчет об оценке ISO27018](https://aka.ms/azureiso27001report)
-- [Azure — Германия: сертификат ISO27018 — свод правил по защите персональных данных в облаке](https://servicetrust.microsoft.com/Documents/ComplianceReports?downloadDocument=1&documentId=6a0dab80-8382-4af6-980c-ed2ed9a341c6)
-
-### <a name="office-365"></a>Office 365
 
 - [Office 365: отчет об оценке аудита ISO 27001, 27018 и 27017](https://aka.ms/o365isoreport)
 - [Отчет аудиторской оценки по ISO 27018 для Yammer](https://aka.ms/YammerISO27018Auditreport)
 
-### <a name="azure-devops-services"></a>Azure DevOps Services
-
-- [Azure DevOps Services: сертификат ISO27018 PII 665918](https://go.microsoft.com/fwlink/p/?linkid=2062252)
-
-## <a name="frequently-asked-questions"></a>Вопросы и ответы
+### <a name="frequently-asked-questions"></a>Вопросы и ответы
 
 **К кому применяется ISO/IEC 27018?**
 
@@ -99,23 +106,21 @@ ms.locfileid: "51497735"
 - "Контроллеры" управляют сбором, удержанием, обработкой или использованием личных сведений. К ним относятся те, кто управляет ими от имени другой организации.
 - "Обработчики" обрабатывают сведения от имени контроллеров. Они не принимают решений о способе использования сведений или целях обработки. При предоставлении корпоративных облачных служб (выступая в качестве поставщика по отношению к вам) корпорация Майкрософт является обработчиком сведений.
 
-**Где можно посмотреть сведения о соответствии Майкрософт требованиям ISO/IEC 27018?**
+**Где можно посмотреть сведения о соответствии Office 365 требованиям ISO/IEC 27018?**
 
-- Вы можете просмотреть сертификаты ISO/IEC 27018 от BSI для [Azure](https://go.microsoft.com/fwlink/p/?linkid=2078016), [профессиональных услуг Майкрософт](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft%2bCorporation&licencenumber=PII%20642270) и [Power BI](https://go.microsoft.com/fwlink/p/?linkid=2078016).
-- Вы также можете просмотреть сертификаты ISO/IEC 27001 от BSI, на которых основана сертификация ISO/IEC 27018, для [Dynamics 365](https://aka.ms/Dynamics-CRM-Online-Cert), [Office 365](https://aka.ms/Office365-Cert) и [Azure DevOps Services](https://go.microsoft.com/fwlink/p/?linkid=2062159).
-- Чтобы ознакомиться с отчетами BSI (независимый аудитор, подтвердивший соответствие Майкрософт стандарту ISO/IEC 27018), посетите портал [Service Trust Portal](https://aka.ms/stphelp).
+- Вы можете ознакомиться с сертификатами ISO/IEC 27018 от BSI (независимый аудитор, подтвердивший соответствие Майкрософт стандарту ISO/IEC 27018) для [Office 365](https://aka.ms/Office365-Cert).
 
 **Можно ли использовать соответствие требованиям Майкрософт в процессе сертификации моей организации?**
 
-Да. Если соблюдение стандарта ISO/IEC 27018 важно для вашей организации и развертывания выполнены на основе любых применимых корпоративных облачных служб (Майкрософт), вы можете использовать аттестацию Майкрософт о соответствии стандарту ISO/IEC 27018 с сертификацией Майкрософт по ISO/IEC 27001 в рамках своей оценки соответствия требованиям.
+Да. Если соблюдение стандарта ISO/IEC 27018 важно для вашей организации, а развертывание выполнено с использованием любых применимых корпоративных облачных служб Майкрософт, вы можете использовать аттестацию Майкрософт о соответствии стандарту ISO/IEC 27018 вместе с сертификацией Майкрософт по стандарту ISO/IEC 27001 в рамках оценки соответствия требованиям вашей организации.
 
 Однако вы несете ответственность за привлечение аудитора для оценки реализации на соответствие требованиям, а также оценки средств управления и процессов в рамках вашей организации.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
 [Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Ресурсы
+### <a name="resources"></a>Ресурсы
 
 - [Свод правил ISO/IEC 27018:2014](https://aka.ms/ISO.IEC_27018.2014)
 - [Центральная инфраструктура соответствия требованиям для стандартных элементов управления (Майкрософт)](https://www.microsoft.com/trustcenter/common-controls-hub)

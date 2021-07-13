@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e57959e6463704b1a6821ace10b9eadad1b570c1
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088848"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385499"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Австралийский орган пруденциального регулирования (APRA)
 
@@ -72,11 +72,25 @@ CPS 234 тесно отражает основную структуру безо
 
 Получите практическую поддержку для переноса данных и рабочих нагрузок в Azure в соответствии с правилами APRA: Скачайте облачные службы Microsoft: контрольный список соответствия требованиям для финансовых учреждений [в Австралии.](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
 
-- [Azure](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Dynamics 365
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Office 365
+
+## <a name="office-365-and-apra"></a>Office 365 и APRA
+
+### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+
+Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+
+| **Применимость** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 клиентский портал, Office Online, инфраструктура Office служб, OneDrive для бизнеса, SharePoint Online, Skype для бизнеса |
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 

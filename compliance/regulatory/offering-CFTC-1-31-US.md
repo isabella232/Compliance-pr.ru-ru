@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 85a8a27b1478ef3cecccd15a4f01bba563a5e1ef
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: ac17525d8368b61dfd00bfa765e5ee2d1533b3f6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087628"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385429"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Правило 1.31 (c-d) США
 
@@ -45,7 +45,7 @@ ms.locfileid: "53087628"
 
 Для требований [CFTC 1.31(c)-(d)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) Cohasset подтвердил, что Microsoft 365 включает функции архивации, которые позволяют регулируемым клиентам, включая брокеров-дилеров, хранить данные таким образом, чтобы они могли соответствовать требованиям SEC для хранения записей. Функции хранения Microsoft 365 сохраняют широкий спектр данных, включая электронную почту, голосовую почту, общие документы, мгновенные сообщения и сторонние данные. В частности, архивирование в Microsoft 365 позволяет клиентам устанавливать глобальные или гранулярные политики хранения сообщений для хранения данных за определенный период и за его пределами в неописуемом, не стираемом формате.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7154e239956c624d621977b8c9167ec5e58c5001
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7a530d78107af4f37607f90c6a93008ec695f765
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121778"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385469"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>Каталог средств контроля соответствия облачных вычислений требованиям (C5)
 
@@ -31,7 +31,7 @@ ms.locfileid: "50121778"
 
 Каталог требований C5 предназначен для того, чтобы обеспечить согласованную структуру безопасности для сертификации поставщиков облачных служб и предоставить пользователям гарантии безопасного управления их данными.
 
-C5 основан на таких признанных на международном уровне стандартах безопасности информационных технологий как ISO/IEC 27001:2013, Cloud Security Alliance Cloud Controls Matrix 3.0.1, а также собственных каталогах BSI базовой защиты информационных технологий — IT-Grundschutz. Каталог содержит 114 требований для 17 доменов, например по организации информационной и физической безопасности, которые включают в себя основные требования по обеспечению безопасности для всех поставщиков облачных служб, а также другие требования по обработке данных с высокой степенью конфиденциальности и ситуаций c высоким уровнем доступности.
+C5 основан на таких признанных на международном уровне стандартах безопасности информационных технологий как ISO/IEC 27001:2013, Cloud Security Alliance Cloud Controls Matrix 3.0.1, а также собственных каталогах BSI базовой защиты информационных технологий — IT-Grundschutz. Каталог содержит 114 требований для 17 доменов, например по организации информационной и физической безопасности, которые включают в себя основные требования по обеспечению безопасности для всех поставщиков облачных служб, а также другие требования по обработке данных с высокой степенью конфиденциальности и ситуаций c высоким уровнем доступности.
 
 Кроме того, BSI уделяет особое внимание прозрачности. В процессе проверки от поставщика облачных служб требуется предоставить подробное описание системы и раскрыть такие параметры среды, как юрисдикция и место обработки данных, сертификаты на оказание услуг и другие сертификаты, выдаваемые облачным службам, а также сведения об обязательствах поставщика облачных служб по раскрытию информации перед государственными органами. Это позволяет потенциальным клиентам облачных служб решить, отвечают ли эти облачные службы их основным требованиям, например, по соответствию законодательству о защите данных или политикам компании, или по возможностям предотвращения угрозы промышленного шпионажа.
 
@@ -39,7 +39,7 @@ C5 основан на таких признанных на международ
 
 Облачные службы Майкрософт проходят проверку по стандартам SOC 2 (AT Раздел 101) не реже одного раза в год. Согласно предложению BSI, аудит C5 можно объединять с аудитом SOC 2, что позволит повторно использовать некоторые части описания системы и результаты аудита как элементы двойного контроля. Для подтверждения соответствия С5 для Microsoft Azure, государственных учреждений и Azure для Германии используется объединенный отчет (C5, SOC 2 типа 2, аттестацию CSA STAR) на основе аудиторской оценки независимого аудитора.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Поддерживаемые облачные службы Майкрософт
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure, Azure для государственных организаций и Azure для Германии](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 Germany
@@ -68,8 +68,8 @@ C5 основан на таких признанных на международ
 
 ## <a name="resources"></a>Ресурсы
 
-- Каталог средств контроля соответствия облачных вычислений требованиям (C5) ([Английский](https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html)) ([Немецкий](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Kriterienkatalog/Kriterienkatalog_node.html))
-- Рекомендации по безопасности для поставщиков облачных вычислений ([Английский](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([Немецкий](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
+- Каталог средств контроля соответствия облачных вычислений требованиям (C5) ([Английский](https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html)) ([Немецкий](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Kriterienkatalog/Kriterienkatalog_node.html))
+- Рекомендации по безопасности для поставщиков облачных вычислений ([Английский](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([Немецкий](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
 - [Отчеты о соответствии требованиям: C5- und SOC-Testate Azure Deutschland](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=df100ae1-baf9-4785-8a6d-864c0bc5c308&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_SOC%20%2F%20SSAE%2016%20Reports)
 - [Книга соответствия требованиям IT-Grundschutz](https://gallery.technet.microsoft.com/Azure-Germany-IT-fca4afd7) в Microsoft Azure для Германии
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e83206a9d8f0639d529b64f00c07a79a16d40f0d
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 40309a5da5a9124fa91ddca4f371ebf05e363715
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088518"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385489"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Финансовая служба (AMF) и Управление по надзору (ACPR), Франция
 
@@ -49,7 +49,7 @@ AMF и ACPR действуют совместно с Европейской сл
 - Обзор нормативно-правовой среды для соответствующего контекста.
 - Контрольный список, в котором определены проблемы, требующие решения, и сопоставлены службы Microsoft Azure, Microsoft Dynamics 365 и Microsoft 365 с этими нормативными обязательствами. Контрольный список можно использовать в качестве средства оценки соответствия нормативным требованиям и для предоставления внутренней структуры при регистрации соответствия требованиям, а также для помощи клиентам в проведении оценки рисков в облачных службах Майкрософт для бизнеса.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120098"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384519"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>Стандарт многоуровневой облачной безопасности (MTCS) для Сингапура
 
@@ -44,21 +44,33 @@ MTCS — это первый стандарт облачной безопасн�
 
 Сертификаты предоставлены на уровне 3 для служб Microsoft Azure (IaaS и PaaS), Microsoft Dynamics 365 (SaaS) и Microsoft Office 365 (SaaS). Сертификат уровня 3 означает, что в соответствующих облачных службах Майкрософт можно размещать важные данные для поднадзорных организаций с самыми строгими требованиями к безопасности. Он требуется правительством Сингапура для определенных развертываний облачных решений.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure](https://go.microsoft.com/fwlink/p/?linkid=2092718)
-- [Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2051700)
-- Microsoft Cloud App Security
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Genomics
+- Intune
+- Microsoft Cloud App Security
 - Microsoft Graph
 - Microsoft Healthcare Bot
-- Intune
-- Flow
+- Office 365
 - OMS Service Map
 - PowerApps
 - Power BI
-- Microsoft Stream
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+
+## <a name="office-365-and-mtcs"></a>Office 365 и MTCS
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, клиентский портал Office 365, Office Online, инфраструктура служб Office, SharePoint Online, Skype для бизнеса |
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 

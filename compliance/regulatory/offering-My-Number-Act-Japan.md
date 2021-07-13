@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9c3ebd4c4988366d429f7b6cfc377f4f9c8a611
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120078"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384469"
 ---
 # <a name="my-number-act-japan"></a>Закон Японии об индивидуальном номере
 
@@ -47,23 +47,33 @@ ms.locfileid: "50120078"
 
 Таким образом, облачные службы Майкрософт для бизнеса поддерживают требования закона об индивидуальном номере и не образуют никаких предусмотренных этим законом дополнительных обязательств для клиентов, например, обязательство получения согласия от индивидуальных владельцев личных данных.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Поддерживаемые облачные службы Майкрософт
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-my-number-act"></a>Office 365 и закон об индивидуальном номере
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, диспетчер соответствия требованиям, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender для Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, надстройка Office 365 Advanced Compliance, Office 365 Cloud App Security, группы Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 
 ## <a name="how-to-implement"></a>Методика реализации
 
 - [Политика безопасности Майкрософт](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=231213ea-9954-41fd-a757-ae62f3721dc7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): как корпорация Майкрософт поддерживает безопасность личных данных и данных организаций в своих облачных службах.
-
 - [Конфиденциальность в Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): как корпорация Майкрософт встраивает надежные меры по защите конфиденциальности в Office 365.
-
 - [Административный доступ в Office 365](/office365/SecurityCompliance/office-365-administrative-access-controls-overview): как корпорация Майкрософт управляет доступом администраторов к данным клиентов.
-
 - [Аудит и отчеты в Office 365](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): узнайте о функциях, с помощью которых можно отслеживать действия пользователей и администраторов в клиентах.
-
 - [Хранение данных в Office 365](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): политика обращения с данными в отношении длительности хранения данных клиентов после их удаления.
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы

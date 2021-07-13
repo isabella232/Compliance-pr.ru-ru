@@ -1,6 +1,6 @@
 ---
 title: Федеральный совет по рассмотрению финансовых учреждений (FFIEC)
-description: Корпорация Майкрософт помогает клиентам финансовых услуг соответствовать требованиям аудита Федерального совета по рассмотрению финансовых учреждений (FFIEC).
+description: Корпорация Майкрософт помогает клиентам финансовых служб выполнять требования аудита Федерального совета по проверке финансовых учреждений (FFIEC).
 keywords: Microsoft 365, соответствие требованиям, предложения
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,59 +16,77 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 73a23d89876ee6c4c11a98a95d8f2bd491642b60
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: dc7fa7f7762d503097ef4bd6fd9ec948993ab10b
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120888"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385079"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Федеральный совет по рассмотрению финансовых учреждений (FFIEC)
 
 ## <a name="ffiec-overview"></a>Обзор FFIEC
 
-Федеральный совет по рассмотрению финансовых учреждений (FFIEC) — это формальный орган межучреждения, состоящий из пяти банковских регуляторов, отвечающих за проверки финансовых учреждений в США федеральными государственными учреждениями. Служба проверки FFIEC для образовательных учреждений публикует руководства по ИТ-экзамену, предназначенные для проверяющих полей из агентств, в которые входит FFIEC.
+Федеральный совет по проверке финансовых учреждений (FFIEC) — это формальный межведомственной орган, состоящий из пяти банковских регуляторов, которые отвечают за проверки финансовых учреждений сша федеральным правительством США. Учебный центр FFIEC Examiner Office справочники по ИТ-экспертизе, предназначенные для полевых экспертов из учреждений-членов FFIEC.
 
-Руководство по аудиту ИТ-аналитики [FFIEC](https://ithandbook.ffiec.gov/it-booklets/audit.aspx) содержит рекомендации для этих экспертов по оценке качества и эффективности программ ИТ-аудита как финансовых учреждений, так и TSP. В частности, в нем содержится упоминание отчетов аттестации SOC 1, SOC 2 и SOC 3 Американского института сертифицированных бухгалтеров (AICPA) в качестве примеров независимых отчетов аудита. Однако FFIEC рекомендует финансовым учреждениям не полагаться только на сведения, содержащиеся в этих отчетах, но и использовать процедуры проверки и мониторинга, подробно рассмотренные в справочнике по ИТ-анализу служб аутсорсинга [FFIEC.](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
+Справочник по аудиту ИТ-аналитики [FFIEC](https://ithandbook.ffiec.gov/it-booklets/audit.aspx) содержит рекомендации для этих экспертов по оценке качества и эффективности программ аудита ИТ как финансовых учреждений, так и TSPs. В частности, в качестве примеров независимых отчетов аудита в нем упоминаются отчеты по аттестации SOC 1, SOC 2 и SOC 3 Американского института сертифицированных государственных бухгалтеров (AICPA). Однако FFIEC рекомендует финансовым учреждениям не полагаться только на сведения, содержащиеся в этих отчетах, но и использовать процедуры проверки и мониторинга, подробно рассмотренные в справочнике по ИТ-экспертизе аутсорсинговых служб [FFIEC Outsourcing Technology Services.](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
 
-## <a name="microsoft-and-ffiec"></a>Майкрософт и FFIEC
+## <a name="microsoft-and-ffiec"></a>Microsoft и FFIEC
 
-Microsoft Azure, Microsoft Power BI и Microsoft Office 365 отвечают строгим требованиям к предоставлению облачных служб для финансовых учреждений. В рамках нашей поддержки мы предлагаем рекомендации по выполнению требований аудита FFIEC для информационных технологий и возможности использования службы attestations SOC Azure при выполнении ваших обязательств по обеспечению соответствия FFIEC.
+Microsoft Azure, microsoft Power BI и Microsoft Office 365 построены для удовлетворения строгих требований предоставления облачных служб для учреждений финансовых служб. В рамках нашей поддержки мы предлагаем рекомендации по выполнению требований аудита FFIEC для информационных технологий и возможности использования attestations Azure SOC при выполнении ваших обязательств по обеспечению соответствия требованиям FFIEC.
 
-Чтобы помочь клиентам финансовых учреждений обеспечить соответствие требованиям FFIEC в Azure, корпорация Майкрософт разработала план безопасности и соответствия требованиям Azure для рабочих нагрузок регулируемых служб [FFIEC.](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint) Здесь вы можете получить рекомендации по использованию облачных служб Azure и рекомендации по обеспечению соответствия клиентов требованиям FFIEC и рекомендациям по оценке рисков.
+Чтобы помочь клиентам финансовых учреждений соответствовать требованиям соответствия требованиям FFIEC в Azure, Корпорация Майкрософт разработала план безопасности и соответствия требованиям Azure для рабочих нагрузок регулируемых служб [FFIEC.](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint) В нем предлагаются рекомендации по использованию облачных служб Azure и соображения для соответствия клиентов требованиям FFIEC и рекомендациям по оценке рисков.
 
-Чтобы обеспечить соответствие требованиям FFIEC, облачные службы Майкрософт предоставляют отчеты об [attestation SOC,](offering-SOC.md) которые производятся независимой фирмой CPA. Например, заверение SOC 1 типа 2 основано на стандарте AICPA SSAE 18 (см. раздел 105 AT-C), который заменил SAS 70, и подходит для отчетности по некоторым средствам контроля для финансовой отчетности. Отчеты SOC включают заключение аудитора об эффективности средств контроля Майкрософт в достижении соответствующих целей контроля в указанный период мониторинга. Финансовые учреждения могут использовать этот формальный аудит при выполнении обязательств по обеспечению соответствия FFIEC для активов, развернутых в Azure, Power BI и Office 365.
+Чтобы помочь вам выполнить требования FFIEC, облачные службы Майкрософт предоставляют отчеты о проверке [soC,](offering-SOC.md) производимые независимой фирмой CPA. Например, атестация SOC 1 Type 2 основана на стандарте AICPA SSAE 18 (см. раздел AT-C 105), заменяемом SAS 70, и подходит для представления отчетов о некоторых средствах управления для финансовой отчетности. Отчеты SOC включают заключение аудитора об эффективности контроля Майкрософт в достижении связанных целей управления в указанный период мониторинга. Финансовые учреждения могут использовать этот формальный аудит при выполнении обязательств по обеспечению соответствия требованиям FFIEC для активов, развернутых в Azure, Power BI и Office 365.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Облачная служба Power BI в виде автономной службы или в составе плана либо набора Office 365
+- Office 365 Office 365 правительства США
+- Power BI облачной службы (как в качестве автономных служб, так и в том, что включено в Office 365 или пакет)
 
-## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
+## <a name="azure-dynamics-365-and-ffiec"></a>Azure, Dynamics 365 и FFIEC
 
-Отчеты об attestation SOC в Azure и Office 365.
+Дополнительные сведения о соответствии Azure, Dynamics 365 и другим сетевым службам см. в предложении [Azure FFIEC.](/azure/compliance/offerings/offering-ffiec-us)
 
-## <a name="frequently-asked-questions"></a>Вопросы и ответы
+## <a name="office-365-and-ffiec"></a>Office 365 и FFIEC
 
-**Можно ли использовать соответствие Майкрософт стандартам SOC для выполнения обязательств по обеспечению соответствия FFIEC для моего учреждения?**
+### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
 
-Чтобы помочь вам выполнить эти обязательства, Корпорация Майкрософт передает конкретные данные о соответствии стандартам SOC, как описано выше. Однако в конечном итоге вы должны определить, соответствуют ли наши службы определенным законам и нормативам, применимым к вашему учреждению. FFIEC также рекомендует "пользователям отчетов аудита или проверок не полагаться только на сведения, содержащиеся в отчете, для проверки среды внутреннего контроля TSP. Им следует использовать другие процедуры проверки и [](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) мониторинга, как более подробно обсуждается в книге по технологии аутсорсинга руководства по ИТ-анализу FFIEC.'
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+
+Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+
+| **Применимость** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Веб, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 Cloud App Security, Office 365 группы, Office 365 Центр обеспечения безопасности &, Office 365 Видео, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+| **GCC** | Azure Active Directory, Диспетчер соответствия требованиям, Delve, Exchange Online, Формы, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 аудиты, отчеты и сертификаты
+
+См. Office 365 отчеты по проверке soC.
+
+### <a name="frequently-asked-questions"></a>Вопросы и ответы
+
+**Могу ли я использовать соответствие Корпорации Майкрософт стандартам SOC для выполнения обязательств по обеспечению соответствия требованиям FFIEC для моего учреждения?**
+
+Чтобы помочь вам выполнить эти обязательства, Корпорация Майкрософт сообщает нам о соответствии требованиям стандартов SOC, как описано выше. Однако, в конечном счете, вы должны определить, соответствуют ли наши службы определенным законам и правилам, применимым к вашему учреждению. FFIEC также рекомендует "пользователям отчетов или обзоров аудита полагаться только на сведения, содержащиеся в отчете, для проверки внутренней среды управления TSP. Они должны использовать другие процедуры проверки и [](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) мониторинга, как это более подробно обсуждалось в книге технологии аутсорсинга справочника по ИТ-экспертизе FFIEC."
+
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 
 [Диспетчер соответствия требованиям (Майкрософт)](/microsoft-365/compliance/compliance-manager) — это предварительная функция в [Центре соответствия требованиям Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center), помогающая понять состояние вашей организации в отношении соответствия требованиям и принять меры по снижению рисков. Диспетчер соответствия требованиям предоставляет премиум-шаблон для оценки этих нормативных требований. Шаблон находится на странице **шаблонов оценки** в диспетчере соответствия требованиям. См. [Создание оценки в диспетчере соответствия требованиям](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Ресурсы
+### <a name="resources"></a>Ресурсы
 
 - [Федеральный совет по рассмотрению финансовых учреждений (FFIEC)](https://www.ffiec.gov/)
 - [Карта соответствия принципам облачных вычислений и нормативных требований в США](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- [Справочник по аудиту ИТ-контроля FFIEC](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
-- [Справочник по ИТ-анализу служб аутсорсинга FFIEC](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
-- [План финансовых услуг FFIEC для обеспечения безопасности и соответствия требованиям Azure](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)
+- [Справочник по аудиту ИТ-экспертизы FFIEC](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
+- [Справочник по ИТ-экспертизе служб аутсорсинга FFIEC](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
 
-## <a name="other-microsoft-resources-for-financial-services"></a>Другие ресурсы Майкрософт для финансовых услуг
+### <a name="other-microsoft-resources-for-financial-services"></a>Другие ресурсы Майкрософт для финансовых услуг
 
 - [Программа соответствия финансовых услуг Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Соответствие финансовых услуг требованиям в Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)

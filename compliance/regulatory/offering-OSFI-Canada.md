@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 2b98a7ab816f526a5371788df14755b998e14099
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120018"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384369"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Управление ревизора финансовых учреждений (OSFI) Канады
 
@@ -44,7 +44,7 @@ ms.locfileid: "50120018"
 - Обзор нормативно-правовой среды для соответствующего контекста.
 - Контрольный список, в котором определены проблемы, требующие решения, и сопоставлены службы Microsoft Azure, Microsoft Dynamics 365 и Microsoft 365 с этими нормативными обязательствами. Контрольный список можно использовать в качестве средства оценки соответствия нормативным требованиям и для предоставления внутренней структуры при регистрации соответствия требованиям, а также для помощи клиентам в проведении оценки рисков в облачных службах Майкрософт для бизнеса.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

@@ -1,5 +1,5 @@
 ---
-title: Закон Аргентины о защите персональных данных (PDPA)
+title: Закон о защите персональных данных (PDPA) Аргентины
 description: Облачные службы Майкрософт для бизнеса соответствуют стандартам PDPA для защиты конфиденциальности персональных данных.
 keywords: Microsoft 365, соответствие требованиям, предложения
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119918"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385649"
 ---
-# <a name="personal-data-protection-act-pdpa-argentina"></a>Закон Аргентины о защите персональных данных (PDPA)
+# <a name="argentina-personal-data-protection-act-pdpa"></a>Закон о защите персональных данных (PDPA) Аргентины
 
 ## <a name="about-the-pdpa"></a>Сведения о PDPA
 
@@ -39,13 +39,27 @@ PDPA соответствует европейской модели законо
 
 Технические и организационные меры безопасности, реализованные в облачных службах для бизнеса, также поддерживают другие правила из PDPA, например запрет последующего использования персональных данных субъекта и запрет на передачу персональных данных в страны, не обеспечивающие надлежащий уровень защиты.
 
-Соглашение о передаче данных Майкрософт — это изменение (ИЗМЕНЕНИЕ № M314) условий обработки данных в наших условиях использования веб-служб. Оно добавляет важные обязательства, в том числе, что корпорация Майкрософт уведомляет клиента о любых юридически обязывающих запросах по раскрытию персональных данных; по запросу клиента предоставляет свои средства обработки данных на аудит клиента или сторонней организации; и получает предварительное письменное согласие на использование субподрядчиков.
+Соглашение о передаче данных Майкрософт — это изменение (Изменение № M314) условий обработки данных в наших условиях использования веб-служб. Оно добавляет важные обязательства, в том числе, обязательство корпорации Майкрософт уведомлять клиента о любых юридически обязывающих запросах по раскрытию персональных данных; по запросу клиента предоставлять свои средства обработки данных для проверки клиентом или сторонней организацией; а также получать предварительное письменное согласие на использование субподрядчиков.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure и Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-pdpa"></a>Office 365 и PDPA
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Интернета, MyAnalytics, Office 365 Cloud App Security, Группы Office 365, Office 365 Видео, Office Delve, OneDrive для бизнеса, Планировщик, Power Apps, Power BI для Office 365, PowerApps, Power Automate, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 
 ## <a name="how-to-implement"></a>Методика реализации
 
@@ -56,7 +70,7 @@ PDPA соответствует европейской модели законо
 
 **Как регламент GDPR изменил закон о защите персональных данных?**
 
-В конце 2018 г. в Аргентине еще не приняты нормы, связанные с GDPR, но подготовлен новый закон о защите данных, который уже передан в Конгресс исполнительными органами и находится на рассмотрении Палаты представителей, чтобы привести его в соответствие с GDPR. При этом устраняется разница в определении субъектов данных и решаются проблемы с трансграничным переносом персональных сведений.
+В конце 2018 г. в Аргентине еще не приняты нормы, связанные с GDPR, но подготовлен новый закон о защите данных, который уже передан в Конгресс исполнительными органами и находится на рассмотрении в Палате представителей в целях приведение его в соответствие с GDPR. Закон предполагает устранение таких спорных вопросов, как определение субъектов данных и проблемы с трансграничным переносом персональных данных.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Оценка риска с помощью диспетчера соответствия требованиям (Майкрософт)
 

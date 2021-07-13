@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7cc2131bf35f4f230ed3d18a22d7da0533dd3be5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121378"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385399"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Контрольные показатели Center for Internet Security (CIS)
 
@@ -50,13 +50,13 @@ Center for Internet Security (CIS) опубликовал контрольные
   
 В дополнение к контрольным показателям для продуктов и служб Майкрософт, CIS также опубликовал [CIS Hardened Images, предназначенные для использования на виртуальных машинах Azure](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/), настроенных для соответствия контрольным показателям CIS. В их число входят CIS Hardened Image для Microsoft Windows Server 2016, сертифицированный для запуска на Azure. Согласно информации CIS, "все защищенные образы CIS, доступные на [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security), сертифицированы для запуска на Azure. Они были предварительно протестированы на готовность и совместимость с общедоступным облаком Azure, облачной платформой Microsoft, размещенной поставщиками услуг через сеть Cloud OS Network, и развертываниями в локальном частном облаке Windows Server Hyper-V, управляемыми клиентами".
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure и Azure для государственных организаций](https://aka.ms/AzureCompliance)
 - [Office и Microsoft 365](https://aka.ms/o365-compliance-framework)
 - SQL Server
-- Windows 10
-- Windows Server 2016
+- Windows 10
+- Windows Server 2016
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 
@@ -70,7 +70,7 @@ Center for Internet Security (CIS) опубликовал контрольные
 ## <a name="how-to-implement"></a>Методика реализации
 
 - [Контрольный показатель CIS для Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/cis-microsoft-azure-foundations-security-benchmark/CIS_Microsoft_Azure_Foundations_Benchmark_v1.0.0.pdf): получите конкретные рекомендации по созданию безопасной базовой конфигурации для Azure.  
-- [Схема обеспечения безопасности Microsoft 365](/microsoft-365/security/office-365-security/security-roadmap): сведите к минимуму риск утечки данных или компрометации учетных записей, соблюдая эту схему.
+- [Схема обеспечения безопасности Microsoft 365](/microsoft-365/security/office-365-security/security-roadmap): сведите к минимуму риск утечки данных или компрометации учетных записей, соблюдая эту схему.
 - [Базовые показатели безопасности Windows](/windows/security/threat-protection/windows-security-baselines): следуйте этим рекомендациям, чтобы эффективно использовать базовые показатели безопасности в вашей организации.
 - [Сопроводительное руководство по контрольным точкам CIS Controls для облака](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/): получите рекомендации по применению передовых методов безопасности в CIS Controls, версия 7 для облачных сред.
 

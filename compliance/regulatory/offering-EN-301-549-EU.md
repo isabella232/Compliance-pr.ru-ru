@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4ec39ccbeb9780c51ef813c1520675abb1d19cc9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2d02e7643ca554e55f4d901a95a39d1a8e5285f9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089572"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385209"
 ---
 # <a name="european-standards-en-301-549"></a>Европейские стандарты EN 301 549
 
@@ -35,13 +35,13 @@ ms.locfileid: "53089572"
 
 Майкрософт учитывает требования EN 301 549 при разработке продуктов и служб, стремясь обеспечить удобство работы для всех клиентов.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure и Azure для государственных организаций](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Azure DevOps Services
 - Dynamics 365 и Dynamics 365 для государственных организаций США
 - Intune
-- [Office 365 и Office 365 для государственных организаций США](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365 и Office 365 для государственных организаций США
 - Office 365 для министерства обороны США
 - Windows Server 2016
 

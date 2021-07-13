@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6330ee298949353c24a4b95ff65696807b78b09b
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: baea6a472b247d3f86019792a56fb28a6a256b77
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088798"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384319"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Рекомендации по специальным возможностям для веб-контента
 
@@ -41,15 +41,31 @@ ms.locfileid: "53088798"
 
 [Скачать стандарты специальных возможностей WCAG (ISO/IEC 40500)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure и Azure для государственных организаций](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Azure DevOps Services
 - Dynamics 365 и Dynamics 365 для государственных организаций США
 - Intune
-- Office 365 и Office 365 для государственных организаций США
-- Office 365 для министерства обороны США
+- Office 365, Office 365 для государственных организаций США, Office 365 U.S. Government Defense
 - Windows Server 2016
+
+## <a name="office-365-and-wcag"></a>Office 365 и WCAG
+
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
+
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+
+| **Применимость** | **Затрагиваемые службы** |
+|:------------------|:----------------------|
+| **Office 365** | Excel, Центр администрирования Exchange, Центр администрирования Office 365 (портал), интерфейс входа в Office 365 и Azure AD, клиентский портал Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Lens, Office.com, Центр администрирования OneDrive, OneDrive для бизнеса, клиент синхронизации OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
+| **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
+| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, SharePoint Online, Skype для бизнеса |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Отчеты Майкрософт по обеспечению доступности
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3e0cedef50d4ac52547c785e5a5395b8b67ca1d6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120093"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384449"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>Национальный банк Бельгии (NBB) и Служба по финансовым услугам и рынкам (FSMA)
 
@@ -50,7 +50,7 @@ NBB и FSMA действуют совместно с Европейской ба
 - Обзор нормативно-правовой среды для соответствующего контекста.
 - Контрольный список, в котором определены проблемы, требующие решения, и сопоставлены службы Microsoft Azure, Microsoft Dynamics 365 и Microsoft 365 с этими нормативными обязательствами. Контрольный список можно использовать в качестве средства оценки соответствия нормативным требованиям и для предоставления внутренней структуры при регистрации соответствия требованиям, а также для помощи клиентам в проведении оценки рисков в облачных службах Майкрософт для бизнеса.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

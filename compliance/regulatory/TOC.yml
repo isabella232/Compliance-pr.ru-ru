@@ -248,8 +248,8 @@
       items:
         - name: Контрольные списки готовности к подотчетности
           href: gdpr-arc.md
-        - name: Azure и Dynamics 365
-          href: gdpr-arc-azure-dynamics.md
+        - name: 'Azure, Dynamics 365 и Windows'
+          href: gdpr-arc-azure-dynamics-windows.md
         - name: Служба поддержки и Профессиональные услуги Майкрософт
           href: gdpr-arc-prof-services.md
         - name: Office 365
@@ -274,20 +274,18 @@
           href: gdpr-dsr-office365.md
         - name: Семейство Visual Studio
           href: gdpr-dsr-visual-studio-family.md
-        - name: Windows Enterprise
+        - name: Windows
           href: gdpr-dsr-windows.md
     - name: Уведомление о нарушении
       items:
         - name: Уведомление о нарушении
           href: gdpr-breach-notification.md
-        - name: Azure и Dynamics 365
-          href: gdpr-breach-azure-dynamics.md
+        - name: 'Azure, Dynamics 365 и Windows'
+          href: gdpr-breach-azure-dynamics-windows.md
         - name: Служба поддержки и Профессиональные услуги Майкрософт
           href: gdpr-breach-microsoft-support-professional-services.md
         - name: Office 365
           href: gdpr-breach-office365.md
-        - name: Windows Enterprise
-          href: gdpr-breach-windows.md
     - name: Заявления о влиянии на защиту данных
       items:
         - name: Оценка влияния на защиту данных
@@ -300,7 +298,7 @@
           href: gdpr-dpia-prof-services.md
         - name: Office 365
           href: gdpr-dpia-office365.md
-        - name: Windows Enterprise
+        - name: Windows
           href: gdpr-dpia-windows.md
     - name: GDPR для локальных серверов Office
       items:

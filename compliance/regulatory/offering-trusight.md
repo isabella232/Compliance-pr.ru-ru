@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: a29713d530542b64514f694eef67aabb09e303e0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119888"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385539"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -41,7 +41,7 @@ TruSight — это сторонняя программа для оценки р
 
 В результате проведения этого тщательного исследования TruSight клиенты, работающие в сфере финансовых услуг, теперь могут получить доступ к высококачественному анализу облачных служб Майкрософт, выполненному с использованием стандартизованной методологии, опирающейся на ведущие отраслевые решения. Теперь клиентам нет необходимости затрачивать значительные ресурсы на проведение подобного анализа собственными силами.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Облачные службы Майкрософт, к которым применима оценка
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365 (версии 9 и более поздних версий)](https://aka.ms/d365-compliance-list)
@@ -67,7 +67,7 @@ TruSight — это сторонняя программа для оценки р
 ## <a name="resources"></a>Ресурсы
 
 - [Программа Microsoft Cloud Financial Services Compliance Program](https://aka.ms/FSCP-Print)
-- [Соответствие финансовых служб требованиям в Azure](https://aka.ms/FinServ-Compliance-Azure)
+- [Соответствие финансовых услуг требованиям в Azure](https://aka.ms/FinServ-Compliance-Azure)
 - [Облачные и финансовые службы Майкрософт для бизнеса](https://aka.ms/FinServ-Compliance)
 - [Общая ответственность в облачных вычислениях](https://aka.ms/sharedresponsibility)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)
