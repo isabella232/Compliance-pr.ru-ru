@@ -2,60 +2,70 @@
   items:
     - name: Обзор архитектуры
       href: assurance-architecture.md
+    - name: Элементы управления доступом и изоляцией в AAD
+      href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Элементы управления изоляцией в Azure
+      href: /azure/security/fundamentals/isolation-choices?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Безопасность инфраструктуры в Microsoft 365
+      href: assurance-securing-microsoft-365-infrastructure.md
     - name: Элементы управления изоляцией в Microsoft 365
       href: /microsoft-365/enterprise/microsoft-365-isolation-controls?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Изоляция клиента в Microsoft 365
       href: /microsoft-365/enterprise/microsoft-365-tenant-isolation-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Изоляция и управление доступом в AAD
-      href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Защита инфраструктуры Microsoft 365
-      href: assurance-securing-microsoft-365-infrastructure.md
 - name: Ведение журнала аудита
   items:
     - name: Обзор журнала аудита
       href: assurance-audit-logging.md
-    - name: Контроль и мониторинг управления доступом
+    - name: Контроль и мониторинг управления доступом в Microsoft 365
       href: assurance-monitoring-and-auditing-access-controls.md
-    - name: Внутреннее ведение журнала проектирования
-      href: assurance-internal-logging.md
-    - name: Аудит и создание отчетов облачных служб
+    - name: Аудит и отчеты в Microsoft 365
       href: assurance-auditing-and-reporting-overview.md
-    - name: Функции создания отчетов
+    - name: Ведение журнала проектирования в Microsoft 365
+      href: assurance-internal-logging.md
+    - name: Функции создания отчетов в Microsoft 365
       href: assurance-reporting-features.md
 - name: Безопасность центра обработки данных
   items:
     - name: Обзор безопасности центра обработки данных
       href: assurance-datacenter-security.md
-    - name: 'Оценка угроз, уязвимостей и риска для центров обработки данных'
+    - name: Центр обработки данных TVRA
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: Безопасность цепочки поставок
+      href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Шифрование и управление ключами
   items:
     - name: Обзор шифрования и управления ключами
       href: assurance-encryption.md
-    - name: Шифрование в Microsoft Cloud
+    - name: Шифрование в облаке
       href: /microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Шифрование данных при передаче
-      href: assurance-encryption-in-transit.md
-    - name: Шифрование для служб Microsoft 365
-      href: assurance-encryption-for-microsoft-365-services.md
-    - name: Шифрование служб неактивных данных?
-      href: /microsoft-365/compliance/office-365-service-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Шифрование писем в Microsoft 365
-      href: /microsoft-365/compliance/email-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Как Exchange Online защищает секреты вашей электронной почты
-      href: /microsoft-365/compliance/exchange-online-secures-email-secrets?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Использование протокола TLS службой Exchange Online для защиты электронной почты
-      href: /microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Шифрование неактивных данных в Azure
+      href: /azure/security/fundamentals/encryption-atrest?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Шифрование в Azure
+      href: /azure/security/fundamentals/encryption-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: BitLocker и распределенный диспетчер ключей (DKM) для шифрования
       href: /microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Технические сведения о шифровании
+    - name: Безопасность подключений к электронной почте в Exchange Online
+      href: /microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Безопасность секретов электронной почты в Exchange Online
+      href: /microsoft-365/compliance/exchange-online-secures-email-secrets?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Шифрование неактивных данных в Microsoft 365
+      href: /microsoft-365/compliance/office-365-service-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Шифрование электронной почты в Microsoft 365
+      href: /microsoft-365/compliance/email-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Технический справочник по шифрованию в Microsoft 365
       href: /microsoft-365/compliance/technical-reference-details-about-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Шифрование при транспортировке в Microsoft 365
+      href: assurance-encryption-in-transit.md
+    - name: Шифрование служб в Microsoft 365
+      href: assurance-encryption-for-microsoft-365-services.md
 - name: Управление
   items:
     - name: Обзор управления
       href: assurance-governance.md
-    - name: Контроль качества обслуживания в Центре безопасности и соответствия требованиям
-      href: /microsoft-365/compliance/service-assurance?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Центр безопасности Azure
+      href: /azure/security-center/security-center-introduction?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Центр соответствия требованиям Microsoft 365
+      href: /microsoft-365/compliance/microsoft-365-compliance-center?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Управление персоналом
   items:
     - name: Обзор управления персоналом
@@ -70,11 +80,13 @@
   items:
     - name: Обзор управления удостоверениями и доступом
       href: assurance-identity-and-access-management.md
-    - name: Административные элементы управления доступом
+    - name: Защищенное хранилище в Azure
+      href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Административные элементы управления доступом в Microsoft 365
       href: assurance-administrative-access-controls-overview.md
-    - name: Технологические элементы управления
+    - name: Технологические элементы управления в Microsoft 365
       href: assurance-technology-controls.md
-    - name: Защищенное хранилище
+    - name: Защищенное хранилище в Office 365
       href: /microsoft-365/compliance/customer-lockbox-requests?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Элементы управления доступом к Yammer корпоративный
       href: assurance-yammer-enterprise-access-controls.md
@@ -82,74 +94,84 @@
   items:
     - name: Обзор управления инцидентами
       href: assurance-incident-management.md
-    - name: 'Управление инцидентами, связанными с безопасностью, в Microsoft 365 '
+    - name: 'Управление инцидентами, связанными с безопасностью'
       href: assurance-security-incident-management.md
-    - name: 'Подготовка к управлению инцидентами, связанными с безопасностью'
+    - name: Этап 1. Подготовка
       href: assurance-sim-preparation.md
-    - name: 'Обнаружение и анализ управления инцидентами, связанными с безопасностью'
+    - name: Этап 2. Обнаружение и анализ
       href: assurance-sim-detection-analysis.md
-    - name: 'Управление инцидентами, связанными с безопасностью, уничтожение и восстановление'
+    - name: 'Этап 3. Сдерживание, искоренение, восстановление'
       href: assurance-sim-containment-eradication-recovery.md
-    - name: 'Действия по управлению инцидентами, связанными с безопасности, после инцидента'
+    - name: Этап 4. Действия после инцидента
       href: assurance-sim-post-incident-activity.md
 - name: Сетевая безопасность
   items:
     - name: Обзор сетевой безопасности
       href: assurance-network-security.md
-    - name: Стратегия защиты от атак типа "отказ в обслуживании"
+    - name: Сеть и брандмауэры в Azure
+      href: /azure/security/fundamentals/production-network?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Элементы управления сетевой безопасностью в Azure
+      href: /azure/security/fundamentals/network-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Стратегия защиты от атак типа "отказ в обслуживании" в Microsoft 365
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: Обнаружение вирусов в службах Microsoft 365
+    - name: Обнаружение вирусов в Microsoft 365
       href: /microsoft-365/security/office-365-security/virus-detection-in-spo?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Конфиденциальность
   items:
     - name: Обзор конфиденциальности
       href: assurance-privacy.md
-    - name: Где хранятся данные клиентов Microsoft 365
-      href: /microsoft-365/enterprise/o365-data-locations?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: 'Хранение, удаление и уничтожение данных'
-      href: assurance-data-retention-deletion-and-destruction-overview.md
-    - name: Уничтожение данных Microsoft 365
-      href: assurance-data-destruction.md
+    - name: Защита данных клиентов в Azure
+      href: /azure/security/fundamentals/protection-customer-data?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Удаление данных в Exchange Online
       href: assurance-exchange-online-data-deletion.md
     - name: Удаление данных в SharePoint Online
       href: assurance-sharepoint-online-data-deletion.md
-    - name: Неизменность данных Microsoft 365
+    - name: Уничтожение данных в Microsoft 365
+      href: assurance-data-destruction.md
+    - name: Неизменность данных в Microsoft 365
       href: assurance-data-immutability.md
-    - name: Классификация данных и метки конфиденциальности
-      href: assurance-data-classification-and-labels.md
+    - name: Расположение данных в Microsoft 365
+      href: /microsoft-365/enterprise/o365-data-locations?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: 'Хранение, удаление и уничтожение данных в Microsoft 365'
+      href: assurance-data-retention-deletion-and-destruction-overview.md
     - name: Создание платформы классификации данных
       href: assurance-create-data-classification-framework.md
+    - name: Классификация данных и метки конфиденциальности
+      href: assurance-data-classification-and-labels.md
 - name: Устойчивость и непрерывность
   items:
     - name: Обзор устойчивости и непрерывности
       href: assurance-resiliency-and-continuity.md
-    - name: Устойчивость облачной службы
-      href: assurance-m365-service-resiliency.md
-    - name: Работоспособность и непрерывная работа служб
-      href: /office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Ограничения ресурсов служб
-      href: assurance-resource-limits.md
-    - name: Устойчивость данных
-      href: assurance-data-resiliency-overview.md
-    - name: Меры в отношении повреждения данных
-      href: assurance-dealing-with-data-corruption.md
-    - name: Мониторинг и самовосстановление данных
-      href: assurance-monitoring-and-self-healing.md
+    - name: Доступность инфраструктуры в Azure
+      href: /azure/security/fundamentals/infrastructure-availability?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Устойчивость сети центра обработки данных
+      href: /azure/security/fundamentals/infrastructure-network?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Устойчивость данных Exchange Online
       href: assurance-exchange-data-resiliency.md
     - name: Устойчивость данных SharePoint и OneDrive
       href: assurance-sharepoint-onedrive-data-resiliency.md
-    - name: Управление непрерывностью бизнес-процессов в компании (УНБК) с помощью облачных служб
-      href: assurance-understanding-ebcm-with-cloud-services.md
-    - name: Обязанности клиентов и партнеров по облаку в отношении УНБК
-      href: assurance-customer-and-cloud-partner-ebcm-responsibilities.md
-    - name: Разработка плана непрерывности
-      href: assurance-developing-your-ebcm-plan.md
-    - name: Стратегии уменьшения отрицательных последствий инцидентов обслуживания
-      href: assurance-microsoft-365-mitigations.md
-    - name: Отработка и обучение пользователей планированию непрерывной работы
-      href: assurance-ebcm-plan-rehearsal-and-user-training.md
+    - name: Повреждение данных в Microsoft 365
+      href: assurance-dealing-with-data-corruption.md
+    - name: Мониторинг и самовосстановление данных в Microsoft 365
+      href: assurance-monitoring-and-self-healing.md
+    - name: Устойчивость данных в Microsoft 365
+      href: assurance-data-resiliency-overview.md
+    - name: Ограничения ресурсов в Microsoft 365
+      href: assurance-resource-limits.md
+    - name: Работоспособность и непрерывность работы служб в Microsoft 365
+      href: /office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Устойчивость службы в Microsoft 365
+      href: assurance-m365-service-resiliency.md
+    - name: Общая ответственность
+      items:
+        - name: Общая ответственность
+          href: assurance-customer-and-cloud-partner-ebcm-responsibilities.md
+        - name: Разработка плана непрерывности
+          href: assurance-developing-your-ebcm-plan.md
+        - name: Тестирование плана непрерывности
+          href: assurance-ebcm-plan-rehearsal-and-user-training.md
+        - name: Стратегии устранения рисков инцидентов обслуживания
+          href: assurance-microsoft-365-mitigations.md
 - name: Управление рисками
   items:
     - name: Обзор управления рисками
@@ -160,10 +182,14 @@
   items:
     - name: Обзор разработки и управления безопасностью
       href: assurance-security-development-and-operation.md
+    - name: Целостность кода Azure
+      href: /azure/security/fundamentals/code-integrity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Мониторинг безопасности
   items:
     - name: Обзор мониторинга безопасности
       href: assurance-security-monitoring.md
+    - name: Мониторинг безопасности и производительности в Azure
+      href: /azure/security/fundamentals/infrastructure-operations?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Управление поставщиками
   items:
     - name: Обзор управления поставщиками
@@ -172,11 +198,7 @@
   items:
     - name: Обзор управления уязвимостями
       href: assurance-vulnerability-management.md
-    - name: Защита от вредоносных программ и программ-шантажистов
-      href: assurance-malware-and-ransomware-protection.md
     - name: Имитация атаки в Microsoft 365
       href: assurance-monitoring-and-testing.md
-- name: Основы безопасности Azure
-  items:
-    - name: Основы безопасности Azure
-      href: /azure/security/fundamentals?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Защита от вредоносных программ и программ-шантажистов в Microsoft 365
+      href: assurance-malware-and-ransomware-protection.md
