@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: b79d856591566aa1e13633377600c605429ee68e
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 8715ef1ee8133fe950e3ff42b0c53b49f916a018
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377966"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573847"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Запросы субъектов данных конфигурации обработчика диагностических данных Windows, определенных в GDPR и CCPA
 
@@ -104,3 +104,6 @@ ms.locfileid: "53377966"
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>Уведомить нас о проблемах при экспорте или удалении
 
 Если при экспорте или удалении диагностических данных Windows из портала Azure возникают проблемы, перейдите на портал Azure, выберите колонку **Справка и поддержка** и отправьте новый запрос в разделе **Управление подписками > Другие запросы на обеспечение безопасности и соответствия требованиям для подписок > Конфиденциальность и запросы GDPR**.
+
+>[!NOTE]
+>Завершение запроса на экспорт диагностических данных Windows может занять до 5 дней. В случае возникновения проблем подождите по крайней мере 7 дней, прежде чем создать запрос в службу поддержки.
