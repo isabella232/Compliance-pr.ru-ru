@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0af79e7834006940f46643dae678c1a8ca77fad2
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: ee0645b13594585df5d940732fa420f2ccd4473b
+ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573787"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53678244"
 ---
 # <a name="privacy-overview"></a>Обзор конфиденциальности
 
@@ -49,18 +49,28 @@ ms.locfileid: "53573787"
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>Как Майкрософт удаляет данные клиентов, когда клиент покидает службу?
 
-Стандарт обработки данных Майкрософт указывает, как долго сохраняются данные клиента после удаления. Когда клиент заканчивает свою подписку, Корпорация Майкрософт сохраняет данные клиента в ограниченной учетной записи функции в течение 90 дней, чтобы позволить клиенту извлекать данные. После окончания 90-дневного периода хранения Корпорация Майкрософт удаляет данные клиентов, если они не будут разрешены или не будут сохранены по закону. Не более чем через 180 дней после истечения или прекращения действия подписки на Microsoft 365, Корпорация Майкрософт отключает учетную запись и удаляет все данные клиента из учетной записи. После того, как максимальный период хранения любых данных сошел с этого срока, данные будут отрисовыты коммерчески невозвратными.
+Стандарт обработки данных Майкрософт указывает, как долго сохраняются данные клиента после удаления. Когда клиентская подписка завершается, корпорация Майкрософт сохраняет данные клиента в учетной записи с ограниченной функцией в течение 90 дней, чтобы клиент мог извлечь данные. После окончания 90-дневного периода хранения корпорация Майкрософт удалит данные клиента, если он не авторизуются для их хранения и если хранение не требуется по закону. Не более чем через 180 дней после истечения срока действия или прекращения подписки на веб-службы Майкрософт Корпорация Майкрософт отключает учетную запись и удаляет все данные клиента из учетной записи. После того как максимальный период хранения для каких-либо данных истечет, их невозможно будет восстановить коммерческим способом.
 
-Корпорация Майкрософт также удаляет все созданные службами и диагностические данные в рамках стандартного жизненного цикла данных Майкрософт, если эти данные не требуются для обеспечения безопасности и стабильности службы. Для любой подписки абонент может связаться с Службой поддержки Майкрософт и запросить ускоренную расшифровку подписки. Когда клиент использует этот процесс, все пользовательские данные удаляются через три дня после ввода администратором кода блокировки, предоставленного Корпорацией Майкрософт. Это удаление включает данные в SharePoint Online и Exchange Online хранения или хранения в неактивных почтовых ящиках.
+Корпорация Майкрософт также удаляет все созданные службами и диагностические данные в рамках стандартного жизненного цикла данных Майкрософт, если эти данные не требуются для обеспечения безопасности и стабильности службы. Для любой подписки подписчик может обратиться в службу поддержки Майкрософт и запросить ускоренное удаление подписки. Когда клиент использует этот процесс, все данные пользователей удаляются через три дня после ввода администратором кода блокировки, предоставленного Корпорацией Майкрософт. Это удаление включает данные в SharePoint Online и Exchange Online хранения или хранения в неактивных почтовых ящиках.
 
 ## <a name="related-external-regulations--certifications"></a>Связанные внешние правила & сертификации
 
 Онлайн-службы Корпорации Майкрософт регулярно проверяются на соответствие внешним требованиям и сертификациям. Обратитесь к следующей таблице для проверки элементов управления, связанных с конфиденциальностью.
 
+### <a name="azure-and-dynamics-365"></a>Azure и Dynamics 365
+
 | **Внешние аудиты** | **Section** | **Дата последнего отчета** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Утверждение применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Сертификация](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: цель процессора ИИ общедоступных облачных систем | 20 апреля 2021 г. |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12. Соглашения об уровне обслуживания (SLAs) <br> CA-17: политика безопасности Майкрософт <br> CA-25: обновления рамок управления | 24 декабря 2020 г. |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Утверждение применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Сертификация](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=56904fc3-0942-4ff5-9eef-7cabc751a25c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: цель процессора ИИ общедоступных облачных систем | 2 декабря 2020 г. |
+| [SOC 1;](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: прекращение или истечение срока действия подписки клиента <br> SDL-1: методология жизненного цикла разработки безопасности (SDL) <br> LA-4: защита конфиденциальных данных клиентов | 21 марта 2021 г. |
+| [SOC 2;](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: прекращение или истечение срока действия подписки клиента <br> SDL-1: методология жизненного цикла разработки безопасности (SDL) <br> LA-4: защита конфиденциальных данных клиентов <br> SOC2-1: классификация активов <br> SOC2-7: опубликованные обязательства по конфиденциальности и безопасности | 31 марта 2021 г. |
+
+### <a name="office-365"></a>Office 365
+
+| **Внешние аудиты** | **Section** | **Дата последнего отчета** |
+|:--------------------|:------------|:-----------------------|  
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Утверждение применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: цель процессора ИИ общедоступных облачных систем | 20 апреля 2021 г. |
+| [SOC 2;](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12. Соглашения об уровне обслуживания (SLAs) <br> CA-17: политика безопасности Майкрософт <br> CA-25: обновления рамок управления | 24 декабря 2020 г. |
 
 ## <a name="resources"></a>Ресурсы
 
