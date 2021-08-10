@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 19b312d1b9f31683d775049010d390710554df01
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4b5f8bfd19193b3a05b5ffa6476271bc6da05c7ec1c669a2f1614535a54942e1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385669"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294306"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,7 +44,7 @@ NIST SP 800-171 был первоначально опубликован в ию
 
 Любая организация, которая обрабатывает или хранит государственные cuI США — исследовательские учреждения, консалтинговые компании, производственные подрядчики, должна соответствовать строгим требованиям NIST SP 800-171. Это подтверждение означает, что облачные службы Майкрософт могут размещать клиентов, желающих развернуть рабочие нагрузки CUI, с гарантией полного соответствия требованиям Корпорации Майкрософт. Например, все подрядчики DoD, которые обрабатывает, хранит или передает "закрытые сведения о защите", используя облачные службы Microsoft в своих информационных системах, соответствуют положениям Министерства обороны США, которые требуют соблюдения требований безопасности NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure Commercial, Azure Government
 - Dynamics 365 Правительство США
@@ -57,15 +57,15 @@ NIST SP 800-171 был первоначально опубликован в ию
 
 ## <a name="office-365-and-nist-sp-800-171"></a>Office 365 и NIST SP 800-171
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **GCC** | Служба каналов активности, Bing services, Delve, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service Infrastructure, Office Use Reports, OneDrive для бизнеса, people Card, SharePoint Online, Skype для бизнеса, Windows Ink |
 | **GCC High** | Служба каналов активности, Bing службы, Exchange Online, интеллектуальные службы, Microsoft Teams, Office 365 портал клиентов, Office Online, инфраструктура Office, Office Отчеты об использовании, OneDrive для бизнеса, Карточка людей, 

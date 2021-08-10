@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292516"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Федеральный стандарт обработки информации (FIPS) Публикация 140-2
 
@@ -37,7 +37,7 @@ ms.locfileid: "53385009"
 
 Технические сведения о криптографических модулях Microsoft Windows, политике безопасности для каждого модуля и каталоге сведений о сертификате CMVP см. в Windows и [Windows Server FIPS 140-2.](https://aka.ms/AA6ehud)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 Хотя текущее руководство по внедрению CMVP FIPS 140-2 исключает проверку FIPS 140-2 для самой облачной службы; Поставщики облачных служб могут выбрать для получения и эксплуатации проверенных криптографических модулей FIPS 140 для вычислительных элементов, составляющих их облачную службу. В число веб-служб Microsoft, включающих компоненты, которые были проверены fiPS 140-2, относятся, в частности, следующие:
 
@@ -51,15 +51,15 @@ ms.locfileid: "53385009"
 
 ## <a name="office-365-and-fips-140-2"></a>Office 365 и FIPS 140-2
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | Office 365, GCC, GCC, DoD | Проверка [FIPS 140-2](/windows/security/threat-protection/fips-140-validation) |
 

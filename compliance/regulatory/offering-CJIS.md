@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292536"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Политика безопасности служб уголовного правосудия (CJIS)
 
@@ -43,7 +43,7 @@ ms.locfileid: "53385369"
 
 Узнайте о преимуществах политики безопасности CJIS в облаке Microsoft: Узнайте, как [Genetec очищает уголовные расследования](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure Government
 - Dynamics 365 Правительство США
@@ -56,19 +56,19 @@ ms.locfileid: "53385369"
 
 ## <a name="office-365-and-cjis"></a>Office 365 и CJIS
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **GCC** | Azure Active Directory, Диспетчер соответствия требованиям, Delve, Exchange Online, Формы, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+| **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 аудиты, отчеты и сертификаты
+### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 
 ФБР не предлагает сертификацию соответствия Корпорации Майкрософт требованиям CJIS. Вместо этого в соглашения между Корпорацией Майкрософт и органом CJIS штата, а также между Корпорацией Майкрософт и ее клиентами включена атестация Майкрософт.
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c27c84d2abc2de4866471d652d8b11351bc3168
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293386"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Сведения о безопасности и конфиденциальности правительства Новой Зеландии (ISPC)
 
@@ -37,7 +37,7 @@ ms.locfileid: "53385659"
 
 Чтобы помочь учреждениям в анализе и оценке облачных служб Майкрософт, Корпорация Майкрософт в Новой Зеландии подготовила документы, показывающие, как корпоративные облачные службы отвечают на вопросы, задающиеся в ISPC облачных вычислений, связывая их со стандартами, с которыми сертифицированы облачные службы Майкрософт. Эти сертификаты имеют центральное значение для того, как Корпорация Майкрософт гарантирует клиентам государственного и частного сектора, что ее облачные службы разработаны, построены и работают для эффективного снижения рисков конфиденциальности и безопасности и решения проблем, связанных с суверенитетом данных. Для скачивания пользователям доступен ответ Azure на [ISPC](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) облачных вычислений.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure и Azure для государственных организаций
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -47,15 +47,15 @@ ms.locfileid: "53385659"
 
 ## <a name="office-365-and-ispc"></a>Office 365 и ISPC
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online, SharePoint Online, Skype для бизнеса |
 

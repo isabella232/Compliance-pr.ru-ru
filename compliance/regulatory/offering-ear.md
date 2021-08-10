@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293596"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Правила администрирования экспорта США (EAR)
 
@@ -51,7 +51,7 @@ ms.locfileid: "53384229"
 - **End-to-end encryption**. Воспользовавшись надежной гаванью конечного шифрования для физических местоположений хранения, указанных в ear, облачные службы Майкрософт обеспечивают функции шифрования, которые могут защитить от рисков экспортного контроля. Кроме того, [](https://aka.ms/Azure-Encryption-Overview) они предоставляют клиентам широкий спектр возможностей шифрования данных при транзите и в покое, а также гибкость выбора между вариантами шифрования.
 - **Средства и протоколы для предотвращения несанкционированного экспорта.** Использование шифрования также помогает защитить от потенциального экспорта (или реэкспорта) в ear, так как даже если лицо, не входя в США, имеет доступ к зашифрованным данным, ничего не раскрывается, если они не могут читать или понимать данные, пока они шифруются; таким образом, не существует "освобождения" контролируемых данных.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure и Azure для государственных организаций](https://aka.ms/AzureCompliance)
 - [Office 365 для государственных организаций (GCC-High и DoD)](https://aka.ms/Office-365-Export-Controls)

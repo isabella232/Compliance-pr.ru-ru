@@ -17,10 +17,10 @@ metadata:
   ms.date: 11/30/2020
 highlightedContent:
   items:
-    - title: "Быстрые задачи для обеспечения соответствия требованиям в Microsoft\_365"
+    - title: Быстрые задачи для обеспечения соответствия требованиям в Microsoft 365
       itemType: get-started
       url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: Развертывание защиты информации в нормах конфиденциальности данных
+    - title: Развертывание защиты информации в соответствии с требованиями к конфиденциальности данных
       itemType: get-started
       url: /microsoft-365/solutions/information-protection-deploy
     - title: Узнайте о совместной ответственности в облаке
@@ -109,7 +109,7 @@ conceptualContent:
         - url: /compliance/assurance/assurance-human-resources
           itemType: concept
           text: Обзор управления персоналом
-    - title: Управление идентификацией и доступом
+    - title: Управление удостоверениями и доступом
       links:
         - url: /learn/modules/audit-identity-access-management/
           itemType: learn
@@ -206,6 +206,6 @@ additionalContent:
         - title: Управление обнаружением электронных данных
           summary: Использование электронных данных для идентификации и анализа контента в качестве доказательств в судебных делах.
           url: /microsoft-365/compliance/ediscovery
-        - title: Развертывание защиты информации в нормах конфиденциальности данных
+        - title: Развертывание защиты информации в соответствии с требованиями к конфиденциальности данных
           summary: 'Определение, обнаружение, защита, управление и реагирование на инциденты конфиденциальности данных для персональных данных, хранимые в Microsoft 365 службах, которые регулируются правилами конфиденциальности данных.'
           url: /microsoft-365/solutions/information-protection-deploy

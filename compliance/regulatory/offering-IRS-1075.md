@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8eebfff19667ee96298179843b7b39f071b9f0a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293906"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Публикация службы внутренних доходов США 1075
 
@@ -45,7 +45,7 @@ Microsoft Azure Государственные [Microsoft Office 365](https://pr
 - Предоставляет в IRS Azure соображения соответствия требованиям и Office 365 правительства США, в которых описывается, как агентство может использовать Microsoft Cloud для государственных служб таким образом, чтобы он соответствовал IRS 1075. Государственные клиенты в рамках NDA могут запрашивать эти документы.
 - Предоставляет клиентам возможность (за свой счет) при необходимости общаться с экспертами по теме Майкрософт или внешними аудиторами.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 Разрешения FedRAMP дается на трех уровнях воздействия, основанных на рекомендациях NIST : низкий, средний и высокий. В них ранжировано влияние, которое потеря конфиденциальности, целостности или доступности может оказать на организацию : низкий (ограниченный эффект), средний (серьезный отрицательный эффект) и высокий (серьезный или катастрофический эффект).
 
@@ -60,20 +60,20 @@ Microsoft Azure Государственные [Microsoft Office 365](https://pr
 
 ## <a name="office-365-and-irs-1075"></a>Office 365 и IRS 1075
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **Office 365** | Служба каналов активности, Bing Services, Delve, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Отчеты об использовании, OneDrive для бизнеса, карточки людей, инфраструктура обслуживания, SharePoint Online, Skype для бизнеса, Windows Ink |
 | **GCC** | Служба каналов активности, службы Bing, Delve, Exchange Online Protection, Exchange Online, интеллектуальные службы, Microsoft Teams, Office 365 клиентский портал, Office Online, инфраструктура Office, Office Отчеты об использовании, OneDrive для бизнеса, Карточка людей, SharePoint Online, Skype для бизнеса, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 аудиты, отчеты и сертификаты
+### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 
 Соответствие основным требованиям IRS 1075 ежегодно покрывается аудитом FedRAMP.
 

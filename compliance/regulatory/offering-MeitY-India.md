@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292456"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Министерство электроники и информационных технологий (MeitY)
 
@@ -43,7 +43,7 @@ MeitY предоставляет аккредитацию (именуемую Me
 
 Аккредитация MeitY корпорации Майкрософт стала результатом тщательного аудита, проведенного Управлением по тестированию и сертификации качества стандартизации (STQC) — правительственной организацией, которая предоставляет услуги по обеспечению качества, используя рамки оценки, основанные на работе облачной инициативы MeghRaj. Благодаря Microsoft Azure организации государственного сектора теперь могут использовать широкий спектр моделей развертывания и предложений служб, включая инфраструктуру как службу (IaaS), платформу в качестве службы (PaaS), аварийное восстановление, DevOps и управляемое резервное копирование.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

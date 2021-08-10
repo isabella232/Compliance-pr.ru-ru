@@ -1,5 +1,5 @@
 ---
-title: Обеспечение безопасности Microsoft 365 инфраструктуры
+title: Защита инфраструктуры Microsoft 365
 description: Узнайте, как Корпорация Майкрософт обеспечивает безопасность Microsoft 365 инфраструктуры.
 ms.author: robmazz
 author: robmazz
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 224900bd60f2fd5637e7264f1aed98d5ff878b20
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0ef6dc92820089259cd315713c0e7e4a9e11aaec50d731b15cd6e826a721107
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292756"
 ---
-# <a name="securing-the-microsoft-365-infrastructure"></a>Обеспечение безопасности Microsoft 365 инфраструктуры
+# <a name="securing-the-microsoft-365-infrastructure"></a>Защита инфраструктуры Microsoft 365
 
 Microsoft 365 является одной из крупнейших корпоративных и потребительских облачных служб в мире и продолжает быстро расти, как в клиентской базе, продуктах, так и в функциях. Клиенты обращаются Microsoft 365 не только к решениям по повышению производительности мирового класса, но и к защите наиболее конфиденциальной информации от постоянно развивающегося ландшафта киберугроз. Обеспечение безопасности данных клиентов и поддержание доверия клиентов — это приоритет Корпорации Майкрософт.
 
@@ -101,4 +101,4 @@ Microsoft 365 приоритетом является предотвращени
 
 ## <a name="resources"></a>Ресурсы
 
-[За кулисами: обеспечение безопасности инфраструктуры, обеспечиваемой питанием Microsoft 365 службы](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
+[За кадром: защита инфраструктуры, на основе которой работает служба Microsoft 365](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)

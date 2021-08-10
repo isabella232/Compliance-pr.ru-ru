@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8fb98bfab57008cdee3c2fbb049c7f34af361c37
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293866"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Австралийская программа оценки безопасности, зарегистрированная в сфере информационной безопасности (IRAP)
 
@@ -58,7 +58,7 @@ ms.locfileid: "53384829"
 
 Оценка IRAP служб и облачных операций Корпорации Майкрософт помогает обеспечить клиентам государственного сектора в правительстве и их партнерах уверенность в том, что Корпорация Майкрософт имеет соответствующие и эффективные средства управления безопасностью для обработки, хранения и передачи данных, классифицированных до уровня PROTECTED. Эта оценка включает большинство государственных, медицинских и образовательных данных в Австралии.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -71,15 +71,15 @@ ms.locfileid: "53384829"
 
 ## <a name="office-365-and-irap"></a>Office 365 и IRAP
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online, Exchange Online Protection, формы, Microsoft Teams, Office 365 клиентский портал, Office Online, Office инфраструктура обслуживания, OneDrive для бизнеса, планировщик, SharePoint Online, Skype для бизнеса, доска, Yammer |
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9b7988b2ab236a26aad0981879f9b49c9ed028a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384949"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292776"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>требованиям Федеральной программы управления рисками и авторизацией (FedRAMP);
 
@@ -47,7 +47,7 @@ CSPs, желающие продавать услуги федеральному 
 
 Государственные облачные службы Майкрософт предоставляют клиентам государственного сектора широкий набор служб, совместимых с FedRAMP, а также надежные средства руководства и реализации, в том числе план [FedRAMP High,](https://aka.ms/fedrampblueprint)который помогает клиентам развернуть основной набор политик для любой архитектуры, развернутой в Azure, которая должна реализовать элементы управления FedRAMP High.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure и Azure для государственных организаций
 - [Dynamics 365 Правительство США](https://aka.ms/d365-compliance-list)
@@ -65,21 +65,21 @@ CSPs, желающие продавать услуги федеральному 
 - Office 365 Правительственная оборона США имеет P-ATO из Агентства информационных систем обороны США (DISA). Любой клиент, желающий развернуть Office 365 правительством США, может использовать DISA P-ATO для создания агентства АТО для документировать их принятие.
 - Office 365 (корпоративные и бизнес-планы) и Office 365 правительства США имеют АТО агентства FedRAMP на уровне умеренного воздействия от DHHS Office генерального инспектора. Office 365 Правительство США стало первой облачной службой электронной почты и совместной работы, получив такой авторизации.
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **GCC** | Служба каналов активности, Bing services, Delve, Exchange Online, Exchange Online Protection, infrastructure, Intelligent Services, Microsoft Teams, Office 365 клиентский портал, Office Online, Office Service, Office Отчеты об использовании, OneDrive для бизнеса, карточки людей, SharePoint Online, Skype для бизнеса, Windows Ink |
 | **GCC High** | Служба каналов активности, Bing Services, Exchange Online, Exchange Online Protection, Intelligent Services, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service Infrastructure, Office Use Reports, OneDrive для бизнеса, People Card, SharePoint Online, Skype для бизнеса, Windows Ink |
 | **DoD** | Служба каналов активности, Bing службы, Exchange Online Protection, Exchange Online, интеллектуальные службы, Microsoft Teams, Office 365 клиентский портал, Office Online, инфраструктура Office, Office Отчеты об использовании, OneDrive для бизнеса, карточки людей, SharePoint Online, Skype для бизнеса, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 аудиты, отчеты и сертификаты
+### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 
 Корпорация Майкрософт обязана ежегодно проходить повторную сертификацию своих облачных сервисов, чтобы поддерживать актуальность своих сертификатов P-ATO и ATO. Для этого Корпорация Майкрософт должна непрерывно отслеживать и оценивать свои средства управления безопасностью и демонстрировать, что безопасность ее служб остается в соответствии с установленными нормами.
 

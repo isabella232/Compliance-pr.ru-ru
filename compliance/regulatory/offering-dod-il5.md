@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f92ed19a22b7eff8a7e9988e66c51aea90d42ab
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294236"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Уровень воздействия Министерства обороны (DoD) 5 (IL5)
 
@@ -51,11 +51,11 @@ DISA направляет агентства и отделы Министерс�
 - Требуется физическое отделение от клиентов, не введенных в DoD/non-Federal Government (то есть клиентов государственных, местных и государственных органов).
 - CSP ограничивает потенциальный доступ к данным DoD и сообщества для сотрудников CSP, которые являются гражданами США.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure
 - Служба поддержки клиентов Dynamics 365
-- Microsoft Defender для конечной точки (ранее microsoft Defender Advanced Threat Protection)
+- Microsoft Defender для конечной точки (ранее Расширенная защита от угроз в Microsoft Defender)
 - Microsoft Graph
 - Microsoft Stream
 - Office 365 для министерства обороны США
@@ -68,15 +68,15 @@ DISA направляет агентства и отделы Министерс�
 
 ## <a name="office-365-and-dod-il5"></a>Office 365 и DoD IL5
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **DoD** | Служба каналов активности, Bing Services, Exchange Online, Exchange Online Protection, Intelligent Services, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service Infrastructure, Office Use Reports, OneDrive для бизнеса, People Card, SharePoint Online, Skype для бизнеса, Windows Ink |
 

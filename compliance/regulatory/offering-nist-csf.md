@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9080474699eae7e65d8df86638a9250ec7127585
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 49b18d0e758f0c83b2f56be2cd9bb1447c63349165e9cef868adbcf17adeb7f0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294296"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>База кибербезопасности Национального института стандартов и технологий (NIST)
 
@@ -42,7 +42,7 @@ NIST Cybersecurity Framework (CSF) — это добровольная стру�
 - [Обзор образца чертежа NIST SP 800-53 R4](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [Дополнительные новости о оценке NIST CSF для Office 365 в оценке соответствия требованиям](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure Government
 - Динамика 365 для правительства
@@ -54,15 +54,15 @@ NIST Cybersecurity Framework (CSF) — это добровольная стру�
 
 ## <a name="office-365-and-nist-csf"></a>Office 365 и NIST CSF
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **Office 365** | Служба каналов активности, Bing services, Delve, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service Infrastructure, Office Use Reports, OneDrive для бизнеса, people Card, SharePoint Online, Skype для бизнеса, Windows Ink |
 

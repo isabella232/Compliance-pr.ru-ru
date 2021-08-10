@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0797161b0c7bfca8d4fda37cbf05a037d29322de
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: d5bebc4a270a11518989c548ef17ac48b8f79b5cc5720f09bc8677c40e422421
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293894"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Международный трафик в правилах вооружений (ITAR)
 
@@ -41,7 +41,7 @@ Microsoft Azure Правительство и Microsoft Office 365 для обо
   
 Клиенты, которые стремятся принять данные, регулируемые ИТАР, должны работать со своими группами учетных записей и лицензирования Майкрософт, чтобы узнать больше, получить соответствующие соглашения и получить доступ к соответствующим сведениям об архитектуре системы.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure Government
 - Office 365 Правительство США — высокая, Office 365 обороны
@@ -52,15 +52,15 @@ Microsoft Azure Правительство и Microsoft Office 365 для обо
 
 ## <a name="office-365-and-itar"></a>Office 365 и ITAR
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **GCC High** | Служба каналов активности, службы Bing, Exchange Online, интеллектуальные службы, Microsoft Teams, портал Office 365 клиентов, Office Online, инфраструктура Office, Office Отчеты об использовании, OneDrive для бизнеса, Карточка людей, SharePoint Online, Skype для бизнеса, Windows Ink |
 | **DoD** | Служба каналов активности, службы Bing, Exchange Online, интеллектуальные службы, Microsoft Teams, портал Office 365 клиентов, Office Online, инфраструктура Office, Office Отчеты об использовании, OneDrive для бизнеса, Карточка людей, SharePoint Online, Skype для бизнеса, Windows Ink |

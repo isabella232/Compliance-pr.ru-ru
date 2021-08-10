@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3799b59b8ad88c69e400336f0026a1730224693a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 3765100048d7f17afc27781775487574c6f5219d72e246c4670ccbe91f91f307
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293500"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Акт Грэмма-Лича-Блайли (Акт о модернизации финансовой системы 1999 г.)
 
@@ -40,13 +40,13 @@ Microsoft Azure, Microsoft Office 365, Dynamics 365 и Microsoft Power BI мож
 - [Скачайте средство оценки облачных рисков Azure Financial Services](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Скачайте средство Office 365 облачной оценки рисков](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365 Office 365 правительства США
-- Power BI облачной службы (как в качестве автономных служб, так и в том, что включено в Office 365 или пакет)
+- Облачная служба Power BI (в виде автономной службы или в составе плана либо набора Office 365)
 
 ## <a name="azure-dynamics-365-and-glba"></a>Azure, Dynamics 365 и GLBA
 
@@ -54,17 +54,17 @@ Microsoft Azure, Microsoft Office 365, Dynamics 365 и Microsoft Power BI мож
 
 ## <a name="office-365-and-glba"></a>Office 365 и GLBA
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Веб, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 Cloud App Security, Office 365 группы, Office 365 Центр обеспечения безопасности &, Office 365 Видео, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, диспетчер соответствия требованиям, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender для Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, надстройка Office 365 Advanced Compliance, Office 365 Cloud App Security, группы Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 | **GCC** | Azure Active Directory, Диспетчер соответствия требованиям, Delve, Exchange Online, Формы, Microsoft Defender для Office 365 Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Plus, OneDrive для бизнеса, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 
 ### <a name="frequently-asked-questions"></a>Вопросы и ответы

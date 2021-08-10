@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293836"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Закон о переносе и подотчетности медицинского страхования (HIPAA) & информационных технологий здравоохранения для экономического и клинического здоровья (HITECH)
 
@@ -47,7 +47,7 @@ HIPAA применяется к охваченным объектам (в час
 
 Чтобы узнать, как облако Майкрософт помогает клиентам поддерживать требования HIPAA и HITECH, посетите [веб-сайт Microsoft Customer Stories.](https://customers.microsoft.com/)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure и Azure для государственных организаций
 - Azure DevOps Services
@@ -57,7 +57,7 @@ HIPAA применяется к охваченным объектам (в час
 - [Microsoft Cloud для здравоохранения](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Компьютеры, управляемые Майкрософт](/microsoft-365/managed-desktop/intro/compliance)
-- Профессиональные услуги Майкрософт: Premier и локальная поддержка для Azure, Dynamics 365, Intune, а также для среднего бизнеса и корпоративных клиентов с Microsoft 365 для бизнеса
+- Профессиональные услуги Майкрософт: Premier и локальная поддержка для Azure, Dynamics 365, Intune, а также для среднего бизнеса и корпоративных клиентов с Microsoft 365 для бизнеса
 - Office 365 Office 365 правительства США
 - Облачная служба Power Automate (ранее Microsoft Flow) в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
 - Облачная служба PowerApps в виде автономной службы или в составе плана либо набора Office 365 или Dynamics 365
@@ -69,18 +69,18 @@ HIPAA применяется к охваченным объектам (в час
 
 ## <a name="office-365-and-hipaa"></a>Office 365 и HIPAA
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, Диспетчер соответствия требованиям, клиент lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 клиентского портала, Office 365 Microservices (включая, но не ограничивающийся Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Служба онлайн документов, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive для бизнеса, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype для бизнеса, Stream |
-| **GCC** | Azure Active Directory, служба связи Azure, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр соответствия требованиям &, Office Online, Office Pro Plus, OneDrive для бизнеса, planner, PowerApps, Power Automate Power BI, SharePoint Online, Skype для бизнеса, Stream |
+| **GCC** | Azure Active Directory, Azure Communications Service, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 
 ### <a name="frequently-asked-questions"></a>Вопросы и ответы
 

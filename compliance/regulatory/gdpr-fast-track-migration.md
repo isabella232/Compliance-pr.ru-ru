@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a83a39ec6f60dae780d1082f534c094c45ac4d2c6788c851c6c1cf35b1a7d256
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293094"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Набор инструментов миграции с помощью FastTrack для отправки запросов на удаление
 
@@ -35,9 +35,9 @@ ms.locfileid: "53089512"
 
 Корпорация Майкрософт поддерживает первоначальный выпуск этого набора инструментов для платформы Windows и консоли PowerShell. Кроме того, этот набор инструментов поддерживает указанные ниже известные платформы.
 
-***Таблица 1. Платформы, поддерживаемые набором инструментов** _
+***Таблица 1. Платформы, поддерживаемые набором инструментов***
 
-_***
+****
 
 |Версия PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 Вам будет предложено подтвердить это действие, так как администратор может изменять область по своему усмотрению.
 
-**_Настройка политики выполнения_* _
+***Настройка политики выполнения***
 
 ![Изменение политики выполнения в PowerShell](../media/powershell-set-execution-policy_image.png)
 
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 После успешного входа в систему учетные данные и ключ будут сохранены для использования с модулями FastTrack до конца текущего сеанса PowerShell.
 
-Если вам необходимо подключиться к облачной среде, отличной от коммерческой, нужно добавить к команде *Log in* параметр -Environment* с указанием одной из допустимых сред:
+Если вам необходимо подключиться к облачной среде, отличной от коммерческой, нужно добавить к команде *Log in* параметр *-Environment* с указанием одной из допустимых сред:
 
 - AzureCloud
 - AzureChinaCloud
