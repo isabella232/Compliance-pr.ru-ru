@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 для смягчения последствий непрерывности бизнеса для предприятий
+title: Microsoft 365 для смягчения последствий для управления непрерывности бизнеса предприятия
 description: Некоторые примеры уменьшения отрицательных последствий для сценариев инцидентов обслуживания Microsoft 365
 author: robmazz
 ms.author: robmazz
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 34f6bc7e597d4dfc279e55b9b8a1434e3ada45fb
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 5f88f9b5b3dee2279e37bee5137819802f68502d163e4eaa1f75c3abf57a4c53
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290646"
 ---
 # <a name="service-incident-mitigation-strategies"></a>Стратегии уменьшения отрицательных последствий инцидентов обслуживания
 

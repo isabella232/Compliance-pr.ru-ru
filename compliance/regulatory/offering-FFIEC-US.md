@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dc7fa7f7762d503097ef4bd6fd9ec948993ab10b
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4da808976b7c9afd040417a0fe4025888f07a34bc43c03cb151410244bb437df
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287578"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Федеральный совет по рассмотрению финансовых учреждений (FFIEC)
 
@@ -39,12 +39,12 @@ Microsoft Azure, microsoft Power BI и Microsoft Office 365 построены �
 
 Чтобы помочь вам выполнить требования FFIEC, облачные службы Майкрософт предоставляют отчеты о проверке [soC,](offering-SOC.md) производимые независимой фирмой CPA. Например, атестация SOC 1 Type 2 основана на стандарте AICPA SSAE 18 (см. раздел AT-C 105), заменяемом SAS 70, и подходит для представления отчетов о некоторых средствах управления для финансовой отчетности. Отчеты SOC включают заключение аудитора об эффективности контроля Майкрософт в достижении связанных целей управления в указанный период мониторинга. Финансовые учреждения могут использовать этот формальный аудит при выполнении обязательств по обеспечению соответствия требованиям FFIEC для активов, развернутых в Azure, Power BI и Office 365.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure
 - Intune
 - Office 365 Office 365 правительства США
-- Power BI облачной службы (как в качестве автономных служб, так и в том, что включено в Office 365 или пакет)
+- Облачная служба Power BI (в виде автономной службы или в составе плана либо набора Office 365)
 
 ## <a name="azure-dynamics-365-and-ffiec"></a>Azure, Dynamics 365 и FFIEC
 
@@ -52,20 +52,20 @@ Microsoft Azure, microsoft Power BI и Microsoft Office 365 построены �
 
 ## <a name="office-365-and-ffiec"></a>Office 365 и FFIEC
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Веб, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 Cloud App Security, Office 365 группы, Office 365 Центр обеспечения безопасности &, Office 365 Видео, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
-| **GCC** | Azure Active Directory, Диспетчер соответствия требованиям, Delve, Exchange Online, Формы, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, диспетчер соответствия требованиям, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender для Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, надстройка Office 365 Advanced Compliance, Office 365 Cloud App Security, группы Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+| **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 аудиты, отчеты и сертификаты
+### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 
 См. Office 365 отчеты по проверке soC.
 

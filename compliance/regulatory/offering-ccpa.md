@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2d06aefc89312dece2ecbe81aa6c0a9f10500369
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 75f814c49395e5b945d0b9092b1158fad3376ce684ea3a8fb43115d51fe6bba5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288258"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>Закон Калифорнии о защите персональных данных потребителей (CCPA)
 
@@ -41,7 +41,7 @@ CCPA вступает в силу 1 января 2020 г.  Однако с 1 и
 
 Как установлено в ost, Корпорация Майкрософт соблюдает все законы и правила, применимые к ее предоставлению online Services, включающим CCPA.  
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Azure Dev Ops

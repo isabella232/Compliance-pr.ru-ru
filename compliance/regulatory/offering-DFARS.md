@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 494acc364123c32d409a64324715bcc27e81e7a8
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 11af1e745978358d401502da853640e8bd707249aa827fe30b62813ef44b99d2
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287698"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>Дополнение к федеральному регулированию приобретения (DFARS)
 
@@ -35,7 +35,7 @@ ms.locfileid: "53385279"
 
 Облачные службы Правительства Майкрософт помогают заказчикам оборонно-промышленной базы и подрядчикам обороны США соответствовать требованиям DFARS, как это прописано в статьях DFARS 252.204-7012, применимых к поставщикам облачных служб. Если подрядчики оборонных служб обязаны соблюдать пункт 252.204-7012 DFARS в контрактах, Корпорация Майкрософт может поддерживать требования, применимые к поставщикам облачных служб для правительственных служб Azure и Office 365 государственных служб обороны США. Обе службы демонстрируют поддержку возможностей, необходимых клиентам для выполнения положений DFARS 7012 через их аккредитацию L5 в Руководство по требованиям к безопасности министерства обороны.  
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 Охваченные службы для уровня влияния DoD 5
 
@@ -48,21 +48,21 @@ ms.locfileid: "53385279"
 
 ## <a name="office-365-and-dfars"></a>Office 365 и DFARS
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **GCC** | Azure Active Directory, Диспетчер соответствия требованиям, Delve, Exchange Online, Формы, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Плюс, OneDrive для бизнеса, планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
-| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, Office 365 Advanced Compliance надстройки, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Plus, OneDrive для бизнеса, planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
-| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, Office 365 Advanced Compliance надстройки, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive для бизнеса, Planner, Power BI, SharePoint Online, Skype для бизнеса |
+| **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
+| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, SharePoint Online, Skype для бизнеса |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365 Аудиты, отчеты и сертификаты
+### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 
 - [Авторизация облачных служб Майкрософт](https://marketplace.fedramp.gov/index.html#/products?status=Compliant&sort=productName)
 - [См. дополнительные отчеты по аудиту](https://aka.ms/auditreports)

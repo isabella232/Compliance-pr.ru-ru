@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1c45bd4424a3ffe47aaafd14524ae6f3c507d3b683838a7b9e2c9755b77d518b
-ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
+ms.openlocfilehash: a699f3fbaeded6922ec6c82aa732ed52474f936b2d6a8391650474064334249c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57833856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290997"
 ---
 # <a name="incident-management-overview"></a>Обзор управления инцидентами
 
@@ -41,7 +41,7 @@ ms.locfileid: "57833856"
 
 При обнаружении и эскалации подозрительной активности группы реагирования на безопасность, определенные службами, инициируют процесс **анализа, сдерживания,** ликвидации и восстановления. Эти группы координируют анализ потенциального инцидента, чтобы определить его область, в том числе любое влияние на клиенты или данные клиентов. На основе этого анализа группы реагирования на безопасность, определенные службами, работают с защищенными группами служб, чтобы разработать план по сдерживанию угрозы и минимизации последствий инцидента, устранению угрозы из среды и полному восстановлению до известного безопасного состояния. Соответствующие группы служб реализуют план при поддержке групп реагирования на безопасность, соответствующих службам, чтобы обеспечить успешное устранение угрозы и полное восстановление.
 
-После разрешения инцидента группы служб реализуют все уроки, извлеченные из инцидента, чтобы лучше предотвращать, обнаруживать и реагировать на подобные инциденты в будущем. Выберите инциденты безопасности, особенно те из них, которые влияют на клиента или привели к нарушению данных, претерпевает полный инцидент посмертно. При разборе итогов можно выявить технические пробелы, ошибки в процедурах, человеческие ошибки и другие недостатки процессов, из-за которых, возможно, возник инцидент или которые были обнаружены во время реагирования на инцидент. Улучшения, определенные во время после смерти, реализуются с помощью координации групп реагирования на безопасность, определенных службами, для предотвращения будущих инцидентов и улучшения возможностей обнаружения и реагирования.
+После разрешения инцидента группы служб реализуют все уроки, извлеченные из инцидента, чтобы лучше предотвращать, обнаруживать и реагировать на подобные инциденты в будущем. Выберите инциденты безопасности, особенно те из них, которые влияют на клиента или привели к нарушению данных, претерпевает полный инцидент посмертно. Посмертный метод предназначен для выявления технических ошибок, процедурных сбоев, ошибок вручную и других недостатков процесса, которые могли быть допущены в результате инцидента или были выявлены в процессе реагирования на инцидент. Улучшения, определенные во время после смерти, реализуются с помощью координации групп реагирования на безопасность, определенных службами, для предотвращения будущих инцидентов и улучшения возможностей обнаружения и реагирования.
 
 ## <a name="how-and-when-are-customers-notified-of-security-or-privacy-incidents"></a>Как и когда клиенты уведомлены об инцидентах с безопасностью или конфиденциальностью?
 
@@ -71,7 +71,7 @@ ms.locfileid: "57833856"
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | IR-4: обработка инцидентов <br> IR-6: отчет об инцидентах <br> IR-8: план реагирования на инциденты | 24 сентября 2020 г. |
 | [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Утверждение применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.16.1. Управление инцидентами и улучшениями информационной безопасности | 20 апреля 2021 г. |
-| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Утверждение применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.10.1. Уведомление о нарушении данных с участием PII  | 20 апреля 2021 г. |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Утверждение применимости](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.9.1. Уведомление о нарушении данных с участием PII  | 20 апреля 2021 г. |
 | [SOC 1;](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-26: отчет об инцидентах безопасности <br> CA-47: реагирование на инциденты | 24 декабря 2020 г. |
 | [SOC 2;](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12. Соглашения об уровне обслуживания (SLAs) <br> CA-13: руководство по реагированию на инциденты <br> CA-15: уведомления о состоянии службы  <br>  <br> CA-26: отчет об инцидентах безопасности <br> CA-29: инженеры по вызову <br> CA-47: реагирование на инциденты | 24 декабря 2020 г. |
 | [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=274054e5-4968-48d2-bf94-9a8eda5d7a93&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CUEC-08: сообщения об инцидентах  | 24 декабря 2020 г.  |

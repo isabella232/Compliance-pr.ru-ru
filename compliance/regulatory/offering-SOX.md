@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290057"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Акт Сарбейнс-Оксли от 2002 г. (SOX)
 
@@ -41,13 +41,13 @@ SEC не определяет и не навязывает процесс сер
 
 В Корпорации Майкрософт мы разделяем ответственность за соблюдение требований к нашим клиентам. Мы поставляем сведения о наших программах соответствия требованиям, которые можно проверить, запросив подробные результаты аудита у третьих лиц, удостоверяющих их. В конечном счете, однако, вы должны определить, соответствуют ли наши службы определенным законам и нормативным требованиям, применимым к вашему бизнесу. Например, вы несете ответственность за связанные с SOX средства управления безопасностью, такие как доступ пользователей к облачным ресурсам: организация должна разработать соответствующий аудит этих элементов управления в рамках соответствия требованиям SOX.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
-- Power BI облачной службы (как в качестве автономных служб, так и в том, что включено в Office 365 или пакет)
+- Облачная служба Power BI (в виде автономной службы или в составе плана либо набора Office 365)
 
 ## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 и SOX
 
@@ -55,15 +55,15 @@ SEC не определяет и не навязывает процесс сер
 
 ## <a name="office-365-and-sox"></a>Office 365 и SOX
 
-### <a name="office-365-cloud-environments"></a>Office 365 облачных сред
+### <a name="office-365-cloud-environments"></a>Облачные среды Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 и службы в области применения
+### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Используйте следующую таблицу, чтобы определить применимость для Office 365 и подписки:
+Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
 
-| **Применимость** | **In-scope services** |
+| **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
 | **Office 365** | Цикл расширения, текст автоматического альта, защита информации Azure, службы двоичного преобразования, бронирование, Delve, элемент документа, редактор, Exchange Online, формы, вставка online media, Аналитика, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive для бизнеса, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, To-Do, web rendering service, Yammer корпоративный  |
 

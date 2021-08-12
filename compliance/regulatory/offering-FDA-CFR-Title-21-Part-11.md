@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f5710d392e1d2293bfee976873e5d7c603918e67
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287568"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>Название CFR администрирования продуктов питания и медикаментов 21 часть 11
 
@@ -47,7 +47,7 @@ ms.locfileid: "53385129"
 
 Узнайте, как ускорить развертывание cfr title 21 fda: Скачайте руководство по квалификации [Azure FDA 21](https://go.microsoft.com/fwlink/p/?linkid=2086604)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Облачные платформы Microsoft в области & служб
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 Несмотря на отсутствие сертификации соответствия требованиям CFR Title 21 Часть 11, следующие облачные службы майкрософт прошли независимые сторонние аудиты, которые могут помочь клиентам в их усилиях по обеспечению соответствия требованиям. Эти службы включают:
 
