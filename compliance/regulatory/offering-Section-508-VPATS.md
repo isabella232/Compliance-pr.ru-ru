@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9df3b3f2d39ba28eb3d6b8ca9cdc293594dcc10f13aa17e7c08c85d41ab6ba0c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 237fe4ed402679f156042902f7c25526eee354de
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288587"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259746"
 ---
 # <a name="us-section-508"></a>Раздел 508 США
 
@@ -56,7 +56,7 @@ ms.locfileid: "54288587"
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Доступ, Azure Active Directory, бронирование, Диспетчер соответствия требованиям, Delve, Excel, Exchange Online, форм, Kaizala, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, портал администратора Office 365 для Android, Office 365 портал администрирования для iOS, портал администратора Office 365, Office 365 Advanced Compliance надстройки, Office 365 и Azure AD, Office 365 бизнес Center, Office 365 Security &, Центр соответствия требованиям, Office 365 Видео, Office 365 Web Suite, средство конфигурации Office, Office Lens, Office Online, Office Pro Plus, OneDrive для бизнеса, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype для бизнеса, StaffHub, Stream , To-Do, Visio, Word, Yammer  |
+| **Коммерческий сектор** | Доступ, Azure Active Directory, бронирование, Диспетчер соответствия требованиям, Delve, Excel, Exchange Online, форм, Kaizala, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, портал администратора Office 365 для Android, Office 365 портал администрирования для iOS, портал администратора Office 365, Office 365 Advanced Compliance надстройки, Office 365 и Azure AD, Office 365 бизнес Center, Office 365 Security &, Центр соответствия требованиям, Office 365 Видео, Office 365 Web Suite, средство конфигурации Office, Office Lens, Office Online, Office Pro Plus, OneDrive для бизнеса, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype для бизнеса, StaffHub, Stream , To-Do, Visio, Word, Yammer  |
 | **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, SharePoint Online, Skype для бизнеса |

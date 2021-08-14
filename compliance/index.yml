@@ -109,7 +109,7 @@ conceptualContent:
         - url: /compliance/assurance/assurance-human-resources
           itemType: concept
           text: Обзор управления персоналом
-    - title: Управление идентификацией и доступом
+    - title: Управление удостоверениями и доступом
       links:
         - url: /learn/modules/audit-identity-access-management/
           itemType: learn

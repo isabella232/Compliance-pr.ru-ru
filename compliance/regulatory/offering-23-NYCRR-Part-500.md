@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 04fcc05bcde30bb3ecd6e33336789839cb5a6e404e650d16875692cea38bb7b5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 36d8bd6a0fa27056188b48fef4e1cc8d6e123372
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287928"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261116"
 ---
 # <a name="title-23-nycrr-part-500"></a>Раздел 23 NYCRR (часть 500)
 
@@ -67,7 +67,7 @@ ms.locfileid: "54287928"
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection, Exchange Online, портал клиентов Office 365, Office Online, инфраструктура служб Office, OneDrive для бизнеса, SharePoint Online, Skype для бизнеса |
+| **Коммерческий сектор** | Exchange Online Protection, Exchange Online, портал клиентов Office 365, Office Online, инфраструктура служб Office, OneDrive для бизнеса, SharePoint Online, Skype для бизнеса |
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 

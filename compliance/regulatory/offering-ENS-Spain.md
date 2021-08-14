@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 929b83821fcb68059f9a091bf1bf4b043613dad24f0de2830b58b6ca72b5e091
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 8b201231ba8e605e2afe7bf2e8aba5a4cb21d88f
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287638"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260525"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Меры безопасности высокого уровня согласно испанскому стандарту Esquema Nacional de Seguridad (ENS)
 
@@ -43,7 +43,7 @@ Microsoft Azure и Microsoft Office 365 прошли строгую оценку
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- Azure и Azure для государственных организаций
+- Azure
 - Office 365
 
 ## <a name="office-365-and-ens-high"></a>Office 365 и ENS High
@@ -58,7 +58,7 @@ Microsoft Azure и Microsoft Office 365 прошли строгую оценку
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, клиентский портал Office 365, Office Online, инфраструктура служб Office, Outlook Mobile, SharePoint Online, Skype для бизнеса |
+| **Коммерческий сектор** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, клиентский портал Office 365, Office Online, инфраструктура служб Office, Outlook Mobile, SharePoint Online, Skype для бизнеса |
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 

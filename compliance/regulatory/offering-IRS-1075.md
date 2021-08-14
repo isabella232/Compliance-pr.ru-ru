@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293906"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260912"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Публикация службы внутренних доходов США 1075
 
@@ -70,7 +70,7 @@ Microsoft Azure Государственные [Microsoft Office 365](https://pr
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Служба каналов активности, Bing Services, Delve, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Отчеты об использовании, OneDrive для бизнеса, карточки людей, инфраструктура обслуживания, SharePoint Online, Skype для бизнеса, Windows Ink |
+| **Коммерческий сектор** | Служба каналов активности, Bing Services, Delve, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Отчеты об использовании, OneDrive для бизнеса, карточки людей, инфраструктура обслуживания, SharePoint Online, Skype для бизнеса, Windows Ink |
 | **GCC** | Служба каналов активности, службы Bing, Delve, Exchange Online Protection, Exchange Online, интеллектуальные службы, Microsoft Teams, Office 365 клиентский портал, Office Online, инфраструктура Office, Office Отчеты об использовании, OneDrive для бизнеса, Карточка людей, SharePoint Online, Skype для бизнеса, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de5d4d46e49b5ceaba453e4bcfdef1891d15e080e881f9c450585bca1a1af88b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a8441c6ea20f5429a5e760cef307a132fab9559b
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289357"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260902"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Рекомендации по специальным возможностям для веб-контента
 
@@ -62,7 +62,7 @@ ms.locfileid: "54289357"
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Excel, Центр администрирования Exchange, Центр администрирования Office 365 (портал), интерфейс входа в Office 365 и Azure AD, клиентский портал Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Lens, Office.com, Центр администрирования OneDrive, OneDrive для бизнеса, клиент синхронизации OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
+| **Коммерческий сектор** | Excel, Центр администрирования Exchange, Центр администрирования Office 365 (портал), интерфейс входа в Office 365 и Azure AD, клиентский портал Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Lens, Office.com, Центр администрирования OneDrive, OneDrive для бизнеса, клиент синхронизации OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
 | **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
 | **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, SharePoint Online, Skype для бизнеса |

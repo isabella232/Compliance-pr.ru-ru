@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 49b18d0e758f0c83b2f56be2cd9bb1447c63349165e9cef868adbcf17adeb7f0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294296"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259798"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>База кибербезопасности Национального института стандартов и технологий (NIST)
 
@@ -64,7 +64,7 @@ NIST Cybersecurity Framework (CSF) — это добровольная стру�
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Служба каналов активности, Bing services, Delve, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service Infrastructure, Office Use Reports, OneDrive для бизнеса, people Card, SharePoint Online, Skype для бизнеса, Windows Ink |
+| **Коммерческий сектор** | Служба каналов активности, Bing services, Delve, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service Infrastructure, Office Use Reports, OneDrive для бизнеса, people Card, SharePoint Online, Skype для бизнеса, Windows Ink |
 
 ### <a name="office-365-audit-cycle-and-certification"></a>Office 365 аудита и сертификации
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293866"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260314"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Австралийская программа оценки безопасности, зарегистрированная в сфере информационной безопасности (IRAP)
 
@@ -81,7 +81,7 @@ ms.locfileid: "54293866"
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Exchange Online Protection, формы, Microsoft Teams, Office 365 клиентский портал, Office Online, Office инфраструктура обслуживания, OneDrive для бизнеса, планировщик, SharePoint Online, Skype для бизнеса, доска, Yammer |
+| **Коммерческий сектор** | Exchange Online, Exchange Online Protection, формы, Microsoft Teams, Office 365 клиентский портал, Office Online, Office инфраструктура обслуживания, OneDrive для бизнеса, планировщик, SharePoint Online, Skype для бизнеса, доска, Yammer |
 
 ### <a name="frequently-asked-questions"></a>Вопросы и ответы
 

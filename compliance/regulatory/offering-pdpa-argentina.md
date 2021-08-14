@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 96e5fbeac64f0905dfa6cda98eb13d8ebb725aaed471b6adbb4fdadab9363ddd
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 54401015273b24306cae58a2ca78ca1c91322b6e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288208"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260354"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>Закон о защите персональных данных (PDPA) Аргентины
 
@@ -59,7 +59,7 @@ PDPA соответствует европейской модели законо
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Интернета, MyAnalytics, Office 365 Cloud App Security, Группы Office 365, Office 365 Видео, Office Delve, OneDrive для бизнеса, Планировщик, Power Apps, Power BI для Office 365, PowerApps, Power Automate, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+| **Коммерческий сектор** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Интернета, MyAnalytics, Office 365 Cloud App Security, Группы Office 365, Office 365 Видео, Office Delve, OneDrive для бизнеса, Планировщик, Power Apps, Power BI для Office 365, PowerApps, Power Automate, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 
 ## <a name="how-to-implement"></a>Методика реализации
 

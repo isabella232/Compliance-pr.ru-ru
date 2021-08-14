@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c809ebd43b66d51939a31b283e212b55d20f833a
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293836"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260324"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Закон о переносе и подотчетности медицинского страхования (HIPAA) & информационных технологий здравоохранения для экономического и клинического здоровья (HITECH)
 
@@ -79,7 +79,7 @@ HIPAA применяется к охваченным объектам (в час
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, Диспетчер соответствия требованиям, клиент lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 клиентского портала, Office 365 Microservices (включая, но не ограничивающийся Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Служба онлайн документов, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive для бизнеса, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype для бизнеса, Stream |
+| **Коммерческий сектор** | Access Online, Azure Active Directory, Azure Communications Service, Диспетчер соответствия требованиям, клиент lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 клиентского портала, Office 365 Microservices (включая, но не ограничивающийся Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Служба онлайн документов, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive для бизнеса, Planner, PowerApps, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype для бизнеса, Stream |
 | **GCC** | Azure Active Directory, Azure Communications Service, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 
 ### <a name="frequently-asked-questions"></a>Вопросы и ответы

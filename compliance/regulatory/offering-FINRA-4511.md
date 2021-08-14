@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0b45e9e526ad95030eed1a6b7b1814ad4aee66e8b33651ee466d71795ba97f74
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 481b5e5890d404dc48d1354b83dc44b53cc6362e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287438"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261000"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Правило 4511 (c) США
 
@@ -60,7 +60,7 @@ Cohasset подтвердила, что [azure Immutable Blob служба хр�
 
 ### <a name="azure--finra-rule-4511c"></a>Azure & FINRA Rule 4511(c)
 
-[Sec 17a-4(f) & CFTC 1.31 (c-d) Оценка соответствия требованиям служба хранилища Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+- [Sec 17a-4(f) & CFTC 1.31 (c-d) Оценка соответствия требованиям служба хранилища Azure](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
 
 ### <a name="office-365--finra-rule-4511c"></a>Office 365 & FINRA Rule 4511(c)
 

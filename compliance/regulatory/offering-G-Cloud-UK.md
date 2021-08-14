@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292496"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260943"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Великобритания Government-Cloud (G-Cloud)
 
@@ -64,7 +64,7 @@ Government Cloud (G-Cloud) — это правительственная ини�
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, Skype для бизнеса |
+| **Коммерческий сектор** | Exchange Online, SharePoint Online, Skype для бизнеса |
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 

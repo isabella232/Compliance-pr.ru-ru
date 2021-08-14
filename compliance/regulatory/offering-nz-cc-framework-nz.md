@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293386"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259818"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Сведения о безопасности и конфиденциальности правительства Новой Зеландии (ISPC)
 
@@ -57,7 +57,7 @@ ms.locfileid: "54293386"
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, Skype для бизнеса |
+| **Коммерческий сектор** | Exchange Online, SharePoint Online, Skype для бизнеса |
 
 >[!Note]
 >Корпорация Майкрософт NZ работала с командой GCIO над разработкой архитектуры ссылок для интеграции Exchange Online и SEEMail, описанных в Office 365: seeMail Integration and Reference Architecture.

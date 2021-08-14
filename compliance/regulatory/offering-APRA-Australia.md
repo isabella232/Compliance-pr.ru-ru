@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 912b9770f4b8afb54fb98455b313498d7ebf7af4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292626"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260631"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Австралийский орган пруденциального регулирования (APRA)
 
@@ -90,7 +90,7 @@ CPS 234 тесно отражает основную структуру безо
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection, Exchange Online, портал клиентов Office 365, Office Online, инфраструктура служб Office, OneDrive для бизнеса, SharePoint Online, Skype для бизнеса |
+| **Коммерческий сектор** | Exchange Online Protection, Exchange Online, портал клиентов Office 365, Office Online, инфраструктура служб Office, OneDrive для бизнеса, SharePoint Online, Skype для бизнеса |
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 
