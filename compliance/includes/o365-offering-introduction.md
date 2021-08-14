@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: e7b7c7a52b7f9432251cdeaef178e9fc58ffc243
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: b42797a1987251ab34dc8ee44e654667992f0ee3
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384144"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259743"
 ---
 <!-- This file is a part of all Office 365 compliance offering topics. Please coordinate with Robert Mazzoli (robmazz) for any changes.-->
 
@@ -12,7 +12,7 @@ Microsoft Office 365 — это рассчитанная на множество
 
 Этот раздел посвящен следующим облачным средам Office 365.
 
-- **Office 365**. Глобальная общедоступная коммерческая облачная служба Office 365.
+- **Office 365 (коммерческая)**. Глобальная общедоступная коммерческая облачная служба Office 365.
 - **Облако сообщества Office 365 для государственных организаций (GCC)**. [Облачная служба Office 365 GCC](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc) доступна для государственных организаций США федерального уровня, уровня штатов, местного и племенного уровня, а также для подрядчиков, хранящих или обрабатывающих данные от имени правительства США.
 - **Облако сообщества Office 365 для государственных организаций — высокий уровень (GCC High)**. [Облачная служба Office 365 GCC High](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) разработана в соответствии с элементами управления четвертого уровня, предусмотренными руководством по требованиям к безопасности Министерства обороны (DoD), и поддерживает строго регулируемую информацию федерального значения и данные, относящиеся к обороне. Эта среда используется федеральными учреждениями, предприятиями военно-промышленного комплекса и подрядчиками государственных организаций.
 - **Office 365 DoD (DoD)**. [Облачная служба Office 365 DoD](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) разработана в соответствии с элементами управления пятого уровня, предусмотренными руководством по требованиям к безопасности Министерства обороны (DoD), и поддерживает строгие нормы относительно информации федерального значения и данных, относящихся к обороне. Эта среда используется исключительно Министерством обороны США.

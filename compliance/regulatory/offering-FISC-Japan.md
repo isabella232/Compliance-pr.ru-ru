@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88a5e554fc2307dfa427ccb0023e7a00e006d536fc8cca276d550aa9510dbc29
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287303"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260491"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Центр информационных систем для финансовой отрасли (FISC)
 
@@ -67,7 +67,7 @@ ms.locfileid: "54287303"
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 профессиональный плюс, Office Online, OneDrive для бизнеса, Power BI для Office 365, Project Online, SharePoint Online, Skype для бизнеса |
+| **Коммерческий сектор** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 профессиональный плюс, Office Online, OneDrive для бизнеса, Power BI для Office 365, Project Online, SharePoint Online, Skype для бизнеса |
 
 ## <a name="frequently-asked-questions"></a>Вопросы и ответы
 
@@ -84,7 +84,7 @@ ms.locfileid: "54287303"
 
 **Где можно получить подробные сведения об ответах Майкрософт для платформы FISC?**
 
-Вы можете ознакомиться со справочными сведениями по безопасности ([на японском языке](https://aka.ms/microsoftresponsetofiscguidancejapanese)) от сторонних организаций, оценивших соответствие требованиям FISC облачных служб Майкрософт.
+Отзывы относительно безопасности от сторонних организаций, оценивших соответствие требованиям FISC облачных служб Майкрософт, вы можете получить у работающего с вами представителя Майкрософт.
 
 **Можно ли использовать ответы Майкрософт для этой платформы в процессе оценки моей организации?**
 
