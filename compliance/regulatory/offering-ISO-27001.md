@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 587b05960289bc64932c23db099238af7bf971d6063c9f6568d690ee77bb4c5d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a09374f9515e4c215da5d2f61d6d5e3996e15f84
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288657"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260535"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Стандарты управления информационной безопасностью ISO/IEC 27001:2013
 
@@ -79,7 +79,7 @@ ISO/IEC 27001 — это стандарт безопасности, которы
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, диспетчер соответствия требованиям, защищенное хранилище, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, клиентский портал Office 365, микрослужбы Office 365 (в том числе Kaizala, ObjectStore, Sway, Power Automate, служба документов PowerPoint Online, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, программа приложений eXtensible), Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, инфраструктура служб Office, OneDrive для бизнеса, Планировщик, PowerApps, Power BI, Project Online, шифрование службы с помощью ключа клиента, SharePoint Online, Skype для бизнеса, Stream |
+| **Коммерческий сектор** | Access Online, Azure Active Directory, Azure Communications Service, диспетчер соответствия требованиям, защищенное хранилище, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, клиентский портал Office 365, микрослужбы Office 365 (в том числе Kaizala, ObjectStore, Sway, Power Automate, служба документов PowerPoint Online, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, программа приложений eXtensible), Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, инфраструктура служб Office, OneDrive для бизнеса, Планировщик, PowerApps, Power BI, Project Online, шифрование службы с помощью ключа клиента, SharePoint Online, Skype для бизнеса, Stream |
 | **GCC** | Azure Active Directory, Azure Communications Service, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 | **GCC High** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
 | **DoD** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, SharePoint Online, Skype для бизнеса |
@@ -128,6 +128,7 @@ ISO/IEC 27001 — это стандарт безопасности, которы
 
 ### <a name="resources"></a>Ресурсы
 
+- [План действий Microsoft 365 по стандартам ISO 27001](iso-action-plan.md)
 - [Сопоставление предложений Microsoft Cyber с: NIST Cybersecurity (CSF), элементами управления CIS и стандартами ISO27001: 2013](https://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf)
 - [Каталог ISO/IEC 27000](https://www.27000.org/index.htm)
 - [Стандарт ISO/IEC 27001: 2013](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=54534) (для покупок)
