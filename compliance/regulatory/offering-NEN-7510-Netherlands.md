@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f3012269f613d5b403882c1718c3fbdc1f745519
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9b0d5de71b670ccde9fa1b3961c844c23a7bc83a
+ms.sourcegitcommit: 85a756defdc87e3e6dedf4e2bbf68cd06fa2bd37
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259788"
+ms.locfileid: "58340009"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -31,7 +31,7 @@ ms.locfileid: "58259788"
 
 ## <a name="microsoft-and-nen-75102011"></a>Майкрософт и NEN 7510:2011
 
-Корпорация Майкрософт проанализировала текущие сертификаты и гарантийные заявления и создала [отчет о применении NEN 7510](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=3285c45c-921c-49ad-b881-be43e0b70490&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides) (доступный на платформе Service Trust), в котором эти сертификаты и гарантийные заявления сопоставлены со средствами контроля NEN 7510, находящимися в ведении Майкрософт в качестве поставщика облачных служб. Этот документ помогает клиентам определить, какие прочие средства контроля требуется реализовать, чтобы обеспечить соответствие облачных служб Майкрософт для хранения или обработки сведений о здоровье пациента стандарту NEN 7510.
+Корпорация Майкрософт проанализировала текущие сертификаты и гарантийные заявления и создала [отчет о применении NEN 7510](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=15d5a5fa-fbb6-4ea6-8126-2a2c684ae789&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports) (доступный на платформе Service Trust), в котором эти сертификаты и гарантийные заявления сопоставлены со средствами контроля NEN 7510, находящимися в ведении Майкрософт в качестве поставщика облачных служб. Этот документ помогает клиентам определить, какие прочие средства контроля требуется реализовать, чтобы обеспечить соответствие облачных служб Майкрософт для хранения или обработки сведений о здоровье пациента стандарту NEN 7510.
 
 Узнайте, как ускорить развертывание стандарта NEN 7510 с помощью схем обеспечения безопасности и соответствия требованиям в Azure: [скачайте руководство пользователя по применению стандарта NEN7510-2011 в Azure и Office 365 Azure для Microsoft Cloud](https://aka.ms/Azure-NEN7510-2011).
 
