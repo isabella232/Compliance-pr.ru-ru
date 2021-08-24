@@ -9,17 +9,17 @@ manager: pamgreen
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Priority
+ms.localizationpriority: high
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 58f3d9108fe36175c2ce879054a35c2cc94d93c8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d9a84e886fc81d760e249180c603432ca45c2e65
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496079"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482342"
 ---
 # <a name="gdpr-for-office-on-premises-servers"></a>GDPR для локальных серверов Office
 
@@ -60,4 +60,4 @@ ms.locfileid: "51496079"
 |Отслеживать|Интеграция журналов с инструментами SIEM|Интеграция журналов с инструментами SIEM|Интеграция журналов с инструментами SIEM|Интеграция журналов с инструментами SIEM|Интеграция журналов с инструментами SIEM|
 |
 
-<sup>\*</sup> Обратите внимание, что система защиты шифрует файл. Соответственно, SharePoint Server не может найти типы конфиденциальной информации в защищенных файлах.
+<sup>\*</sup> Обратите внимание, что система защиты шифрует файл. Соответственно, сервер SharePoint не может найти конфиденциальную информацию в защищенных файлах.

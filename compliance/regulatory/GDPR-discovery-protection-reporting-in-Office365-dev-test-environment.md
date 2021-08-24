@@ -14,19 +14,19 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 ms.service: O365-seccomp
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 - MET150
 ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: a12e8e735df05004e63080f22c3c9b4de5749506
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 3b03feab5e1a73d7e8409e5dcfda78051b5a4a00
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496648"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481611"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>Обнаружение, защита и создание отчетов в соответствии с GDPR в среде разработки и тестирования
 
@@ -185,7 +185,7 @@ ms.locfileid: "51496648"
 
 ## <a name="phase-5-demonstrate-data-protection"></a>Этап 5. Демонстрация функции защиты данных
 
-Защита персональных данных в Microsoft 365 включает использование функций защиты от потери данных (DLP).  Политики защиты от потери данных позволяют автоматически защищать конфиденциальную информацию в Microsoft 365.
+Защита персональных данных в Microsoft 365 включает использование функций защиты от потери данных (DLP). Политики защиты от потери данных позволяют автоматически защищать конфиденциальную информацию в Microsoft 365.
 
 Применить защиту можно несколькими способами. Один из уровней защиты информации с помощью функций защиты от потери данных в Office 365 — рассказывать клиентам, где хранятся данные резидентов ЕС и каким образом вашим сотрудникам разрешено обрабатывать их.
 

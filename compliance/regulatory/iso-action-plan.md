@@ -3,7 +3,7 @@ title: 'План обеспечения соответствия стандар�
 description: План действий в порядке приоритета, который поможет вам обеспечить соответствие требованиям Международной организации по стандартизации (ISO)
 keywords: Microsoft 365, Microsoft 365 для образования, документация по Microsoft 365, ISO, ISO 27001
 author: BrendaCarter
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 525870883b67ef37b45af2aa690ce849acd9217d
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 4fc85558c4bef8763b7d6cae039f5ab085df6c61
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261126"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482302"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>План обеспечения соответствия ISO 27001 для Microsoft 365: основные приоритеты на первые 30, 90 и больше дней
 
