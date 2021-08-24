@@ -2,7 +2,7 @@
 title: Европейские стандарты EN 301 549
 description: Microsoft Cloud состоит из множества служб и включается в разные отчеты по соответствию для отдельных служб.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9fd5934030e83dc03326c66ea20e93c1c0472e3be1afe496120165f381404827
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: fe5f8ff2208fd2586ef2806aed73a5ee77cb5b97
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287608"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482262"
 ---
 # <a name="european-standards-en-301-549"></a>Европейские стандарты EN 301 549
 

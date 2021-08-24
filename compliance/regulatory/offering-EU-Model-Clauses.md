@@ -2,7 +2,7 @@
 title: Типовые условия ЕС
 description: Майкрософт предлагает стандартные договорные условия ЕС, предоставляющие гарантии при передаче персональных данных.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 806f5ed0636ea9eceb9e57d5c445d0902896fce8
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: ad57ba94dbb79e1e8d5536598ef4e2fd3f0fbf55
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261075"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482252"
 ---
 # <a name="european-union-model-clauses"></a>Типовые условия ЕС
 

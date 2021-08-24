@@ -2,7 +2,7 @@
 title: требованиям Федеральной программы управления рисками и авторизацией (FedRAMP);
 description: Корпорация Майкрософт получила федеральную программу управления рисками и авторизацией США P-ATOs и ATOs.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292776"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482944"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>требованиям Федеральной программы управления рисками и авторизацией (FedRAMP);
 

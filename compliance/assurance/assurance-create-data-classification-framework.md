@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 88a07e5c6d5e3e84260c5099d957ebf38745819e239f951df62a5d04886f3fa4
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 17aa73258f1ecc4db9cc13a5df08b1aa76a583a7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288727"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482162"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>Создание хорошо разработанной структуры классификации данных
 
@@ -102,7 +102,7 @@ ms.locfileid: "54288727"
 
 Для небольших организаций или организаций с относительно упрощенной структурой классификации данных может быть достаточно создать единую метку чувствительности для каждого уровня классификации данных. В следующем примере показан уровень классификации данных от одного к сопоставлению меток чувствительности:
 
-|**Метка классификации**|**Метка конфиденциальности**|**Параметры метки**|**Опубликовано в**|
+|**Метка классификации**|**Метка "Чувствительность"**|**Параметры метки**|**Опубликовано в**|
 |:-----------------------|:--------------------|:-----------------|:---------------|
 | Неограниченное | Неограниченное | Применение подножки "Неограниченное" | Все пользователи |
 | Общие | Общие | Применение подножки "General" | Все пользователи |

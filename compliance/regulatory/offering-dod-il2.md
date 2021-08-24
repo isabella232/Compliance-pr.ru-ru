@@ -2,7 +2,7 @@
 title: Уровень воздействия Министерства обороны (DoD) 2 (IL2)
 description: Узнайте, как Корпорация Майкрософт отвечает стандартам 2 (IL2) для Министерства обороны (DoD).
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288228"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482452"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>Уровень воздействия Министерства обороны (DoD) 2 (IL2)
 

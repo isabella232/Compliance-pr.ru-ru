@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 953255f96acbc22349d9f00a83edff7d65106ec6360b42930fe5985fcb4df3f5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 86885737bb3e6acd0a9503c240b09cb3349da7a8
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291067"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481981"
 ---
 # <a name="governance-overview"></a>Обзор управления
 
@@ -82,5 +82,5 @@ Microsoft 365 документы реализации безопасности �
 
 ## <a name="resources"></a>Ресурсы
 
-- [Политика безопасности Майкрософт](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=bc35aefb-ec41-4a0e-bfc7-10aa5169ca88&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Политика Microsoft Security](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=bc35aefb-ec41-4a0e-bfc7-10aa5169ca88&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 - [Политика программы безопасности Майкрософт](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=4b010ac5-2861-4d20-b8ff-db77875b43a9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)

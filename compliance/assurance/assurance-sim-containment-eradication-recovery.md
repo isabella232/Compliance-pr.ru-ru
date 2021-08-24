@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 f1.keywords:
@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 37de1f6a1b2735b444dc06228a411c0ef0c15f8b
-ms.sourcegitcommit: 35ca898d621a3e158b361c7dea3a33c4b1f9fe3a
+ms.openlocfilehash: 5cb8d92a970c73f76de3d9a824c7bab86d13ce2e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58361263"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481701"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Управление инцидентами безопасности Майкрософт: сдерживание, ликвидация и восстановление
 
@@ -57,7 +57,7 @@ ms.locfileid: "58361263"
 
 Уведомление будет включать подробные сведения об инциденте, такие как описание инцидента, влияние на данные клиента, если таковой имеется, действия, предпринятые Корпорацией Майкрософт, и/или предлагаемые действия, которые необходимо принять для решения проблемы и предотвращения повторения. Уведомление будет доставлено назначенного администратора (ы) клиента онлайн-служб Майкрософт. Чтобы обеспечить получения уведомлений, необходимо убедиться, что администраторы предоставляют и поддерживают точную контактную информацию в профилях клиентов. Кроме того, в зависимости от характера инцидента клиенты Microsoft 365 также могут быть уведомлены с помощью панели мониторинга [Microsoft 365 службы.](http://status.yammer.com/)
 
-## <a name="related-articles"></a>Связанные статьи
+## <a name="related-articles"></a>Статьи по теме
 
 - [Управление инцидентами безопасности Майкрософт](assurance-security-incident-management.md)
 - [Управление инцидентами безопасности Майкрософт: подготовка](assurance-sim-preparation.md)

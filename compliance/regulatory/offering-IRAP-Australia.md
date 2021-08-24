@@ -2,7 +2,7 @@
 title: Австралийская программа оценки безопасности, зарегистрированная в сфере информационной безопасности (IRAP)
 description: Корпорация Майкрософт включена в австралийский список сертифицированных облачных служб для неклассифицированных маркеров ограничения распространения (DLM) и защищенных данных на основе оценки и сертификации IRAP в Австралийском центре кибербезопасности (ACSC).
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260314"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58483014"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Австралийская программа оценки безопасности, зарегистрированная в сфере информационной безопасности (IRAP)
 

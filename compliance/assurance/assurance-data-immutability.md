@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35af35fcd17e12cbee7643e99ccda7c0b0608463602dc1e44c38ac5d1d4f28d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e17685c7d927ab8188abe1ef4dae4d2cdf0f3764
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291377"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482122"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Неуемность данных в Microsoft 365
 
@@ -35,18 +35,18 @@ ms.locfileid: "54291377"
 
 С помощью функций политики хранения и сохранения на месте в Microsoft 365 и ее службах можно сохранить и сохранить многие классы входящих, внутренних и исходяющих данных. К ним относятся:
 
-- Входящие и исходящие сообщения электронной почты
-- Книги и записи, содержащиеся в форме электронной почты или в общих документах в Интернете
-- Приглашения на собрания
-- Факсы
-- Мгновенные сообщения
-- Документы, общие во время собраний в Интернете
-- Голосовая почта
+- входящие и исходящие сообщения электронной почты;
+- книги и записи, хранящиеся в формате электронной почты или в общедоступных документах в Интернете;
+- приглашения на собрания;
+- факсы;
+- мгновенные сообщения;
+- документы, предоставленные в ходе собраний по сети;
+- голосовая почта.
 
 Кроме того, Корпорация Майкрософт разработала [](https://support.office.com/article/Archiving-third-party-data-in-Office-365-0ce338d5-3666-4a18-86ab-c6910ff408cc) функции надстройки, позволяющие архивацию данных из других источников путем интеграции с сторонними решениями по захвату и управлению данными. После импорта сторонних данных можно применить Microsoft 365 к данным, в том числе:
 
 - [Судебное удержание](/microsoft-365/compliance/create-a-litigation-hold)
-- [Открытие и удержание на месте](/microsoft-365/compliance/manage-legal-investigations)
+- [Хранение и обнаружение электронных данных на месте](/microsoft-365/compliance/manage-legal-investigations)
 - [Поиск соответствия](/microsoft-365/compliance/search-for-content)
 - [Архивация на месте](/microsoft-365/compliance/enable-archive-mailboxes)
 - [Аудит почтовых ящиков](/microsoft-365/compliance/enable-mailbox-auditing)

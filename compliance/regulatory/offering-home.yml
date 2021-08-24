@@ -15,7 +15,7 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  localization_priority: Normal
+  ms.localizationpriority: medium
 conceptualContent:
   title: 'Azure, Dynamics 365 и Microsoft 365 соответствия требованиям'
   summary: 'Сведения для Azure, Dynamics 365, Microsoft 365 и Power Platform и других служб, чтобы помочь с национальными, региональными и отраслевыми правилами сбора и использования данных.'
@@ -46,7 +46,7 @@ conceptualContent:
         - url: offering-ISO-27017.md
           itemType: reference
           text: ISO 27017
-    - title: Глобальная
+    - title: Глобальные
       links:
         - url: offering-ISO-27018.md
           itemType: reference

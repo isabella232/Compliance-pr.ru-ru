@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 910c1ddf0ba1f52a7862457387a923753199ae7913b07dfa4e03de8a7b361868
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 29d0c6633c67d65c6bef27a9768fa213a9e50ac4
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292298"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481821"
 ---
 # <a name="privacy-overview"></a>Обзор конфиденциальности
 
@@ -45,7 +45,7 @@ ms.locfileid: "54292298"
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>Как Майкрософт обрабатывает сторонний общий доступ?
 
-Сторонний общий доступ — это совместное или совместное раскрытие данных третьим лицам. Корпорация Майкрософт будет обмениваться данными только при авторизации клиента или при необходимости в соответствии с применимым законодательством. Корпорация Майкрософт не дает любому правительству (в том числе правоохранительным органам или другим государственным организациям) прямой или беспознанный доступ к данным клиентов. Корпорация [Майкрософт соблюдает международные](https://www.microsoft.com/trust-center/privacy/data-location) законы о защите данных, касающиеся передачи данных клиентов через границы.
+Сторонний общий доступ — это совместное использование данных с третьими лицами или раскрытие данных третьим лицам. Корпорация Майкрософт будет обмениваться данными только при авторизации клиента или при необходимости в соответствии с применимым законодательством. Корпорация Майкрософт не предоставляет никаким правительственным учреждениям (включая правоохранительные или другие государственные органы) прямой или свободный доступ к данным клиента. Корпорация [Майкрософт соблюдает международные](https://www.microsoft.com/trust-center/privacy/data-location) законы о защите данных, касающиеся передачи данных клиентов через границы.
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>Как Майкрософт удаляет данные клиентов, когда клиент покидает службу?
 

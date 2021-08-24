@@ -2,7 +2,7 @@
 title: Надлежащая клиническая, лабораторная и производственная практика (GxP)
 description: Azure и Office 365 могут помочь медико-биологическим организациям соответствовать нормативным требованиям GxP.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 76a66ea2cf7b5483c68a2baa0cff4e96b949d3932aa7ca4dd41209ff0cc363ac
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: d1420d65a5404a04e656e8f3ff03b2c4cf617cc5
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293476"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482824"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Надлежащая клиническая, лабораторная и производственная практика (GxP)
 

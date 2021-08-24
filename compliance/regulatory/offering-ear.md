@@ -2,7 +2,7 @@
 title: Правила администрирования экспорта США (EAR)
 description: Облачные службы Майкрософт помогают клиентам, в соответствии с правилами экспортного администрирования США (EAR), соответствовать требованиям соответствия требованиям и управлять рисками экспортного контроля.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 859067495b6811b2264ab3a379f305d428771bce
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293596"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482984"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Правила администрирования экспорта США (EAR)
 
