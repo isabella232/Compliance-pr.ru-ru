@@ -2,7 +2,7 @@
 title: Соображения безопасности и конфиденциальности облачных вычислений правительства Новой Зеландии
 description: Корпорация Майкрософт NZ решает вопросы, опубликованные в платформе облачных вычислений Новой Зеландии.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259818"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480491"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Сведения о безопасности и конфиденциальности правительства Новой Зеландии (ISPC)
 

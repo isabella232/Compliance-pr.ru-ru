@@ -2,7 +2,7 @@
 title: Правило 4511 (c) США
 description: Независимая компания по оценке подтвердила, что Azure и Office 365 могут помочь финансовым фирмам соответствовать требованиям к хранению записей FINRA Rule 4511 и неопровержимым требованиям к хранению.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 481b5e5890d404dc48d1354b83dc44b53cc6362e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261000"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479771"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Правило 4511 (c) США
 

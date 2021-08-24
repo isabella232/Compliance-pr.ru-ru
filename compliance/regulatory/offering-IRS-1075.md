@@ -2,7 +2,7 @@
 title: Публикация службы внутренних доходов США 1075
 description: Корпорация Майкрософт имеет элементы управления, которые соответствуют требованиям службы внутренних доходов США Publication 1075.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3212e28e055629b3f2894e7887ffac03e94b9e3a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260912"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481041"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Публикация службы внутренних доходов США 1075
 

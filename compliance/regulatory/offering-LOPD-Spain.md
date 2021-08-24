@@ -2,7 +2,7 @@
 title: Испанский королевский указ 1720/2007, испанский конституционный закон 15/1999 (LOPD)
 description: Клиенты облачных решений Майкрософт Microsoft получили разрешение испанского Агентства по защите данных (AEPD) на передачу данных через границу страны.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 752fcd4453b8db696826bb3a33080066cb4b342d
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3e3d8bdd755ae032b0f027150a2211a5fe14f7e5
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260461"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479761"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>Испанский королевский указ 1720/2007, испанский конституционный закон 15/1999 (LOPD)
 

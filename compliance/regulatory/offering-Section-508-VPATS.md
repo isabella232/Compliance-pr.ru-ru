@@ -2,7 +2,7 @@
 title: Раздел 508 США
 description: Корпорация Майкрософт предоставляет подробные отчеты о соответствии требованиям доступности для многих облачных служб, описывающих возможности доступности этих служб.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 237fe4ed402679f156042902f7c25526eee354de
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259746"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480531"
 ---
 # <a name="us-section-508"></a>Раздел 508 США
 

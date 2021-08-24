@@ -2,7 +2,7 @@
 title: Резервный банк Индии (RBI) и Управление по регулированию страхования и развитию Индии (IRDAI)
 description: Корпорация Майкрософт опубликовала рекомендации по помощи финансовым учреждениям в Индии при внедрении облачных технологий.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 200319178a714383feeca3d58cf608e9a3baa304
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294226"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481021"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>Резервный банк Индии (RBI) и Управление по регулированию страхования и развитию Индии (IRDAI)
 
