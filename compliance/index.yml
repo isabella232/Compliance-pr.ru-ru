@@ -28,7 +28,7 @@ highlightedContent:
       url: /learn/paths/compmgmt/
     - title: Начало работы с руководствами Microsoft 365 решений по обеспечению соответствия требованиям
       itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
+      url: /microsoft-365/solutions/
 productDirectory:
   title: Соответствие требованиям & отрасли
   summary: Руководство Корпорации Майкрософт по соблюдению отраслевых областей и международных стандартов & и нормативных актов.

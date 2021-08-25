@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: aea00230d5f34c2e682aa278ab5dc6ca062fa803
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: f8c99a93cac767439d157a7d709c7ed1d706c113
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482482"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505942"
 ---
 # <a name="health-data-hosting-hds-france"></a>Стандарт размещения медицинских данных (HDS) во Франции
 
@@ -48,7 +48,11 @@ Microsoft Azure, Microsoft Dynamics 365 и Microsoft Office 365 получили
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
-- [Azure](https://aka.ms/AzureCompliance). Сертификат HDS применяется к службам Azure, которые указаны как соответствующие стандарту ISO/IEC 27001 в предложениях для соответствия требованиям Azure и предоставляются из таких регионов Azure, как Центральная Франция, Южная Франция, Западная Европа и Северная Европа. 
+- [Azure](https://aka.ms/AzureCompliance). Сертификат HDS применяется к службам Azure, которые указаны как соответствующие стандарту ISO/IEC 27001 в предложениях для соответствия требованиям Azure и подготавливаются в указанных ниже регионах.
+    - Центральная Франция (Париж)
+    - Южная Франция (Марсель)
+    - Северная Европа (Ирландия)
+    - Западная Европа (Нидерланды)
 - Dynamics 365. Сертификат HDS применяется к [основным веб-службам](https://aka.ms/Online-Services-Terms) Dynamics 365, предоставляемым из Франции и Европейского союза.
 - Intune
 - Microsoft 365. Сертификат HDS применяется к [основным веб-службам](https://aka.ms/Online-Services-Terms) Office 365, предоставляемым из географических регионов Франции и Европейского союза.
@@ -58,10 +62,7 @@ Microsoft Azure, Microsoft Dynamics 365 и Microsoft Office 365 получили
 
 ## <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 
-Сертификация HDS действительна в течение трех лет.
-
-- HDS: 2018: [ASIP SANTÉ](https://esante.gouv.fr/)
-- [BSI Group](https://www.bsigroup.com/fr-FR/Nos-services/Certification/Recherche-dans-le-repertoire-des-certificats-et-des-clients/Resultats-de-la-recherche-dans-le-repertoire-des-certificats-et-des-clients/?searchkey=licence%3dHDS%2b701569%26company%3dMicrosoft%2bCorp&licencenumber=HDS%20701569)
+[Сертификация HDS](https://esante.gouv.fr/labels-certifications/hebergement-des-donnees-de-sante) устанавливает дополнительные требования к безопасности и конфиденциальности для поставщиков услуг размещения и облачных служб, чтобы обеспечить надлежащую защиту конфиденциальности и целостности конфиденциальных данных. Облачные службы (Майкрософт), в том числе Azure, получили сертификат HDS, как показано в [списке узлов с сертификатами HDS](https://esante.gouv.fr/labels-certifications/hds/liste-des-herbergeurs-certifies) ASIP Santé.
 
 ## <a name="how-to-implement"></a>Методика реализации
 
@@ -70,6 +71,7 @@ Microsoft Azure, Microsoft Dynamics 365 и Microsoft Office 365 получили
 
 ## <a name="resources"></a>Ресурсы
 
+- [Документация Azure по соответствию требованиям](/azure/compliance/)
 - [Условия использования веб-служб Майкрософт](https://aka.ms/Online-Services-Terms)
 - [Блог сертификации HDS Майкрософт](https://news.microsoft.com/2018/11/06/microsoft-1er-acteur-majeur-du-cloud-public-a-etre-certifie-hebergeur-de-donnees-de-sante-en-france/)
 - [Azure для Франции](https://azure.microsoft.com/global-infrastructure/france/)

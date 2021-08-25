@@ -80,8 +80,8 @@
       href: assurance-identity-and-access-management.md
     - name: Защищенное хранилище в Azure
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Административные элементы управления доступом в Microsoft 365
-      href: assurance-administrative-access-controls-overview.md
+    - name: Управление учетной записью Microsoft 365
+      href: assurance-microsoft-365-account-management.md
     - name: Технологические элементы управления в Microsoft 365
       href: assurance-technology-controls.md
     - name: Защищенное хранилище в Office 365
