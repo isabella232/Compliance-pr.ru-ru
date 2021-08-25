@@ -2,7 +2,7 @@
 title: Системный и организационный контроль 1 (тип 2)
 description: Узнайте о том, как облачные службы (Майкрософт) соответствуют стандартам системного и организационного контроля (SOC) 1 (тип 2) в области операционной безопасности.
 keywords: Microsoft 365, соответствие требованиям, предложения
-ms.localizationpriority: high
+localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8c374ce340538e4030e0cd07a2bdbe0aa4f4615d
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: a3431b93e1c8f4b2705a0362114412aa4381143b
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482644"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385778"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>Системный и организационный контроль 1 (тип 2)
 
@@ -73,11 +73,11 @@ ms.locfileid: "58482644"
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Коммерческий сектор** | Диспетчер соответствия требованиям, защищенное хранилище, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Teams, MyAnalytics, клиентский портал Office 365, микрослужбы Office 365 (в том числе Kaizala, ObjectStore, Sway, служба документов PowerPoint Online, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, программа приложений eXtensible), Office Online, инфраструктура служб Office, OneDrive для бизнеса, Планировщик, PowerApps, Power BI, Project Online, шифрование службы с помощью ключа клиента, SharePoint Online, Skype для бизнеса |
+| **Office 365** | Диспетчер соответствия требованиям, защищенное хранилище, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Teams, MyAnalytics, клиентский портал Office 365, микрослужбы Office 365 (в том числе Kaizala, ObjectStore, Sway, служба документов PowerPoint Online, служба аннотации запросов, Синхронизация сведений о школе, Siphon, Speech, StaffHub, программа приложений eXtensible), Office Online, инфраструктура служб Office, OneDrive для бизнеса, Планировщик, PowerApps, Power BI, Project Online, шифрование службы с помощью ключа клиента, SharePoint Online, Skype для бизнеса |
 | **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, SharePoint Online, Skype для бизнеса |
