@@ -17,30 +17,18 @@ metadata:
   ms.date: 11/30/2020
 highlightedContent:
   items:
-    - title: Быстрые задачи для обеспечения соответствия требованиям в Microsoft 365
-      itemType: get-started
-      url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: Развертывание защиты информации в соответствии с требованиями к конфиденциальности данных
-      itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
-    - title: Узнайте о совместной ответственности в облаке
-      itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
     - title: Сведения о защите данных клиентов корпорацией Майкрософт
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
+    - title: Узнайте о совместной ответственности в облаке
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
     - title: Узнайте о Microsoft Compliance Manager
       itemType: learn
       url: /learn/paths/compmgmt/
-    - title: Управление внутренними рисками в Microsoft 365
-      itemType: learn
-      url: /learn/paths/m365-compliance-insider/
-    - title: Управление информацией и ее защитой
-      itemType: learn
-      url: /learn/paths/m365-compliance-information/
-    - title: Дополнительные Advanced eDiscovery и расширенный аудит
-      itemType: learn
-      url: /learn/paths/compliance-discover/
+    - title: Начало работы с руководствами Microsoft 365 решений по обеспечению соответствия требованиям
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
 productDirectory:
   title: Соответствие требованиям & отрасли
   summary: Руководство Корпорации Майкрософт по соблюдению отраслевых областей и международных стандартов & и нормативных актов.
