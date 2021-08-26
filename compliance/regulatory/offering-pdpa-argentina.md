@@ -2,7 +2,7 @@
 title: Закон о защите персональных данных (PDPA) Аргентины
 description: Облачные службы Майкрософт для бизнеса соответствуют стандартам PDPA для защиты конфиденциальности персональных данных.
 keywords: Microsoft 365, соответствие требованиям, предложения
-ms.localizationpriority: high
+localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9802fd35cbb93386a42462c6ddd94ddce422ec7e
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482654"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385649"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>Закон о защите персональных данных (PDPA) Аргентины
 
@@ -55,11 +55,11 @@ PDPA соответствует европейской модели законо
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Коммерческий сектор** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Интернета, MyAnalytics, Office 365 Cloud App Security, Группы Office 365, Office 365 Видео, Office Delve, OneDrive для бизнеса, Планировщик, Power Apps, Power BI для Office 365, PowerApps, Power Automate, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+| **Office 365** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Интернета, MyAnalytics, Office 365 Cloud App Security, Группы Office 365, Office 365 Видео, Office Delve, OneDrive для бизнеса, Планировщик, Power Apps, Power BI для Office 365, PowerApps, Power Automate, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 
 ## <a name="how-to-implement"></a>Методика реализации
 
