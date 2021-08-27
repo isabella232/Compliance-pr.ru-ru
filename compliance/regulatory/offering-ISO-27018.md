@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: af81575c0f33e0266efee32792eed85fd9f39cd3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 4398f120af9f051c0255b63e25c7534f15b03c0f
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58483004"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561367"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>ISO/IEC 27018 "Свод правил по защите персональных данных в облаке"
 
@@ -64,6 +64,7 @@ ms.locfileid: "58483004"
 - Power BI Embedded
 - Power Virtual Agents
 - Microsoft Defender для конечной точки: обнаружение и нейтрализация атак на конечные точки, автоматическое исследование и исправление, оценка безопасности
+- Windows 365
 
 ## <a name="azure-dynamics-365-and-iso-isoiec-27018"></a>Azure, Dynamics 365 и ISO ISO/IEC 27018
 
@@ -77,7 +78,7 @@ ms.locfileid: "58483004"
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

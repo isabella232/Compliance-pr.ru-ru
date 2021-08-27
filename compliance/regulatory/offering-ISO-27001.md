@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 501f5059b3c7700f39dddbc4273831e8a4bd2e2e
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 17f63068139d35f1fee74c2d6e299f9ea0acc4c3
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482964"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561347"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Стандарты управления информационной безопасностью ISO/IEC 27001:2013
 
@@ -62,6 +62,7 @@ ISO/IEC 27001 — это стандарт безопасности, которы
 - Microsoft Stream
 - Microsoft Threat эксперт
 - Microsoft Translator
+- Windows 365
 
 ## <a name="azure-dynamics-365-and-iso-27001"></a>Azure, Dynamics 365 и ISO 27001
 
@@ -75,7 +76,7 @@ ISO/IEC 27001 — это стандарт безопасности, которы
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
