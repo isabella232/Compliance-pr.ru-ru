@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35e6757d64dd0c2bffc1b1cbc62e23f524b8ac9
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: cb9d27f02ec53c98e2f00d3106f8e4be8798d78f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481741"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678588"
 ---
 # <a name="microsoft-security-incident-management"></a>Управление инцидентами безопасности Майкрософт
 
@@ -63,7 +63,7 @@ ms.locfileid: "58481741"
 - **Сдерживание, ликвидация,** восстановление. Ссылается на необходимые и соответствующие действия, принятые для сдерживания инцидента безопасности на основе анализа, проведенного на предыдущем этапе. Кроме того, на этом этапе может потребоваться дополнительный анализ для полного восстановления после инцидента с безопасностью.
 - **Действие после инцидента**. Ссылается на анализ посмертных данных, выполняемый после восстановления инцидента безопасности. Оперативные действия, выполняемые во время процесса, проверяются для определения необходимости внесения каких-либо изменений на этапах подготовки или обнаружения и анализа.
 
-![Этапы управления инцидентами безопасности](../media/assurance-sim-phases.png)
+![Этапы управления инцидентами безопасности.](../media/assurance-sim-phases.png)
 
 ## <a name="federated-security-response-model"></a>Federated security response model
 

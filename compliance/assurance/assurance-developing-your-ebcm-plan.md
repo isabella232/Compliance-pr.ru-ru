@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 71e84ad97c560cd90b8ba49a1c568dd70fd516f5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 6a44866d5c82ffa93e6c3c0d9c0ece3946651bd2
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482072"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676788"
 ---
 # <a name="developing-your-business-continuity-plan"></a>Разработка плана непрерывности бизнеса
 
@@ -83,7 +83,7 @@ ms.locfileid: "58482072"
 После того как вы описали бизнес-процессы и сопоставили их отношения с другими процессами и технологиями, необходимо создать сценарии проверки для всех процессов. В принципе, определите, как вы будете проверять свои планы непрерывности бизнес-процессов. Возможно, вы обнаружите, что некоторые из них важнее других, и вам нужно будет сделать их приоритетными.
 Не забывайте, что после утверждения плана важно проводить с сотрудниками регулярные тренинги по реагированию на инциденты и по мерам обеспечения непрерывности. Следует использовать обзоры последствий инцидента для улучшения ваших стратегий устойчивости, добавляя сведения после каждой проверки или теста.
 
-![проверка возможностей Visio](../media/capability-validation-visio.png)
+![visio проверки возможностей.](../media/capability-validation-visio.png)
 
 ## <a name="incident-coordination-and-communication"></a>Координация и коммуникации при инциденте
 

@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ed400fabf50cfcd7f02d9246bb4d552f62f26eef
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481781"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678608"
 ---
-# <a name="microsoft-365-risk-management-program"></a>Программа управления рисками Microsoft 365
+# <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Программа управления рисками
 
 Целью программы управления Microsoft 365 рисками является определение, оценка и управление рисками для Microsoft 365. Microsoft 365 приоритетом является обеспечение выполнения договорных обязательств и аккредитаций, повышение доверия клиентов и сохранение конкурентных преимуществ. Хотя программа Microsoft 365 управления рисками функционирует независимо, она согласуется с Enterprise политики, приоритеты и методологии программы управления рисками (ERM). Работа с программой ERM позволяет последовательно сравнивать бизнес-подразделения и инженерные группы, способствуя более согласованному подходу к управлению рисками на предприятии.
 
@@ -37,7 +37,7 @@ ms.locfileid: "58481781"
 
 Действия по управлению рисками подпадают под четыре этапа: идентификация, оценка, реагирование и мониторинг и отчетность.
 
-![Действия по управлению рисками](../media/assurance-risk-management-review-process.png)
+![Действия по управлению рисками.](../media/assurance-risk-management-review-process.png)
 
 ## <a name="identification"></a>Идентификация
 

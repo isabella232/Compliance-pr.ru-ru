@@ -20,18 +20,18 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9b152aedd872c43d58b248f846d5550117566442
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 82378b72d8dc17441a1ab92fc7ac222d7b9d4036
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481931"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678628"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>Управление изоляцией и доступом в Microsoft 365
 
 Azure Active Directory (Azure AD) и Microsoft 365 используют очень сложную модель данных, которая включает десятки служб, сотни сущностями, тысячи связей и десятки тысяч атрибутов. На высоком уровне Azure AD и каталоги служб являются контейнерами клиентов и получателей, которые синхронизируются с помощью протоколов репликации на основе состояния. Помимо сведений об каталогах, которые имеются в Azure AD, каждая из рабочих нагрузок служб имеет собственную инфраструктуру служб каталогов.
  
-![Microsoft 365 клиента синхронизация данных](../media/office-365-isolation-tenant-data-sync.png)
+![Microsoft 365 синхронизировать данные клиента.](../media/office-365-isolation-tenant-data-sync.png)
 
 В этой модели нет единого источника данных каталогов. Конкретные системы владеют отдельными частями данных, но ни одна система не содержит все данные. Microsoft 365 службы сотрудничают с Azure AD в этой модели данных. Azure AD — это "система правды" для общих данных, которая обычно является небольшими и статическими данными, используемыми каждой службой. Федерарная модель, используемая в Microsoft 365 Azure AD, предоставляет общее представление данных.
 

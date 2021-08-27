@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ba9d4c5f3e2781613ef3946e1089deff6e6266f7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b22c078715f2bbbf63ae5d6af8fb073aed1f1b48
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481691"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676798"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Управление инцидентами безопасности Майкрософт: обнаружение и анализ
 
@@ -36,7 +36,7 @@ ms.locfileid: "58481691"
 
 Механизмы обнаружения безопасности в онлайн-службах Microsoft также включают уведомления и оповещения, инициированные различными источниками. Группы реагирования на угрозы безопасности веб-служб Майкрософт являются ключевыми оркестраторами процесса эскалации инцидентов безопасности. Эти группы получают все эскалации и несут ответственность за анализ и подтверждение действительности инцидента безопасности.
 
-![Рабочий процесс управления инцидентами безопасности](../media/assurance-sim-workflow.png)
+![Рабочий процесс управления инцидентами безопасности.](../media/assurance-sim-workflow.png)
 
 Одним из основных столпов обнаружения является уведомление:
 
