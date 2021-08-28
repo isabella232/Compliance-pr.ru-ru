@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: e7434613707cec900506e85c5e61b6cd45c98d3c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 42320db7a7f792e12cb255900c172083794d8070
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482372"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678668"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Набор инструментов миграции с помощью FastTrack для отправки запросов на удаление
 
@@ -49,9 +49,9 @@ ms.locfileid: "58482372"
 
 Этот набор инструментов доступен в коллекции PowerShell в консольном приложении PowerShell. Чтобы найти и загрузить этот модуль командлета, сначала откройте PowerShell в режиме администратора, чтобы получить соответствующие разрешения для установки модуля. Если ранее вы не использовали PowerShell, в поле поиска на панели задач Windows введите PowerShell. Чтобы запустить Windows PowerShell, щелкните консольное приложение правой кнопкой мыши, выберите **Запуск от имени администратора** и нажмите кнопку **Да**.
 
-![PowerShell: запуск от имени администратора](../media/fasttrack-powershell_image.png)
+![PowerShell: запуск от имени администратора.](../media/fasttrack-powershell_image.png)
 
-![PowerShell: предоставление разрешения на внесение изменений приложению](../media/fasttrack-run-powershell_image.png)
+![PowerShell: предоставление разрешения на внесение изменений приложению.](../media/fasttrack-run-powershell_image.png)
 
 Теперь, когда вы открыли консоль, вам потребуется настроить разрешения для выполнения скрипта. Чтобы разрешить выполнение скрипта, введите следующую команду:
 
@@ -63,7 +63,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 ***Настройка политики выполнения***
 
-![Изменение политики выполнения в PowerShell](../media/powershell-set-execution-policy_image.png)
+![Изменение политики выполнения в PowerShell.](../media/powershell-set-execution-policy_image.png)
 
 Теперь, когда для консоли настроено разрешение на выполнение скрипта, установите необходимый модуль, выполнив следующую команду:
 

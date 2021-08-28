@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 40792e2ccb9f1ad9e987da7c9860301100005cff
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: f27986532de16c4a674f69148a662df20f1ac77f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482352"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678658"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>GDPR для сервера Office Web Apps и Office Online Server
 
@@ -28,7 +28,7 @@ ms.locfileid: "58482352"
 
 Каждая строка журнала содержит CorrelationID. Связанные строки журнала имеют одинаковое значение CorrelationID. Каждое значение CorrelationID привязано к одному значению SessionID, а одно значение SessionID может быть связано с несколькими значениями CorrelationID. Каждое значение SessionID может быть связано с одним UserID, но некоторые сеансы могут быть анонимными (с ними не связано значение UserID). Чтобы определить, какие данные связаны с определенным пользователем, можно сопоставить одно значение UserID со значениями SessionID, связанными с этим пользователем, эти значения SessionID — с соответствующими значениями CorrelationID, а эти значения CorrelationID — со всеми журналами для этих сопоставлений. На приведенной ниже схеме показаны отношения между разными идентификаторами.
 
-![Блок-схема, показывающая связь между значениями SessionID и CorrelationId](../media/gdpr-for-office-online-server-image1.jpg)
+![Блок-схема, показывающая связь между значениями SessionID и CorrelationId.](../media/gdpr-for-office-online-server-image1.jpg)
 
 ## <a name="gathering-logs"></a>Сбор журналов
 
