@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 86e3c24be220da0cf29f66fc87d4642fa5270303
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8bb9f380d57e932576c969f10512f508de7c6ada
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482744"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707138"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Правило 1.31 (c-d) США
 
@@ -39,7 +39,7 @@ ms.locfileid: "58482744"
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
-Чтобы оценить соответствие Azure правилу CFTC 1.31 (c-d), Корпорация Майкрософт сохранила независимую фирму по оценке, которая специализируется на управлении записями и управлении информацией, Cohasset Associates. В итоговом отчете [cfTC 1.31 (c)-(d)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)Оценка соответствия требованиям: служба хранилища Microsoft Azure, Cohasset подтвердила, что [azure Immutable Blob служба хранилища](/azure/storage/blobs/storage-blob-immutable-storage) с параметром Блокировка политики, когда используется для сохранения на основе времени Blob в неизменяемом и неописуемом (WORM) формате, соответствует требованиям правила CFTC на основе принципов. Каждый Blob (запись) защищен от изменения, перезаписи или удаления, пока не истечет необходимый период хранения и не будут выпущены все связанные юридические удержания. Поставщики программного обеспечения и партнеры с конфиденциальными рабочими нагрузками теперь могут использовать Azure Immutable Blob служба хранилища в качестве облачного решения для хранения записей в одном цехе. Финансовые учреждения теперь могут создавать собственные приложения, пользуясь этими функциями, оставаясь совместимыми.
+Чтобы оценить соответствие Azure правилу CFTC 1.31 (c-d), Корпорация Майкрософт сохранила независимую фирму по оценке, которая специализируется на управлении записями и управлении информацией, Cohasset Associates. В итоговом отчете [CFTC 1.31 (c) (d)](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)Оценка соответствия требованиям: служба хранилища Microsoft Azure, Cohasset подтвердила, что параметр [Azure Immutable Blob служба хранилища](/azure/storage/blobs/storage-blob-immutable-storage) с параметром Блокировка политики, когда используется для сохранения Blob-данных на основе времени в неизменяемом и неописуемом формате (WORM), соответствует требованиям правила CFTC на основе принципов. Каждый Blob (запись) защищен от изменения, перезаписи или удаления, пока не истечет необходимый период хранения и не будут выпущены все связанные юридические удержания. Поставщики программного обеспечения и партнеры с конфиденциальными рабочими нагрузками теперь могут использовать Azure Immutable Blob служба хранилища в качестве облачного решения для хранения записей в одном цехе. Финансовые учреждения теперь могут создавать собственные приложения, пользуясь этими функциями, оставаясь совместимыми.
 
 ### <a name="microsoft-365"></a>Microsoft 365
 

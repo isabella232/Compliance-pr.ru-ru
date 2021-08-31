@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 6785c459f8350714b8e4636a0f1a5dc9f4ff667d
+ms.sourcegitcommit: 9bb0e86b2fd4121a3a79a23dde95aa2584ce3167
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480491"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744265"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Сведения о безопасности и конфиденциальности правительства Новой Зеландии (ISPC)
 
@@ -53,7 +53,7 @@ ms.locfileid: "58480491"
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
@@ -83,6 +83,7 @@ ms.locfileid: "58480491"
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Ответы Корпорации Майкрософт на IPSC облачных вычислений
 
 - [Azure](https://aka.ms/Azure-NZ-response)
+- [Dynamics 365](https://www.microsoft.com/download/details.aspx?id=103390)
 - [Intune](https://aka.ms/Intune-NZ-response)
 - [Office 365](https://aka.ms/O365-NZ-Response)
 - [Power BI](https://download.microsoft.com/download/5/1/7/51726B9B-2E76-49C4-9D4F-A36BF025CB93/Response-to-GCIO-105-questions-Power-BI.pdf)

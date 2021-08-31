@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479771"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707148"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>Правило 4511 (c) США
 
@@ -41,7 +41,7 @@ Microsoft Azure Неизменяемые Blob служба хранилища с
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
-Чтобы оценить соответствие Azure правилу FINRA 4511(c), Корпорация Майкрософт сохранила независимую фирму по оценке, которая специализируется на управлении записями и управлении информацией, Cohasset Associates. В итоговом отчете [SEC 17a-4(f) & CFTC 1.31 (c-d)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)Оценка соответствия требованиям: служба хранилища Microsoft Azure, включает соответствие Azure правилу FINRA 4511(c), которое относя к формату и требованиям к средствам массовой информации правила SEC 17a-4(f).
+Чтобы оценить соответствие Azure правилу FINRA 4511(c), Корпорация Майкрософт сохранила независимую фирму по оценке, которая специализируется на управлении записями и управлении информацией, Cohasset Associates. В итоговом отчете [SEC 17a-4(f) & CFTC 1.31 (c-d)](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)Оценка соответствия требованиям: служба хранилища Microsoft Azure, включает соответствие Azure правилу FINRA 4511(c), которое относя к формату и требованиям к средствам массовой информации правила SEC 17a-4(f).
 
 Cohasset подтвердила, что [azure Immutable Blob служба хранилища](/azure/storage/blobs/storage-blob-immutable-storage) с параметром Блокировка политики, когда используется для сохранения временного Blobs в формате, не стираемом и не перезаписываемом (WORM), соответствует соответствующим требованиям хранения FINRA. Каждый Blob (запись) защищен от изменения, перезаписи или удаления, пока не истечет необходимый период хранения и не будут выпущены все связанные юридические удержания.
 
