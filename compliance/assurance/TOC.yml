@@ -30,6 +30,8 @@
       href: assurance-datacenter-security.md
     - name: Центр обработки данных TVRA
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: 'Уничтожение устройств, содержащих данные'
+      href: assurance-data-bearing-device-destruction.md
     - name: Безопасность цепочки поставок
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Шифрование и управление ключами
@@ -126,8 +128,6 @@
       href: assurance-exchange-online-data-deletion.md
     - name: Удаление данных в SharePoint Online
       href: assurance-sharepoint-online-data-deletion.md
-    - name: Уничтожение данных в Microsoft 365
-      href: assurance-data-destruction.md
     - name: Неизменность данных в Microsoft 365
       href: assurance-data-immutability.md
     - name: Расположение данных в Microsoft 365
