@@ -20,11 +20,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: b22c078715f2bbbf63ae5d6af8fb073aed1f1b48
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676798"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947369"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Управление инцидентами безопасности Майкрософт: обнаружение и анализ
 
@@ -85,7 +85,7 @@ ms.locfileid: "58676798"
 
 На следующем этапе группа реагирования на безопасность определяет клиента(ы), пострадавшего от инцидента с безопасностью, если таковые есть. Область действия может занять некоторое время, чтобы определить в зависимости от региона, центра обработки данных, службы, фермы серверов, сервера и так далее. Список пострадавших клиентов составляется командой служб и соответствующей командой коммуникаций Майкрософт, которые обрабатывают процесс уведомления клиентов в рамках договорных обязательств и соответствия требованиям.
 
-## <a name="related-articles"></a>Статьи по теме
+## <a name="related-articles"></a>Связанные статьи
 
 - [Управление инцидентами безопасности Майкрософт](assurance-security-incident-management.md)
 - [Управление инцидентами безопасности Майкрософт: подготовка](assurance-sim-preparation.md)

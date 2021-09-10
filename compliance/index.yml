@@ -37,7 +37,7 @@ productDirectory:
       imageSrc: /office/media/icons/compliance-blue.svg
       summary: Рекомендации по защите прав и выполнению обязательств по GDPR при использовании продуктов и служб Майкрософт.
       url: /compliance/regulatory/gdpr
-    - title: Предложения Майкрософт для соответствия требованиям
+    - title: Предложения Майкрософт по обеспечению соответствия требованиям
       imageSrc: /office/media/icons/globe-internet.svg
       summary: 'Корпорация Майкрософт предлагает полный набор предложений по обеспечению соответствия требованиям, которые помогут вашей организации выполнять национальные, региональные и отраслевые требования, регулирующие сбор и использование данных.'
       url: /compliance/regulatory/offering-home
@@ -182,7 +182,7 @@ additionalContent:
         - title: Microsoft Azure
           summary: 'Соответствие требованиям Azure предоставляет вам предложения, чертежи, руководства по обеспечению соответствия требованиям и ресурсы, которые помогут вам выполнить свои обязательства по соблюдению.'
           url: /azure/compliance/
-        - title: Dynamics 365
+        - title: "Dynamics\_365"
           summary: 'Business Central содержит функциональные возможности и создается на платформе, которая упрощает соблюдение клиентами законодательства о соответствии требованиям и нормативным требованиям.'
           url: /dynamics365/business-central/compliance/compliance-overview
         - title: Microsoft 365

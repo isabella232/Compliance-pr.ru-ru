@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: b3690ba79ba8adca1d01e4eda03831c431747d01
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481081"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948408"
 ---
 # <a name="system-and-organization-controls-soc-3"></a>Системный и организационный контроль (SOC) 3
 
@@ -69,7 +69,7 @@ ms.locfileid: "58481081"
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

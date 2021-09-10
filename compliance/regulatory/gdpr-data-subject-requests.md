@@ -19,11 +19,11 @@ description: Узнайте, как выполнять запросы DSR в р�
 ms.custom: seo-marvel-mar2020
 hideEdit: true
 ms.openlocfilehash: b5ef9464a686a5f2c8823f196408fd71026fa52d
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479841"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948178"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Запросы субъектов данных, GDPR и CCPA
 

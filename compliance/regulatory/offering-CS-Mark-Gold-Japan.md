@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 3972a5d470db8f0a75e7717e671be5a268308d5b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482492"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948238"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>Золотой знак безопасности в облаке Cloud Security Mark Gold (CS Gold Mark)
 
@@ -55,7 +55,7 @@ JASA разработала Авторизованную систему ауди
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

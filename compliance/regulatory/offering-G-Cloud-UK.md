@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481051"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948292"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Великобритания Government-Cloud (G-Cloud)
 
@@ -60,7 +60,7 @@ Government Cloud (G-Cloud) — это правительственная ини�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
@@ -76,7 +76,7 @@ Government Cloud (G-Cloud) — это правительственная ини�
 - [Облачный риск Azure UK G](https://go.microsoft.com/fwlink/?linkid=2099497)
 - [Сводка облачной оценки облачной безопасности Intune UK G](https://go.microsoft.com/fwlink/?linkid=2099703)
 
-### <a name="dynamics-365"></a>Dynamics 365
+### <a name="dynamics-365"></a>Dynamics 365
 
 - [Среда облачного риска Dynamics 365 UK G](https://go.microsoft.com/fwlink/?linkid=2099702)
 

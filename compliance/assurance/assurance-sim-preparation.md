@@ -20,11 +20,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: ca194511e000a7d98ddd89ae9ef85a1ee1ee01bd
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481671"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947361"
 ---
 # <a name="microsoft-security-incident-management-preparation"></a>Управление инцидентами безопасности Майкрософт: подготовка
 
@@ -90,7 +90,7 @@ ms.locfileid: "58481671"
 
 Иногда команды Microsoft Blue и Red будут проводить совместные операции, в которых связь во время операции является более партнерской, чем состязательной, с выбранным набором сотрудников из каждой группы. Эти упражнения хорошо согласованы между группами для получения более целевого набора результатов с помощью совместной работы этических хакеров и ответчиков в режиме реального времени. Эти упражнения "фиолетовой команды" очень адаптированы для каждой операции, чтобы максимально использовать эту возможность, но для каждой операции важное значение имеет обмен информацией с высокой пропускной способностью и партнерство для достижения поставленных целей.
 
-## <a name="related-articles"></a>Статьи по теме
+## <a name="related-articles"></a>Связанные статьи
 
 - [Управление инцидентами безопасности Майкрософт](assurance-security-incident-management.md)
 - [Управление инцидентами безопасности Майкрософт: обнаружение и анализ](assurance-sim-detection-analysis.md)

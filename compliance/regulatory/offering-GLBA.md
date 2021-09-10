@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: b7b1e3ea3600023c2ec95d4db7f318d70183b197
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482684"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948299"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Акт Грэмма-Лича-Блайли (Акт о модернизации финансовой системы 1999 г.)
 
@@ -60,7 +60,7 @@ Microsoft Azure, Microsoft Office 365, Dynamics 365 и Microsoft Power BI мож
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

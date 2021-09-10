@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 6ff20d9ac81562353a5971386d0d498b44edfd3b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479741"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948223"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Самостоятельная оценка Cloud Security Alliance (CSA) STAR
 
@@ -62,7 +62,7 @@ STAR обеспечивает три уровня гарантий. Самост
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

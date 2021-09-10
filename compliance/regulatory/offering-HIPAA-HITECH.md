@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482472"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948344"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Закон о переносе и подотчетности медицинского страхования (HIPAA) & информационных технологий здравоохранения для экономического и клинического здоровья (HITECH)
 
@@ -75,7 +75,7 @@ HIPAA применяется к охваченным объектам (в час
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

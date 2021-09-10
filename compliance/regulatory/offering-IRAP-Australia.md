@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58483014"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948328"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Австралийская программа оценки безопасности, зарегистрированная в сфере информационной безопасности (IRAP)
 
@@ -77,7 +77,7 @@ ms.locfileid: "58483014"
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

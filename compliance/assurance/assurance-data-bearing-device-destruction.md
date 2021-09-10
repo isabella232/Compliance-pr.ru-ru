@@ -1,5 +1,5 @@
 ---
-title: Уничтожение устройств, несущих данные
+title: Уничтожение устройств, содержащих данные
 description: В этой статье вы найдете обзор процесса уничтожения устройств с несущими данными для центра обработки данных Майкрософт.
 ms.author: robmazz
 author: robmazz
@@ -21,13 +21,13 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6a26334b805be069298302d3ad1e8e5b9e728150
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862407"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947201"
 ---
-# <a name="data-bearing-device-destruction"></a>Уничтожение устройств, несущих данные
+# <a name="data-bearing-device-destruction"></a>Уничтожение устройств, содержащих данные
 
 ## <a name="data-destruction-overview"></a>Обзор уничтожения данных
 

@@ -2,7 +2,7 @@
 title: Закон о защите персональных данных (PDPA) Аргентины
 description: Облачные службы Майкрософт для бизнеса соответствуют стандартам PDPA для защиты конфиденциальности персональных данных.
 keywords: Microsoft 365, соответствие требованиям, предложения
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9802fd35cbb93386a42462c6ddd94ddce422ec7e
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385649"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948384"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>Закон о защите персональных данных (PDPA) Аргентины
 
@@ -59,7 +59,7 @@ PDPA соответствует европейской модели законо
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Интернета, MyAnalytics, Office 365 Cloud App Security, Группы Office 365, Office 365 Видео, Office Delve, OneDrive для бизнеса, Планировщик, Power Apps, Power BI для Office 365, PowerApps, Power Automate, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+| **Коммерческий сектор** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Интернета, MyAnalytics, Office 365 Cloud App Security, Группы Office 365, Office 365 Видео, Office Delve, OneDrive для бизнеса, Планировщик, Power Apps, Power BI для Office 365, PowerApps, Power Automate, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 
 ## <a name="how-to-implement"></a>Методика реализации
 

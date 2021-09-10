@@ -20,11 +20,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 0c99c28ee6a291acbcfe913a87aa107d3be5c75a
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676808"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947345"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Управление инцидентами безопасности Майкрософт: сдерживание, ликвидация и восстановление
 
@@ -57,7 +57,7 @@ ms.locfileid: "58676808"
 
 Уведомление будет включать подробные сведения об инциденте, такие как описание инцидента, влияние на данные клиента, если таковой имеется, действия, предпринятые Корпорацией Майкрософт, и/или предлагаемые действия, которые необходимо принять для решения проблемы и предотвращения повторения. Уведомление будет доставлено назначенного администратора (ы) клиента онлайн-служб Майкрософт. Чтобы обеспечить получения уведомлений, необходимо убедиться, что администраторы предоставляют и поддерживают точную контактную информацию в профилях клиентов. Кроме того, в зависимости от характера инцидента клиенты Microsoft 365 также могут быть уведомлены с помощью панели мониторинга [Microsoft 365 службы.](http://status.yammer.com/)
 
-## <a name="related-articles"></a>Статьи по теме
+## <a name="related-articles"></a>Связанные статьи
 
 - [Управление инцидентами безопасности Майкрософт](assurance-security-incident-management.md)
 - [Управление инцидентами безопасности Майкрософт: подготовка](assurance-sim-preparation.md)

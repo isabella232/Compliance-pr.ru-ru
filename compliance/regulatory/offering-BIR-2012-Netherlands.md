@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: d0f7bd0db5d71c91a163e05e582ad8c227a8aa22
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482754"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948172"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Стандарт Baseline Informatiebeveiliging Rijksdienst (BIR 2012)
 
@@ -51,7 +51,7 @@ ms.locfileid: "58482754"
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

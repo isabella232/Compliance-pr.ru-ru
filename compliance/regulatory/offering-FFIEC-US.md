@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505902"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948286"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Федеральный совет по рассмотрению финансовых учреждений (FFIEC)
 
@@ -66,7 +66,7 @@ Microsoft Azure, microsoft Power BI и Microsoft Office 365 для удовле�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
@@ -97,7 +97,7 @@ Microsoft Azure, microsoft Power BI и Microsoft Office 365 для удовле�
 ## <a name="other-microsoft-resources-for-financial-services"></a>Другие ресурсы Майкрософт для финансовых услуг
 
 - [Документация Azure по соответствию требованиям](/azure/compliance/)
-- [Azure позволяет обеспечить соответствие требованиям](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Обеспечение соответствия требованиям Azure](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [Ресурсы финансовых служб Microsoft Cloud](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Программа соответствия требованиям к финансовым службам Microsoft Cloud](https://aka.ms/FSCP-Print)
 - [Руководство по оценке рисков и соответствия требованиям для финансовых учреждений в Microsoft Cloud](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)

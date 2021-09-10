@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: e57b10527b5eb1bd1baefebb36c9a8f37a97f59e
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505912"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948271"
 ---
 # <a name="european-union-model-clauses"></a>Типовые условия ЕС
 
@@ -57,7 +57,7 @@ ms.locfileid: "58505912"
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|

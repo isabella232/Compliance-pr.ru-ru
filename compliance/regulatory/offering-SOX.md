@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505892"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948435"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Акт Сарбейнс-Оксли от 2002 г. (SOX)
 
@@ -70,7 +70,7 @@ SEC не определяет и не навязывает процесс сер
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Применимость Office 365 и затрагиваемые службы
 
-Чтобы определить применимость служб и подписки Office 365, используйте следующую таблицу.
+Чтобы определить применимость изменений к вашим службам и подписке Office 365, воспользуйтесь следующей таблицей.
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
@@ -93,8 +93,8 @@ SEC не определяет и не навязывает процесс сер
 ### <a name="resources"></a>Ресурсы
 
 - [Документация Azure по соответствию требованиям](/azure/compliance/)
-- [Azure позволяет обеспечить соответствие требованиям](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
-- [Microsoft 365 соответствия требованиям](/compliance/regulatory/offering-home)
+- [Обеспечение соответствия требованиям Azure](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Предложения Microsoft 365 для соответствия требованиям](/compliance/regulatory/offering-home)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [Закон Сарбейнса-Оксли от 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763) г. (SOX)
 - [Комиссия по ценным бумагам и Exchange](https://www.sec.gov/) (SEC)

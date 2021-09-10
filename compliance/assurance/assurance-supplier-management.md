@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 3b0a4c7f12eba49c252f71e47eda1685fd4d41a4
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481661"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947440"
 ---
 # <a name="supplier-management-overview"></a>Обзор управления поставщиками
 

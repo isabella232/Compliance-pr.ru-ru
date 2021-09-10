@@ -20,11 +20,11 @@ f1.keywords:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: c851b235a70104720457d08c51529ee7b25c65e4
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862359"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947268"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>Хранение, удаление и уничтожение данных в Microsoft 365
 
@@ -57,7 +57,7 @@ ms.locfileid: "58862359"
 
 ## <a name="related-links"></a>Дополнительные ссылки
 
-- [Уничтожение устройств, несущих данные](assurance-data-bearing-device-destruction.md)
+- [Уничтожение устройств, содержащих данные](assurance-data-bearing-device-destruction.md)
 - [Неизменность данных в Office 365](assurance-data-immutability.md)
 - [Удаление данных в Exchange Online](assurance-exchange-online-data-deletion.md)
 - [Удаление данных в SharePoint Online](assurance-sharepoint-online-data-deletion.md)

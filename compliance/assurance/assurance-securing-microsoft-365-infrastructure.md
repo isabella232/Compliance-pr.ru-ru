@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6c20c62feb1ff3ab23eeb97d5ad11abb5ad85a07
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481761"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947380"
 ---
 # <a name="securing-the-microsoft-365-infrastructure"></a>Защита инфраструктуры Microsoft 365
 
@@ -67,7 +67,7 @@ Microsoft 365 является одной из крупнейших корпор
 
 Дополнительные сведения о шифровании в Microsoft 365 см. в [обзоре шифрования и управления ключами.](assurance-encryption.md)
 
-### <a name="network-isolation"></a>Изоляция сети
+### <a name="network-isolation"></a>Путем изоляции сети
 
 В соответствии с принципом наименьших привилегий, Microsoft 365 ограничивает связь между различными частями инфраструктуры службы только тем, что необходимо для работы. Весь сетевой трафик по умолчанию отказано, и разрешено только явно определенное сообщение. Это ограничение устанавливает границы нарушений по всей инфраструктуре. Teams, которые хотели бы добавить новые сетевые пути для размещения новой функции в свою службу, должны получить оценку и одобрение запроса перед его открытием.
 

@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 8bb9f380d57e932576c969f10512f508de7c6ada
-ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58707138"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948217"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>Правило 1.31 (c-d) США
 
