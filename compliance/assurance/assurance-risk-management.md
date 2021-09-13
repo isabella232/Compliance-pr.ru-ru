@@ -24,8 +24,8 @@ ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947405"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160819"
 ---
 # <a name="risk-management-overview"></a>Обзор управления рисками
 

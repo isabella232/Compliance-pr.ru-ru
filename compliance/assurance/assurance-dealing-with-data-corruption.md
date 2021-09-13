@@ -24,8 +24,8 @@ ms.openlocfilehash: 860a150760e080df4a577d73478a75ac94b8700b
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947249"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160296"
 ---
 # <a name="dealing-with-data-corruption-in-microsoft-365"></a>Борьба с коррупцией данных в Microsoft 365
 

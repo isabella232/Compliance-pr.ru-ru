@@ -20,8 +20,8 @@ ms.openlocfilehash: bfee0aeacfae897ec7618c0fcef369992a7f22f2
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948163"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161216"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Управление по финансовым рынкам Нидерландов и Центральный банк Нидерландов
 

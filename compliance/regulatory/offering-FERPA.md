@@ -20,8 +20,8 @@ ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948277"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161091"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Закон о семейных образовательных правах и конфиденциальности (FERPA)
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948292"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161011"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Великобритания Government-Cloud (G-Cloud)
 
@@ -76,7 +76,7 @@ Government Cloud (G-Cloud) — это правительственная ини�
 - [Облачный риск Azure UK G](https://go.microsoft.com/fwlink/?linkid=2099497)
 - [Сводка облачной оценки облачной безопасности Intune UK G](https://go.microsoft.com/fwlink/?linkid=2099703)
 
-### <a name="dynamics-365"></a>Dynamics 365
+### <a name="dynamics-365"></a>Dynamics 365
 
 - [Среда облачного риска Dynamics 365 UK G](https://go.microsoft.com/fwlink/?linkid=2099702)
 

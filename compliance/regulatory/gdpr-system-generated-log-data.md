@@ -21,8 +21,8 @@ ms.openlocfilehash: f634224f02726f0e0ee49c268bf4a77027481c2f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948512"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160147"
 ---
 # <a name="additional-steps-to-export-system-generated-log-data"></a>Дополнительные действия по экспорту данных системных журналов
 

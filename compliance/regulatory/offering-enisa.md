@@ -20,8 +20,8 @@ ms.openlocfilehash: 91735f08e93777a7ffa1a9c86d3a4776cc8cf1a0
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948259"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160096"
 ---
 # <a name="enisa-information-assurance-framework"></a>Платформа информационных гарантий ENISA
 

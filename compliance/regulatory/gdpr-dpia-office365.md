@@ -21,8 +21,8 @@ ms.openlocfilehash: 9b7a88bd84ccd39d0d4cd9572a250ba4a8a0a773
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948451"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160675"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-office-365"></a>Оценка влияния на защиту данных: руководство для управляющих данными, использующих Microsoft Office 365 
 

@@ -24,8 +24,8 @@ ms.openlocfilehash: 312de9f1417ba6298898d47b2b7e05b5fa7034fe
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947324"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160251"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Элементы управления изоляцией в Microsoft 365
 

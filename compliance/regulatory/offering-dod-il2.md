@@ -20,8 +20,8 @@ ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948232"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160579"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>Уровень воздействия Министерства обороны (DoD) 2 (IL2)
 
@@ -38,7 +38,7 @@ DISA направляет агентства и отделы Министерс�
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
 - Azure
-- Dynamics 365
+- Dynamics 365
 - Microsoft Cloud App Security
 - Microsoft Defender для конечной точки
 - Microsoft Graph

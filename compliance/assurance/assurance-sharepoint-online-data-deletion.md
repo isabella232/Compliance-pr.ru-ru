@@ -25,8 +25,8 @@ ms.openlocfilehash: 3545a6e5746553e59603fbf68432ee4705a21f3f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947281"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160771"
 ---
 # <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>SharePoint Удаление данных в интернете в Microsoft 365
 

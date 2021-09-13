@@ -20,8 +20,8 @@ ms.openlocfilehash: 093ec578cd83dc6c52485101d232d9ccff88489e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948400"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160531"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>Требования к локализации персональных данных в России
 
@@ -64,7 +64,7 @@ ms.locfileid: "58948400"
 - **Локальный вызов:** 499 922 8623
 - **Поддержка в** Интернете. Отправка запросов через [Центр администрирования](https://portal.office.com/)
 
-### <a name="dynamics-365"></a>Dynamics 365
+### <a name="dynamics-365"></a>Dynamics 365
 
 - **Бесплатный** номер: 8 10 800 2548 1044
 - **Локальный вызов:** 499 922 8623

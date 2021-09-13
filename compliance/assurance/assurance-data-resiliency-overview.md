@@ -24,8 +24,8 @@ ms.openlocfilehash: 48fe50347e7e81c7e5f8552299c04a268b8b449c
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947257"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160323"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>Устойчивость к данным в Microsoft 365
 
@@ -54,7 +54,7 @@ ms.locfileid: "58947257"
 
 Благодаря построению наших облачных служб к этим принципам, в сочетании с надежным тестированием и проверкой, Microsoft 365 может соответствовать требованиям клиентов и превышать их, обеспечивая при этом платформу для непрерывных инноваций и совершенствования.
 
-## <a name="related-articles"></a>Связанные статьи
+## <a name="related-articles"></a>Статьи по теме
 
 - [Меры в отношении повреждения данных](assurance-dealing-with-data-corruption.md)
 - [Защита от вредоносных программ и программ-шантажистов](assurance-malware-and-ransomware-protection.md)

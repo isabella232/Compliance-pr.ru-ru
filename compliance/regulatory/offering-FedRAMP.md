@@ -20,8 +20,8 @@ ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948220"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161075"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>требованиям Федеральной программы управления рисками и авторизацией (FedRAMP);
 

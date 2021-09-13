@@ -21,8 +21,8 @@ ms.openlocfilehash: bb21ec78b048562211f977d365dacdfb83aacb55
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948424"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160683"
 ---
 # <a name="microsoft-support-and-professional-services-and-breach-notification-under-the-gdpr"></a>Служба поддержки и профессионального обслуживания Майкрософт и уведомление о нарушении безопасности согласно требованиям GDPR
 

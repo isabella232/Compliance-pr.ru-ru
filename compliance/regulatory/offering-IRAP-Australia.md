@@ -20,8 +20,8 @@ ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948328"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160483"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Австралийская программа оценки безопасности, зарегистрированная в сфере информационной безопасности (IRAP)
 
