@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 09c18fce6544984a7e9d639e68d0f0201c584768
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 63303389fc8fae69b9a6803a513efeb1281f781e
+ms.sourcegitcommit: 4afc3ca7f8c18ae7136b4c82c572531947e82daa
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161152"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59349963"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Стандарт безопасности данных в сфере платежных карт (PCI-DSS)
 
@@ -68,11 +68,11 @@ ms.locfileid: "59161152"
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Коммерческий сектор** | OneDrive для бизнеса (США), SharePoint Online |
+| **Коммерческий сектор** | OneDrive для бизнеса (США), SharePoint Online (США) |
 
 ### <a name="office-365-audit-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 
-- [OneDrive для бизнеса и SharePoint Online, Аттестация соответствия (AoC) требованиям PCI DSS](https://aka.ms/spo-pci)
+- [OneDrive для бизнеса и SharePoint Online, Аттестация соответствия (AoC) требованиям PCI DSS](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=f1962237-32ea-4123-939e-1c8f04d13c16&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_PCI_DSS)
 
 ### <a name="frequently-asked-questions"></a>Вопросы и ответы
 
