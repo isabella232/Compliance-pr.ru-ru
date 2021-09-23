@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b7b1e3ea3600023c2ec95d4db7f318d70183b197
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 2c8449fa9dc9d882c28d7d01a54b664090365891
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161251"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486336"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Акт Грэмма-Лича-Блайли (Акт о модернизации финансовой системы 1999 г.)
 
@@ -64,8 +64,8 @@ Microsoft Azure, Microsoft Office 365, Dynamics 365 и Microsoft Power BI мож
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Коммерческий сектор** | Azure Active Directory, Azure Information Protection, Bookings, диспетчер соответствия требованиям, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender для Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, надстройка Office 365 Advanced Compliance, Office 365 Cloud App Security, группы Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
-| **GCC** | Azure Active Directory, Диспетчер соответствия требованиям, Delve, Exchange Online, Формы, Microsoft Defender для Office 365 Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Plus, OneDrive для бизнеса, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
+| **Коммерческий сектор** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Web, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 Cloud App Security, Office 365 Группы, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Plus, OneDrive для бизнеса, planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+| **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365 Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance надстройка, центр Office 365 безопасности &, Office Online, Office Pro Plus, OneDrive для бизнеса, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 
 ### <a name="frequently-asked-questions"></a>Вопросы и ответы
 

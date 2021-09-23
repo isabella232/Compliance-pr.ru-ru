@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: aa85357047d3f92b694023b102fa7141eb26344d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161136"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486446"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Акт Сарбейнс-Оксли от 2002 г. (SOX)
 
@@ -74,7 +74,7 @@ SEC не определяет и не навязывает процесс сер
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Коммерческий сектор** | Цикл расширения, текст автоматического альта, защита информации Azure, службы двоичного преобразования, бронирование, Delve, элемент документа, редактор, Exchange Online, формы, вставка online media, Аналитика, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive для бизнеса, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, To-Do, web rendering service, Yammer корпоративный  |
+| **Коммерческий сектор** | Цикл расширения, текст автоматического альта, защита от лазурной информации, службы двоичного преобразования, бронирования, Delve, элемент документа, редактор, Exchange Online, формы, вставка Online Media, Аналитика, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 groups, OneDrive для бизнеса, planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Конструктор, PowerPoint служба документов, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, To-Do, служба веб-визуализации, Yammer корпоративный  |
 
 ### <a name="audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты
 

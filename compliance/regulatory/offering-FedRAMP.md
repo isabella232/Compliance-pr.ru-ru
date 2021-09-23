@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 36e3ddb58a61bc3a0a14a300e15f22262027fc92
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161075"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486346"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>требованиям Федеральной программы управления рисками и авторизацией (FedRAMP);
 
@@ -75,9 +75,9 @@ CSPs, желающие продавать услуги федеральному 
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **GCC** | Служба каналов активности, Bing services, Delve, Exchange Online, Exchange Online Protection, infrastructure, Intelligent Services, Microsoft Teams, Office 365 клиентский портал, Office Online, Office Service, Office Отчеты об использовании, OneDrive для бизнеса, карточки людей, SharePoint Online, Skype для бизнеса, Windows Ink |
-| **GCC High** | Служба каналов активности, Bing Services, Exchange Online, Exchange Online Protection, Intelligent Services, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service Infrastructure, Office Use Reports, OneDrive для бизнеса, People Card, SharePoint Online, Skype для бизнеса, Windows Ink |
-| **DoD** | Служба каналов активности, Bing службы, Exchange Online Protection, Exchange Online, интеллектуальные службы, Microsoft Teams, Office 365 клиентский портал, Office Online, инфраструктура Office, Office Отчеты об использовании, OneDrive для бизнеса, карточки людей, SharePoint Online, Skype для бизнеса, Windows Ink |
+| **GCC** | Служба каналов активности, Bing, bookings, Delve, Exchange Online, Exchange Online Protection, Infrastructure, Intelligent Services, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service, Office отчеты об использовании, OneDrive для бизнеса, карточки людей, SharePoint Online, Skype для бизнеса, Windows Ink |
+| **GCC High** | Служба каналов активности, Bing, бронирований, Exchange Online, Exchange Online Protection, интеллектуальных служб, Microsoft Teams, Office 365 клиентского портала, Office Online, Office Service Инфраструктура, Office отчеты об использовании, OneDrive для бизнеса, карточки людей, SharePoint Online, Skype для бизнеса, Windows Ink |
+| **DoD** | Служба каналов активности, Bing, бронирования, Exchange Online Protection, Exchange Online, интеллектуальные службы, Microsoft Teams, Office 365 клиентский портал, Office Online, Office Service Инфраструктура, Office отчеты об использовании, OneDrive для бизнеса, карточки людей, SharePoint Online, Skype для бизнеса, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 

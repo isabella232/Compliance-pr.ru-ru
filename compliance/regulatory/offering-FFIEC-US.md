@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 79d0f7bfff27f28b65d8f29c71f472024fbcd07e
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161248"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486356"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Федеральный совет по рассмотрению финансовых учреждений (FFIEC)
 
@@ -70,7 +70,7 @@ Microsoft Azure, microsoft Power BI и Microsoft Office 365 для удовле�
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Коммерческий сектор** | Azure Active Directory, Azure Information Protection, Bookings, диспетчер соответствия требованиям, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender для Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для браузеров, MyAnalytics, надстройка Office 365 Advanced Compliance, Office 365 Cloud App Security, группы Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
+| **Коммерческий сектор** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do для Web, MyAnalytics, Office 365 Advanced Compliance надстройки, Office 365 Cloud App Security, Office 365 Группы, Office 365 Центр обеспечения безопасности &, Office Online, Office Pro Plus, OneDrive для бизнеса, planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, StaffHub, Stream, Sway, Yammer корпоративный |
 | **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
