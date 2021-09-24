@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e91675de1f8f974b643b46a5367d9d3754d32e96
+ms.sourcegitcommit: 3fac638ed9a54411d113dd2db1c942b77657b96d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160616"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59501324"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>Международный трафик в правилах вооружений (ITAR)
 
@@ -43,7 +43,9 @@ Microsoft Azure Правительство и Microsoft Office 365 для обо
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Затрагиваемые облачные платформы и службы Майкрософт
 
+- Azure
 - Azure Government
+- Правительственный секрет Azure
 - Office 365 Правительство США — высокая, Office 365 обороны
 
 ## <a name="azure-dynamics-365-and-itar"></a>Azure, Dynamics 365 и ITAR

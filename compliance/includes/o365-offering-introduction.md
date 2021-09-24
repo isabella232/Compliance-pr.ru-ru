@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b42797a1987251ab34dc8ee44e654667992f0ee3
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: dc958775342570cc15a2549bb83e22a2b53db8fe
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259743"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486219"
 ---
 <!-- This file is a part of all Office 365 compliance offering topics. Please coordinate with Robert Mazzoli (robmazz) for any changes.-->
 
@@ -12,6 +12,7 @@ Microsoft Office 365 — это рассчитанная на множество
 
 Этот раздел посвящен следующим облачным средам Office 365.
 
+- **Клиентское программное обеспечение (клиент)**. Коммерческое клиентское программное обеспечение, работающее на устройствах пользователей.
 - **Office 365 (коммерческая)**. Глобальная общедоступная коммерческая облачная служба Office 365.
 - **Облако сообщества Office 365 для государственных организаций (GCC)**. [Облачная служба Office 365 GCC](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc) доступна для государственных организаций США федерального уровня, уровня штатов, местного и племенного уровня, а также для подрядчиков, хранящих или обрабатывающих данные от имени правительства США.
 - **Облако сообщества Office 365 для государственных организаций — высокий уровень (GCC High)**. [Облачная служба Office 365 GCC High](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) разработана в соответствии с элементами управления четвертого уровня, предусмотренными руководством по требованиям к безопасности Министерства обороны (DoD), и поддерживает строго регулируемую информацию федерального значения и данные, относящиеся к обороне. Эта среда используется федеральными учреждениями, предприятиями военно-промышленного комплекса и подрядчиками государственных организаций.

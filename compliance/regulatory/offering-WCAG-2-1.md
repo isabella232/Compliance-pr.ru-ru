@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 3208fab9675c02ec1e7af0824a05f9a062b311b2
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161056"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486436"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Рекомендации по специальным возможностям для веб-контента
 
@@ -62,10 +62,11 @@ ms.locfileid: "59161056"
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Коммерческий сектор** | Excel, Центр администрирования Exchange, Центр администрирования Office 365 (портал), интерфейс входа в Office 365 и Azure AD, клиентский портал Office 365, Центр безопасности и соответствия требованиям Office 365, Office 365 Видео, Office Lens, Office.com, Центр администрирования OneDrive, OneDrive для бизнеса, клиент синхронизации OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
-| **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса, Stream |
-| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, SharePoint Online, Skype для бизнеса |
-| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, SharePoint Online, Skype для бизнеса |
+| **Клиент** | Access, Excel, портал администрирования Office 365 для Android, портал администрирования Office 365 для iOS, средство настройки Office, Office Lens, OneNote, Outlook, PowerPoint, Project, SharePoint, To-Do, Visio, Word |
+| **Коммерческий сектор** | Центр администрирования Exchange, клиентский портал Office 365, Центр безопасности и соответствия требованиям Office 365, Office.com, Центр администрирования OneDrive, OneDrive для бизнеса, клиент синхронизации OneDrive, Orcas, Outlook Groups |
+| **GCC** | Azure Active Directory, диспетчер соответствия требованиям, Delve, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, MyAnalytics, надстройка Office 365 Advanced Compliance, клиентский портал Office 365, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, Skype для бизнеса, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, клиентский портал Office 365, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, PowerApps, Power Automate, Power BI, Skype для бизнеса |
+| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender для Office 365, Microsoft Teams, надстройка Office 365 Advanced Compliance, клиентский портал Office 365, Центр безопасности и соответствия требованиям Office 365, Office Online, Office Pro Plus, OneDrive для бизнеса, Планировщик, Power BI, Skype для бизнеса |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Отчеты Майкрософт по обеспечению доступности
 
