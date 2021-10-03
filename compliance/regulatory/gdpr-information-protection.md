@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: cf5ef95e9504ba2d63a56dc3d4f7d22398d61255
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4153c28a6e82829114abd51169dbdfa3220aa76c
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160931"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050593"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Защита информации в соответствии с Общим регламентом по защите данных (GDPR) при помощи возможностей Microsoft 365
 
@@ -59,7 +59,7 @@ Azure Active Directory и другие компоненты Microsoft 365 пре
 
 - [Схема для обеспечения безопасности в Office 365: приоритеты на первые 30 и 90 дней, а также на большее количество дней.](/microsoft-365/security/office-365-security/security-roadmap) Эта схема включает рекомендации по реализации возможностей. 
 - [Защита от угроз в Office 365.](/microsoft-365/security/office-365-security/protect-against-threats) Сведения о том, какие действия вам доступны в Центре безопасности Microsoft 365.
-- [Защита от угроз в Windows](/windows/security/threat-protection/). Дополнительные сведения о Microsoft Defender для конечной точки и других возможностях в Windows 10.
+- [Защита от угроз в Windows](/windows/security/threat-protection/). Дополнительные сведения о Microsoft Defender для конечной точки и других возможностях в Windows 10 и Windows 11.
 
 ## <a name="learn-more"></a>Подробнее
 
