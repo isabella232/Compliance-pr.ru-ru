@@ -28,10 +28,18 @@
   items:
     - name: Обзор безопасности центра обработки данных
       href: assurance-datacenter-security.md
-    - name: Центр обработки данных TVRA
+    - name: Архитектура и инфраструктура центра обработки данных
+      href: assurance-datacenter-architecture-infrastructure.md
+    - name: Управление рисками центра обработки данных
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: Защита от окружающей среды
+      href: assurance-datacenter-environmental-safeguards.md
+    - name: Безопасность физического доступа
+      href: assurance-datacenter-physical-access-security.md
     - name: 'Уничтожение устройств, содержащих данные'
       href: assurance-data-bearing-device-destruction.md
+    - name: Непрерывность бизнес-процессов и аварийное восстановление
+      href: assurance-datacenter-business-continuity-disaster-recovery.md
     - name: Безопасность цепочки поставок
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Шифрование и управление ключами
