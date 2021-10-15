@@ -36,6 +36,8 @@
       href: assurance-datacenter-environmental-safeguards.md
     - name: Безопасность физического доступа
       href: assurance-datacenter-physical-access-security.md
+    - name: Управление ресурсами
+      href: assurance-datacenter-asset-management.md
     - name: 'Уничтожение устройств, содержащих данные'
       href: assurance-data-bearing-device-destruction.md
     - name: Непрерывность бизнес-процессов и аварийное восстановление

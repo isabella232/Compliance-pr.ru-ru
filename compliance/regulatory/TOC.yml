@@ -328,3 +328,7 @@
   items:
     - name: 'CCPA: вопросы и ответы'
       href: ccpa-faq.yml
+- name: Закон Вирджинии о защите данных потребителей (VCDPA)
+  items:
+    - name: 'VCDPA: вопросы и ответы'
+      href: vcdpa-faq.yml
