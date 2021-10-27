@@ -20,9 +20,9 @@ highlightedContent:
     - title: Сведения о защите данных клиентов корпорацией Майкрософт
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
-    - title: Узнайте о совместной ответственности в облаке
+    - title: Руководство по оценке рисков для Microsoft Cloud
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+      url: /compliance/assurance/assurance-risk-assessment-guide
     - title: Узнайте о Microsoft Compliance Manager
       itemType: learn
       url: /learn/paths/compmgmt/
