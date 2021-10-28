@@ -1,3 +1,5 @@
+- name: Руководство по оценке рисков для Microsoft Cloud
+  href: assurance-risk-assessment-guide.md
 - name: Архитектура
   items:
     - name: Обзор архитектуры
@@ -10,8 +12,6 @@
       href: assurance-microsoft-365-isolation-controls.md
     - name: Безопасность инфраструктуры в Microsoft 365
       href: assurance-securing-microsoft-365-infrastructure.md
-    - name: Общая ответственность
-      href: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Ведение журнала аудита
   items:
     - name: Обзор журнала аудита
@@ -192,6 +192,8 @@
   items:
     - name: Обзор разработки и управления безопасностью
       href: assurance-security-development-and-operation.md
+    - name: Программа соответствия требованиям Microsoft 365
+      href: assurance-microsoft-365-compliance-program.md
     - name: Целостность кода Azure
       href: /azure/security/fundamentals/code-integrity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Мониторинг безопасности
