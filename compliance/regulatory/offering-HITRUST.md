@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e95b5c2b73f6b48cbab40bbc5d8d3aff6375cc48
+ms.sourcegitcommit: 9843c6a0318dfea189b07f9cd80e33c3e8f6d676
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160499"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725666"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Общие рамки безопасности (CSF) для альянса доверия к информации о здоровье (HITRUST)
 
@@ -64,7 +64,7 @@ HITRUST предлагает три степени гарантии или ур�
 
 | **Применимость** | **Затрагиваемые службы** |
 |:------------------|:----------------------|
-| **Коммерческий сектор** | Служба каналов активности, Bing services, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, Office 365 customer Portal, Office Online, Office Service Infrastructure, Office Use Reports, OneDrive для бизнеса, People Card, SharePoint Online, Skype для бизнеса, Windows Ink |
+| **Коммерческий сектор** | Служба каналов активности, службы Bing, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, Office 365 клиентского портала, Office Online, Office Инфраструктура служб, Office отчеты об использовании, OneDrive для бизнеса, карточки людей, SharePoint Online, Skype для бизнеса, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Аудит, отчеты и сертификаты Office 365
 
@@ -93,7 +93,7 @@ HITRUST предлагает три степени гарантии или ур�
 ### <a name="resources"></a>Ресурсы
 
 - [HITRUST Alliance](https://hitrustalliance.net/)
-- [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
+- [HITRUST CSF 9.5](https://hitrustalliance.net/csf-license-agreement/)
 - [Понимание и использование CSF](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [Узнайте больше о программе общей ответственности HITRUST](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 - [Соответствие требованиям в центре управления безопасностью Майкрософт](https://www.microsoft.com/trust-center/compliance/compliance-overview)
