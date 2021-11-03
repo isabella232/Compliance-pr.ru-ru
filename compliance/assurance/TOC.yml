@@ -96,12 +96,10 @@
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Управление учетной записью Microsoft 365
       href: assurance-microsoft-365-account-management.md
-    - name: Технологические элементы управления в Microsoft 365
-      href: assurance-technology-controls.md
+    - name: Управление доступом инженера по обслуживанию Microsoft 365
+      href: assurance-microsoft-365-service-engineer-access-control.md
     - name: Защищенное хранилище в Office 365
       href: /microsoft-365/compliance/customer-lockbox-requests?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Элементы управления доступом к Yammer корпоративный
-      href: assurance-yammer-enterprise-access-controls.md
 - name: Управление инцидентами
   items:
     - name: Обзор управления инцидентами

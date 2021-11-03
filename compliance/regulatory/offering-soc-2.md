@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92fb47f98e60eb655ee68b38cb747a7d2eb9d2ff
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 99144f348b74ffa15752dbd9ec80ff8fbf17e538
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161243"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678446"
 ---
 # <a name="system-and-organization-controls-soc-2-type-2"></a>Системный и организационный контроль 2, тип 2
 
@@ -44,7 +44,7 @@ ms.locfileid: "59161243"
 Веб-службы Майкрософт в области показаны в отчете об аттестации Azure SOC 2 (тип 2):
 
 - Azure (подробные сведения см. в разделе [Предложения по обеспечению соответствия требованиям Microsoft Azure](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/) или отчете об оценке Azure SOC 2 (тип 2))
-- Azure DevOps (см. отдельный отчет по проверке Azure DevOps SOC 2 (тип 2))
+- Azure DevOps (см. отдельный [отчет об аттестации Azure DevOps SOC 2 типа 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3))
 - Dynamics 365 (подробные сведения см. в отчете об аттестации Azure SOC 2 (тип 2))
 - Microsoft 365 Defender
 - Microsoft Cloud App Security (MCAS)
@@ -87,9 +87,9 @@ ms.locfileid: "59161243"
 
 ### <a name="office-365-audit-reports"></a>Отчеты аудита Office 365
 
-- [Отчет SOC 2 (SSAE 18) для Office 365 Core](https://aka.ms/o365SOC-2)
-- [Отчет SOC 2 (T1-SSAE 18, тип I) для микрослужб Office 365](https://aka.ms/o365-MS-SOC-2-type1)
-- [См. связывающие письма и дополнительные отчеты аудита](https://aka.ms/auditreports)
+- [Отчет SOC 2 (SSAE 18) для Office 365 Core](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [Отчет SOC 2 (T1-SSAE 18, тип I) для микрослужб Office 365](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e2dd6942-e70d-4222-8013-960514742f19&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [См. связывающие письма и дополнительные отчеты аудита](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
 
 У вас должна быть существующая подписка или бесплатная пробная учетная запись в Office 365 или [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 для государственных организаций США, чтобы скачивать отчеты об аттестации SOC 1 и SOC 2 и любые промежуточные письменные заверения по мере необходимости.
 
